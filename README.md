@@ -1,6 +1,6 @@
 # GoogleCloudArchitectLabs
 
-### Implement Load Balancing on Compute Engine: Challenge Lab
+### LAB - 1 : Implement Load Balancing on Compute Engine: Challenge Lab
 
 - Challenge scenario
 
