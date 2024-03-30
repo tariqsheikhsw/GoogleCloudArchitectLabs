@@ -1,2 +1,2 @@
-LAB01 : Complete
-LAB02 : WIP
+LAB01 : Complete  
+LAB02 : WIP  
