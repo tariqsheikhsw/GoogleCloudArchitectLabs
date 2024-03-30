@@ -7,12 +7,13 @@ export INSTANCE_NAME=tf-instance-679146
 export VPC_NAME=tf-vpc-250562  
 export ZONE=us-central1-a  
 
+
+
 gcloud auth list
 
 export REGION="${ZONE%-*}"
 
 export PROJECT_ID=$DEVSHELL_PROJECT_ID
-
 
 instances_output=$(gcloud compute instances list --format="value(id)")
 
@@ -43,6 +44,7 @@ touch outputs.tf
 touch variables.tf
 cd
 
+
 cat > variables.tf <<EOF
 
 variable "region" {
@@ -57,6 +59,9 @@ variable "project_id" {
  default = "$PROJECT_ID"
 }
 EOF
+
+
+
 
 cat > main.tf <<EOF
 
@@ -84,11 +89,9 @@ module "instances" {
 
 EOF
 
-
 terraform init 
 
 cd modules/instances/
-
 
 cat > instances.tf <<EOF
 
@@ -135,12 +138,12 @@ EOF
 
 cd ~
 
+
 terraform import module.instances.google_compute_instance.tf-instance-1 $INSTANCE_ID_1
 terraform import module.instances.google_compute_instance.tf-instance-2 $INSTANCE_ID_2
 
 terraform plan
 terraform apply --auto-approve
-
 
 cd modules/storage/
 
@@ -155,6 +158,7 @@ resource "google_storage_bucket" "storage-bucket" {
 EOF
 
 cd ~
+
 
 cat > main.tf <<EOF
 
@@ -187,7 +191,6 @@ EOF
 
 terraform init
 terraform apply --auto-approve
-
 
 cat > main.tf <<EOF
 
@@ -224,6 +227,8 @@ EOF
 
 
 echo "yes" | terraform init
+
+
 
 cd modules/instances/
 
@@ -292,7 +297,9 @@ EOF
 cd ~
 
 terraform init
+
 terraform apply --auto-approve
+
 
 terraform taint module.instances.google_compute_instance.$INSTANCE_NAME
 
@@ -349,7 +356,7 @@ cd ~
 terraform apply --auto-approve
 
 
-
++++
 cat > main.tf <<EOF
 
 terraform {
@@ -411,6 +418,7 @@ EOF
 
 terraform init
 terraform apply --auto-approve
+
 
 cd modules/instances/
 
@@ -479,7 +487,7 @@ module "vpc" {
             subnet_region         = "$REGION"
             subnet_private_access = "true"
             subnet_flow_logs      = "true"
-            description           = "subnet-02"
+            description           = "Please like share & subscribe to quicklab"
         },
     ]
 }
@@ -544,7 +552,7 @@ module "vpc" {
             subnet_region         = "$REGION"
             subnet_private_access = "true"
             subnet_flow_logs      = "true"
-            description           = "subnet-02"
+            description           = "Please like share & subscribe to quicklab"
         },
     ]
 }
@@ -568,5 +576,4 @@ EOF
 
 terraform init
 terraform apply --auto-approve
-
 
