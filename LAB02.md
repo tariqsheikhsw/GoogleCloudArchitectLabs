@@ -1,4 +1,4 @@
-# GoogleCloudArchitectLabs
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/e4ed8dad-9edd-4526-850d-3d7b7fdf458e)# GoogleCloudArchitectLabs
 
 ### LAB - 2 : Build Infrastructure with Terraform on Google Cloud Challenge Lab
 
@@ -6,4 +6,33 @@ export BUCKET_NAME=tf-bucket-789474
 export INSTANCE_NAME=tf-instance-679146  
 export VPC_NAME=tf-vpc-250562  
 export ZONE=us-central1-a  
+
+# Task 1. Create the configuration files
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/5d1ab86a-4fb3-4af6-be5c-c560b43f76cf)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/28fc1b8a-1e8f-4ba5-a076-c957a630ece1)
+
+# Task 2. Import infrastructure
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/cf12f70d-9356-489d-9a9a-7bf5da2c9582)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/1b3efa95-cd68-4a4d-a5e7-c040a9e60de5)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/bbe6006f-d853-4d2b-a971-04f9863814a8)
+
+# Task 3. Configure a remote backend
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/c8f497b6-a24d-4d8c-bed2-73fa400b2c4f)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/97d3c1e1-3c27-429d-9f91-7ba0613a96fc)
+
+# Task 4. Modify and update infrastructure
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/71a441d2-3a1e-471d-a58b-1467ad46d396)
+
+
+
+
+
 
