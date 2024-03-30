@@ -1,5 +1,3 @@
-
-
 gcloud auth list
 
 export REGION="${ZONE%-*}"
@@ -478,7 +476,7 @@ module "vpc" {
             subnet_region         = "$REGION"
             subnet_private_access = "true"
             subnet_flow_logs      = "true"
-            description           = "Please like share & subscribe to quicklab"
+            description           = "subnet-02"
         },
     ]
 }
@@ -543,7 +541,7 @@ module "vpc" {
             subnet_region         = "$REGION"
             subnet_private_access = "true"
             subnet_flow_logs      = "true"
-            description           = "Please like share & subscribe to quicklab"
+            description           = "subnet-02"
         },
     ]
 }
