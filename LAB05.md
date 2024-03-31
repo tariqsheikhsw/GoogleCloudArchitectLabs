@@ -1,9 +1,9 @@
 LAB05 : Set Up an App Dev Environment on Google Cloud Challenge Lab
 
-export USERNAME2=student-03-796a9ed1da1c@qwiklabs.net  
-export ZONE=us-east4-a 
-export TOPIC_NAME=topic-memories-156  
-export FUNCTION_NAME=memories-thumbnail-generator  
+export USERNAME2=student-03-796a9ed1da1c@qwiklabs.net    
+export ZONE=us-east4-a   
+export TOPIC_NAME=topic-memories-156    
+export FUNCTION_NAME=memories-thumbnail-generator    
 
 ![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/27ad96a9-234b-4c13-b09f-9483249619fc)
 
