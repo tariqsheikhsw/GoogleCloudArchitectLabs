@@ -5,3 +5,27 @@ export ZONE=us-central1-a
 
  ![UE5MydlafU0QvN7zdaOLo+VxvETvmuPJh+9kZxQnOzE=](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/a9d87bc9-314c-41e3-9e38-47d166e3400f)
 
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/9811c535-55f2-4d79-b43e-d012c2e708db)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/349d579d-1bcc-41bf-84ff-73ac0b8aa8f1)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/d34a7c5b-9b2f-4450-8b3a-fe4879999c4e)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/083dba2e-4b6b-4e36-b961-974d6c8eee8e)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/cd919249-3b9e-4595-a243-2eaaed7cf9a5)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/7a0b9695-0ea1-46d1-a22d-62eec85151cc)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/85055334-b2ab-4ecb-9ae1-32c5eb68bbee)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/73c7693a-26cf-4340-82ad-a7f1503c5816)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/19105e47-96d0-4f6f-bec7-eedf25ac5402)
+
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/bf0f56a5-48fb-47ad-9fb1-ad89083575cc)
+
+
+
+
