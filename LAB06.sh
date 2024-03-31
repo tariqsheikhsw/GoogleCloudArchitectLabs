@@ -11,18 +11,18 @@ COPY source .
 RUN go install -v
 ENTRYPOINT ["app","-single=true","-port=8080"]
 EOF
-docker build -t <Docker Image>:<Tag Name> .
+docker build -t valkyrie-dev:v0.0.1 .
 cd ..
 cd marking
 ./step1_v2.sh
 
-
+//valkyrie-dev:v0.0.1
 
 
 Task 2:-
 cd ..
 cd valkyrie-app
-docker run -p 8080:8080 <Docker Image>:<Tag Name> &
+docker run -p 8080:8080 valkyrie-dev:v0.0.1 &
 cd ..
 cd marking
 ./step2_v2.sh
@@ -34,27 +34,34 @@ Task 3:-
 cd ..
 cd valkyrie-app
 
-gcloud artifacts repositories create Change_repo \
+gcloud artifacts repositories create valkyrie-docker-repo \
     --repository-format=docker \
-    --location=us-central1 \
-    --description="subcribe to quciklab" \
+    --location=us-east4 \
+    --description="docker repo" \
     --async 
 
-gcloud auth configure-docker us-central1-docker.pkg.dev
+gcloud auth configure-docker us-east4-docker.pkg.dev
 
 docker images
+//Image_ID=12927dd9b3fe
 
-docker tag Image_ID us-central1-docker.pkg.dev/PROJECT-ID/REPOSITORY/<Docker Image>:<Tag Name>
+//LOCATION-docker.pkg.dev/PROJECT-ID/REPOSITORY/IMAGE.
 
-docker push us-central1-docker.pkg.dev/PROJECT-ID/REPOSITORY/<Docker Image>:<Tag Name>
+//docker rmi 12927dd9b3fe -f 
+//docker image prune
+//docker container ls 
+
+docker tag 12927dd9b3fe us-east4-docker.pkg.dev/qwiklabs-gcp-01-882b1b5ef637/valkyrie-docker-repo/valkyrie-dev:v0.0.1
+
+docker push us-east4-docker.pkg.dev/qwiklabs-gcp-01-882b1b5ef637/valkyrie-docker-repo/valkyrie-dev:v0.0.1
 
 
 
 Task 4:-
 
-sed -i s#IMAGE_HERE#us-central1-docker.pkg.dev/PROJECT-ID/REPOSITORY/<Docker Image>:<Tag Name>#g k8s/deployment.yaml
+sed -i s#IMAGE_HERE#us-east4-docker.pkg.dev/qwiklabs-gcp-01-882b1b5ef637/valkyrie-docker-repo/valkyrie-dev:v0.0.1#g k8s/deployment.yaml
 
-gcloud container clusters get-credentials valkyrie-dev --zone us-east1-d
+gcloud container clusters get-credentials valkyrie-dev --zone us-east4-c
 kubectl create -f k8s/deployment.yaml
 kubectl create -f k8s/service.yaml
 
