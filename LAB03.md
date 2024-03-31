@@ -26,6 +26,7 @@ export ZONE=us-central1-a
 
 ![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/bf0f56a5-48fb-47ad-9fb1-ad89083575cc)
 
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/68a52f9b-f06d-4db7-8f45-67094f0b44c7)
 
 
 
