@@ -230,7 +230,7 @@ else
     exit 1
 fi
 
-
+#Task - 8 : 
 
 gcloud monitoring uptime create quicklab \
     --resource-type=uptime-url \
