@@ -16,6 +16,7 @@ LAB12 : GSP303 : Configure Secure RDP using a Windows Bastion Host: Challenge La
 LAB13 : GSP375 : Share Data using Google Data Cloud: Challenge Lab   
 LAB14 : GSP305 : Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab   
 LAB15 : GSP304 : Build and Deploy a Docker Image to a Kubernetes Cluster: Challenge Lab   
+LAB16 : GSP062 : Building a High-throughput VPN   
 
 
 
