@@ -7,7 +7,7 @@ TASK 3/4 :
 
 sudo su -
 
-apt-get update
+apt-get update  
 apt-get install apache2 -y
 
 service --status-all
