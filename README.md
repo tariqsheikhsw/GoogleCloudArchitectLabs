@@ -5,6 +5,7 @@ LAB04 : GSP322 : Build a Secure Google Cloud Network: Challenge Lab
 LAB05 : GSP315 : Set Up an App Dev Environment on Google Cloud Challenge Lab    
 LAB06 : GSP318 :  Deploy Kubernetes Applications on Google Cloud: Challenge Lab 
 LAB07 : GSP101 : Deploy and Troubleshoot a Website: Challenge Lab    
+LAB08 : GSP314 : Set Up a Google Cloud Network: Challenge Lab  
 
 
 
