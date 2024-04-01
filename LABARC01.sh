@@ -1,10 +1,10 @@
 
 
 
-export REGION=
+export REGION=us-east4
+export ZONE=us-east4-a
 
-export ZONE=
-
+gcloud config set project qwiklabs-gcp-00-c092690e7d74
 
 gcloud compute instances create web1 \
 --zone=$ZONE \
