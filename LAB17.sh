@@ -39,8 +39,8 @@ Create an AWS IAM policy for BigQuery:-
     "Version": "2012-10-17"
 }
 
-
-
+//arn:aws:iam::222490974076:role/bigquery-omni-connection
+//BigQuery Google identity 
 
 Add a Trust Relationship to the AWS role:-
 
