@@ -1,4 +1,5 @@
 
+
 SSH (antern-postgresql-vm )
 In the terminal in the new browser window, install the pglogical database extension:
 
