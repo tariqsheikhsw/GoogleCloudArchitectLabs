@@ -28,5 +28,10 @@ NEXT:
 
 LABARC01 : ARC101 : Monitor and Manage Google Cloud Resources: Challenge Lab   
 
+ARCADE : APRIL
+================
+
+GSP101 : Deploy and Troubleshoot a Website: Challenge Lab  
+
 
 
