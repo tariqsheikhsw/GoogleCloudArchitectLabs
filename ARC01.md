@@ -1,3 +1,5 @@
+##GSP101
+
 gcloud config set project qwiklabs-gcp-04-cb0e2b443d06
 
 export INSTANCE_NAME=prd-pln-b73
