@@ -51,10 +51,10 @@ sed -i -- 's/nginx/Google Cloud Platform - '"\$HOSTNAME"'/' /var/www/html/index.
 EOF
 
 
-export INSTANCE_NAME=nucleus-jumphost-426
-export ZONE=europe-west1-b
-export PORT=8080
-export FIREWALL_NAME=grant-tcp-rule-117
+export INSTANCE_NAME=nucleus-jumphost-794
+export ZONE=us-east1-c
+export PORT=8081
+export FIREWALL_NAME=accept-tcp-rule-607
 
 
 export REGION="${ZONE%-*}"
