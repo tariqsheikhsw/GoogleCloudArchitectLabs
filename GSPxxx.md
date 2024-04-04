@@ -1,9 +1,9 @@
 GSPxxx : Creating Cloud SQL Databases 
 
-export ZONE=
+export ZONE=us-central1-a
 
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Creating%20Cloud%20SQL%20Databases/quicklab.sh
+curl -LO raw.githubusercontent.com/GSPxxx.sh
 
-sudo chmod +x quicklab.sh
+sudo chmod +x GSPxxx.sh
 
-./quicklab.sh
+./GSPxxx.sh
