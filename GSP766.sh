@@ -1,70 +1,35 @@
-
-
-
+gcloud auth list
+gcloud config list project
 gsutil -m cp -r gs://spls/gsp766/gke-qwiklab ~
-
 cd ~/gke-qwiklab
-
 gcloud config set compute/zone ${ZONE} && gcloud container clusters get-credentials multi-tenant-cluster
-
 kubectl create namespace team-a && \
 kubectl create namespace team-b
-
 kubectl run app-server --image=centos --namespace=team-a -- sleep infinity && \
 kubectl run app-server --image=centos --namespace=team-b -- sleep infinity
-
 kubectl describe pod app-server --namespace=team-a
-
 kubectl config set-context --current --namespace=team-a
-
-gcloud projects add-iam-policy-binding ${GOOGLE_CLOUD_PROJECT} \
---member=serviceAccount:team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com  \
---role=roles/container.clusterViewer
-
-kubectl create role pod-reader \
---resource=pods --verb=watch --verb=get --verb=list
-
+gcloud projects add-iam-policy-binding ${GOOGLE_CLOUD_PROJECT} --member=serviceAccount:team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com --role=roles/container.clusterViewer
+kubectl create role pod-reader --resource=pods --verb=watch --verb=get --verb=list
 kubectl create -f developer-role.yaml
-
-kubectl create rolebinding team-a-developers \
---role=developer --user=team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
-
+kubectl create rolebinding team-a-developers --role=developer --user=team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
 gcloud iam service-accounts keys create /tmp/key.json --iam-account team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
-
-gcloud auth activate-service-account  --key-file=/tmp/key.json
-
 gcloud container clusters get-credentials multi-tenant-cluster --zone ${ZONE} --project ${GOOGLE_CLOUD_PROJECT}
-
-
-kubectl create quota test-quota \
---hard=count/pods=2,count/services.loadbalancers=1 --namespace=team-a
-
+kubectl create quota test-quota --hard=count/pods=2,count/services.loadbalancers=1 --namespace=team-a
 kubectl run app-server-2 --image=centos --namespace=team-a -- sleep infinity
-
 kubectl run app-server-3 --image=centos --namespace=team-a -- sleep infinity
-
-sleep 20
-
 kubectl get quota test-quota --namespace=team-a -o yaml | \
-  sed 's/count\/pods: "2"/count\/pods: "6"/' | \
-  kubectl apply -f -
-
-
+sed 's/count\/pods: "2"/count\/pods: "6"/' | \
+kubectl apply -f -
 kubectl create -f cpu-mem-quota.yaml
-
 kubectl create -f cpu-mem-demo-pod.yaml --namespace=team-a
-
 kubectl describe quota cpu-mem-quota --namespace=team-a
-
-
 gcloud container clusters \
-  update multi-tenant-cluster --zone ${ZONE} \
-  --resource-usage-bigquery-dataset cluster_dataset
-
+update multi-tenant-cluster --zone ${ZONE} \
+--resource-usage-bigquery-dataset cluster_dataset
 export GCP_BILLING_EXPORT_TABLE_FULL_PATH=${GOOGLE_CLOUD_PROJECT}.billing_dataset.gcp_billing_export_v1_xxxx
 export USAGE_METERING_DATASET_ID=cluster_dataset
 export COST_BREAKDOWN_TABLE_ID=usage_metering_cost_breakdown
-
 export USAGE_METERING_QUERY_TEMPLATE=~/gke-qwiklab/usage_metering_query_template.sql
 export USAGE_METERING_QUERY=cost_breakdown_query.sql
 export USAGE_METERING_START_DATE=2020-10-26
@@ -85,3 +50,17 @@ bq query \
 --display_name="GKE Usage Metering Cost Breakdown Scheduled Query" \
 --replace=true \
 "$(cat $USAGE_METERING_QUERY)"
+
+Create the data source in Looker Studio
+
+    Open the Looker Studio Data Sources page
+
+Perform the lab and video instructions
+
+    Enter the following query in the custom query box.
+
+    Replace [PROJECT-ID] with your Qwiklabs project id:
+
+ SELECT * FROM `[PROJECT-ID].cluster_dataset.usage_metering_cost_breakdown`
+
+    Click CONNECT.
