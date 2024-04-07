@@ -31,6 +31,7 @@ kubectl create rolebinding team-a-developers \
 
 gcloud iam service-accounts keys create /tmp/key.json --iam-account team-a-dev@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
 
+gcloud auth activate-service-account  --key-file=/tmp/key.json
 
 gcloud container clusters get-credentials multi-tenant-cluster --zone ${ZONE} --project ${GOOGLE_CLOUD_PROJECT}
 
