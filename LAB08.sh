@@ -135,21 +135,21 @@ exit
 
 
 
-export VPC_NAME=
+export VPC_NAME=vpc-network-dhuu
 
-export SUBNET1=
+export SUBNET1=subnet-a-dpgy
 
-export REGION1=
+export REGION1=us-west1
 
-export SUBNET2=
+export SUBNET2=subnet-b-0ta7
 
-export REGION2=
+export REGION2=us-east1
 
-export RULE_NAME1=
+export RULE_NAME1=jkyf-firewall-ssh
 
-export RULE_NAME2=
+export RULE_NAME2=dgxq-firewall-rdp
 
-export RULE_NAME3=
+export RULE_NAME3=jgzm-firewall-icmp
 
 
 
