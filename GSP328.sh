@@ -1,21 +1,25 @@
+RECHECK issues 
+
+https://docs.google.com/document/d/1QVXftISP_EHdwpsDO2HwxB82Rc5MhRhk-tqMWR27bxM/edit
+
 gcloud auth list
 gcloud config list project
 
-export PUBLIC_BILLING_SERVICE=
+export PUBLIC_BILLING_SERVICE=public-billing-service-804
 
-export FRONTEND_STAGING_SERVICE=
+export FRONTEND_STAGING_SERVICE=frontend-staging-service-584
 
-export PRIVATE_BILLING_SERVICE=
+export PRIVATE_BILLING_SERVICE=private-billing-service-568
 
-export BILLING_SERVICE_ACCOUNT=
+export BILLING_SERVICE_ACCOUNT=billing-service-sa-961
 
-export BILLING_PROD_SERVICE=
+export BILLING_PROD_SERVICE=billing-prod-service-106
 
-export FRONTEND_SERVICE_ACCOUNT=
+export FRONTEND_SERVICE_ACCOUNT=frontend-service-sa-647
 
-export FRONTEND_PRODUCTION_SERVICE=
+export FRONTEND_PRODUCTION_SERVICE=frontend-prod-service-687
 
-
+gcloud config set run/region us-west1
 
 Task 1. Enable a Public Service
 
