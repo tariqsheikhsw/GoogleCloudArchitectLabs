@@ -1,4 +1,4 @@
-GSPzzz : Configuring an HTTP Load Balancer with Autoscaling 
+GSPzzz : Configuring an HTTP Load Balancer with Autoscaling : PENDING
 
 export ZONE=us-west1-b
 
