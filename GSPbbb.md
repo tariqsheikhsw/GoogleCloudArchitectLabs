@@ -1,6 +1,6 @@
 GSPbbb : Automating the Deployment of Infrastructure Using Terraform
 
-export ZONE=
+export ZONE=us-central1-f
 
 curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSPbbb.sh
 
