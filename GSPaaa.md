@@ -1,4 +1,4 @@
-GSP :  Deploying GKE Autopilot Clusters from Cloud Shell 
+GSPaaa :  Deploying GKE Autopilot Clusters from Cloud Shell 
 
 export REGION=europe-west4
 
