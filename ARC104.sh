@@ -9,9 +9,9 @@ gcloud services enable \
   pubsub.googleapis.com
 
 
-export HTTP_FUNCTION=
-export FUNCTION_NAME=
-export REGION=
+export HTTP_FUNCTION=http-dispatcher
+export FUNCTION_NAME=cs-logger
+export REGION=us-west1
 
 
 
