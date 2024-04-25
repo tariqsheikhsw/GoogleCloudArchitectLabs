@@ -27,4 +27,4 @@ cat app.yaml
 
 gcloud app deploy
 
-
+gcloud app browse
