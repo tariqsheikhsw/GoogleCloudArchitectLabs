@@ -36,37 +36,37 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP089.md
 GSP101 : Deploy and Troubleshoot a Website: Challenge Lab    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP101.md
 
-GSP122 : Google Cloud SDK: Qwik Start - Redhat/Centos
+GSP122 : Google Cloud SDK: Qwik Start - Redhat/Centos  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP122.md
 
-GSP142 : Using OpenTSDB to Monitor Time-Series Data on Cloud Platform
+GSP142 : Using OpenTSDB to Monitor Time-Series Data on Cloud Platform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP142.md
 
-GSP156 : Terraform Fundamentals
+GSP156 : Terraform Fundamentals  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP156.md
 
-GSP178 : Setting up a Private Kubernetes Cluster
+GSP178 : Setting up a Private Kubernetes Cluster  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP178.md
 
-GSP188 : App Dev: Deploying the Application into Kubernetes Engine - Python
+GSP188 : App Dev: Deploying the Application into Kubernetes Engine - Python  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP188.md
 
-GSP190 : IAM Custom Roles
+GSP190 : IAM Custom Roles  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP190.md
 
-GSP196 : Data Analytics SME Academy - Loading Data into Google Cloud SQL
+GSP196 : Data Analytics SME Academy - Loading Data into Google Cloud SQL  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP196.md
 
-GSP211 : Multiple VPC Networks
+GSP211 : Multiple VPC Networks  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP211.md
 
-GSP233 : Deploy Kubernetes Load Balancer Service with Terraform
+GSP233 : Deploy Kubernetes Load Balancer Service with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP233.md
 
-GSP281 : Introduction to SQL for BigQuery and Cloud SQL
+GSP281 : Introduction to SQL for BigQuery and Cloud SQL  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP281.md
 
-GSP297 : Google Cloud Storage - Bucket Lock 
+GSP297 : Google Cloud Storage - Bucket Lock   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP297.md
 
 GSP313 : Implement Load Balancing on Compute Engine: Challenge Lab  
@@ -116,16 +116,16 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP304.md
 GSP062 : Building a High-throughput VPN   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP062.md
 
-GSP1019 : Troubleshooting Data Models in Looker
+GSP1019 : Troubleshooting Data Models in Looker  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1019.md
 
-GSP1075 : Using BigQuery Omni with AWS   
+GSP1075 : Using BigQuery Omni with AWS     
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1075.md
 
-GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build
+GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1077.md
 
-GSP1166 : Explore and Evaluate Models using Model Garden
+GSP1166 : Explore and Evaluate Models using Model Garden  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1166.md
 
 
