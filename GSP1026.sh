@@ -1,9 +1,9 @@
 
 
 
-gcloud beta container clusters create gmp-cluster --num-nodes=1 --zone us-central1-f --enable-managed-prometheus
+gcloud beta container clusters create gmp-cluster --num-nodes=1 --zone us-central1-a --enable-managed-prometheus
 
-gcloud container clusters get-credentials gmp-cluster --zone=us-central1-f
+gcloud container clusters get-credentials gmp-cluster --zone=us-central1-a
 
 kubectl create ns gmp-test
 
@@ -22,7 +22,7 @@ chmod a+x prometheus
 
 export PROJECT_ID=$(gcloud config get-value project)
 
-export ZONE=us-central1-f
+export ZONE=us-central1-a
 
 ./prometheus \
   --config.file=documentation/examples/prometheus.yml --export.label.project-id=$PROJECT_ID --export.label.location=$ZONE 
