@@ -125,7 +125,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP374.md
 
 GSP375 : Share Data using Google Data Cloud: Challenge Lab   
 
-GSP379 :  Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab 
+GSP379 :  Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP379.md
 
 
@@ -135,9 +135,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP460.md
 GSP461 : Bracketology with Google Machine Learning  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP461.md
 
-
-
-GSP474 :  Google Cloud Packet Mirroring with OpenSource IDS 
+GSP474 :  Google Cloud Packet Mirroring with OpenSource IDS   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP474.md
 
 GSP479 : Google Kubernetes Engine Security: Binary Authorization  
@@ -249,7 +247,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPfff.md
 GSPxxx : Creating Cloud SQL Databases  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPxxx.md
 
-GSPyyy : Cloud Audit Logs
+GSPyyy : Cloud Audit Logs  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPyyy.md
 
 GSPzzz : Configuring an HTTP Load Balancer with Autoscaling : PENDING  
