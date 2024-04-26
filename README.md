@@ -69,17 +69,20 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP281.md
 GSP297 : Google Cloud Storage - Bucket Lock   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP297.md
 
+GSP303 : Configure Secure RDP using a Windows Bastion Host: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP303.md
+
+GSP304 : Build and Deploy a Docker Image to a Kubernetes Cluster: Challenge Lab   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP304.md
+
+GSP305 : Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP305.md
+
 GSP313 : Implement Load Balancing on Compute Engine: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP313.md
 
-GSP345 : Build Infrastructure with Terraform on Google Cloud Challenge Lab   
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP345.md
-
-GSP321 : Develop your Google Cloud Network: Challenge Lab  
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP321.md
-
-GSP322 : Build a Secure Google Cloud Network: Challenge Lab    
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP322.md
+GSP314 : Set Up a Google Cloud Network: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP314.md
 
 GSP315 : Set Up an App Dev Environment on Google Cloud Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP315.md
@@ -87,34 +90,127 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP315.md
 GSP318 : Deploy Kubernetes Applications on Google Cloud: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP318.md
 
-
-
-GSP314 : Set Up a Google Cloud Network: Challenge Lab  
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP314.md
-
-GSP343 : Optimize Costs for Google Kubernetes Engine: Challenge Lab     
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP343.md
-
 GSP319 : Build a Website on Google Cloud: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP319.md
+
+GSP321 : Develop your Google Cloud Network: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP321.md
+
+GSP322 : Build a Secure Google Cloud Network: Challenge Lab    
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP322.md
 
 GSP328 : Develop Serverless Applications on Cloud Run: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP328.md
 
-GSP303 : Configure Secure RDP using a Windows Bastion Host: Challenge Lab  
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP303.md
+GSP342 : Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP342.md
+
+GSP343 : Optimize Costs for Google Kubernetes Engine: Challenge Lab     
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP343.md
+
+GSP345 : Build Infrastructure with Terraform on Google Cloud Challenge Lab   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP345.md
+
+GSP354 : Build and Deploy Machine Learning Solutions with Vertex AI: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP354.md
+
+GSP355 : Manage PostgreSQL Databases on Cloud SQL: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP355.md
+
+GSP361 : Build LookML Objects in Looker: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP361.md
+
+GSP374 : Predict Soccer Match Outcomes with BigQuery ML: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP374.md
 
 GSP375 : Share Data using Google Data Cloud: Challenge Lab   
 
+GSP379 :  Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP379.md
 
-GSP305 : Scale Out and Update a Containerized Application on a Kubernetes Cluster: Challenge Lab   
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP305.md
 
-GSP304 : Build and Deploy a Docker Image to a Kubernetes Cluster: Challenge Lab   
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP304.md
+GSP460 : Automating the Deployment of Networks with Terraform  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP460.md
 
-GSP062 : Building a High-throughput VPN   
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP062.md
+GSP461 : Bracketology with Google Machine Learning  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP461.md
+
+
+
+GSP474 :  Google Cloud Packet Mirroring with OpenSource IDS 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP474.md
+
+GSP479 : Google Kubernetes Engine Security: Binary Authorization  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP479.md
+
+GSP483 : Cloud Logging on Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP483.md
+
+GSP510 : Manage Kubernetes in Google Cloud: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP510.md
+
+GSP511 : Build Google Cloud Infrastructure for AWS Professionals: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP511.md
+
+GSP512 : Build Google Cloud Infrastructure for Azure Professionals: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP512.md
+
+GSP513 : Build Custom Processors with Document AI: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP513.md
+
+GSP617 : Using BigQuery and Cloud Logging to Analyze BigQuery Usage  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP617.md
+
+GSP644 : Build a Serverless App with Cloud Run that Creates PDF Files  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP644.md
+
+GSP647 : Configuring IAM Permissions with gcloud  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP647.md
+
+GSP659 : Deploy Your Website on Cloud Run  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP659.md
+
+GSP662 : Hosting a Web App on Google Cloud Using Compute Engine   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP662.md
+
+GSP663 : Deploy, Scale, and Update Your Website on Google Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP663.md
+
+GSP698 : Securing Google Cloud with CFT Scorecard  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP698.md
+
+GSP750 : Infrastructure as Code with Terraform  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP750.md
+
+GSP751 : Interact with Terraform Modules  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP751.md
+
+GSP752 : Managing Terraform State  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP752.md
+
+GSP766 : Managing a GKE Multi-tenant Cluster with Namespaces : RECHECK  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP766.md
+
+GSP767 : Exploring Cost-optimization for GKE Virtual Machines  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP767.md
+
+GSP768 : Understanding and Combining GKE Autoscaling Strategies  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP768.md
+
+GSP769 : GKE Workload Optimization  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP769.md
+
+GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP778.md
+
+GSP814 : Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP814.md
+
+GSP918 : Migrate to Cloud SQL for PostgreSQL using Database Migration Service  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP918.md
+
+GSP946 : Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP946.md
 
 GSP1019 : Troubleshooting Data Models in Looker  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1019.md
@@ -127,6 +223,38 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1077.md
 
 GSP1166 : Explore and Evaluate Models using Model Garden  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1166.md
+
+
+
+### UNNUMBERED LABS 
+
+GSPaaa : Deploying GKE Autopilot Clusters from Cloud Shell  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPaaa.md
+
+GSPbbb : Automating the Deployment of Infrastructure Using Terraform  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPbbb.md
+
+GSPccc : Configuring an HTTP Load Balancer with Autoscaling (Azure)  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPccc.md
+
+GSPddd : Creating Databases in Compute Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPddd.md
+
+GSPeee : Navigate BigQuery  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPeee.md
+
+GCPfff : Using Terraform to Create Clients and Servers  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPfff.md
+
+GSPxxx : Creating Cloud SQL Databases  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPxxx.md
+
+GSPyyy : Cloud Audit Logs
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPyyy.md
+
+GSPzzz : Configuring an HTTP Load Balancer with Autoscaling : PENDING  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSPzzz.md
+
 
 
 
