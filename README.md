@@ -219,6 +219,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1075.md
 GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1077.md
 
+GSP1146 : Develop No-Code Chat Apps with AppSheet  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1146.md
+
 GSP1166 : Explore and Evaluate Models using Model Garden  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1166.md
 
