@@ -1,4 +1,4 @@
-###GSP 
+### GSP 
 
 GSP001 : Creating a Virtual Machine  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP001.md
