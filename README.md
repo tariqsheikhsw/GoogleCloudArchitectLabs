@@ -177,6 +177,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP663.md
 GSP698 : Securing Google Cloud with CFT Scorecard  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP698.md
 
+GSP736 : Debugging Apps on Google Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP736.md
+
 GSP750 : Infrastructure as Code with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP750.md
 
@@ -212,6 +215,12 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP946.md
 
 GSP1019 : Troubleshooting Data Models in Looker  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1019.md
+
+GSP1026 : Collect Metrics from Exporters using the Managed Service for Prometheus  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1026.md
+
+GSP1033 : Securing Compute Engine Applications and Resources using BeyondCorp Enterprise (BCE) : pending  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1033.md
 
 GSP1075 : Using BigQuery Omni with AWS     
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1075.md
