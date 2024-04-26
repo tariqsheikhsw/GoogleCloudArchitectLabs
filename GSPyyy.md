@@ -1,4 +1,4 @@
-GSPYYY :  Cloud Audit Logs 
+GSPyyy :  Cloud Audit Logs 
 
 gsutil mb gs://$DEVSHELL_PROJECT_ID
 
