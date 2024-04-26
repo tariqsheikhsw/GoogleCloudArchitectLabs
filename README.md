@@ -58,58 +58,58 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP101.md
 
 ### ARCADE 
 
-ARC100 : Store, Process, and Manage Data on Google Cloud: Challenge Lab
+ARC100 : Store, Process, and Manage Data on Google Cloud: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC100.md
 
 ARC101 : Monitor and Manage Google Cloud Resources: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC101.md
 
-ARC103 : Analyze BigQuery data in Connected Sheets: Challenge Lab
+ARC103 : Analyze BigQuery data in Connected Sheets: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC103.md
 
-ARC104 : Cloud Functions: 3 Ways: Challenge Lab
+ARC104 : Cloud Functions: 3 Ways: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC104.md
 
-ARC106 : Streaming Analytics into BigQuery: Challenge Lab
+ARC106 : Streaming Analytics into BigQuery: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC106.md
 
-ARC109 : Getting Started with API Gateway: Challenge Lab
+ARC109 : Getting Started with API Gateway: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC109.md
 
-ARC111 : Get Started with Cloud Storage: Challenge Lab
+ARC111 : Get Started with Cloud Storage: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC111.md
 
-ARC113 : Get Started with Pub/Sub: Challenge Lab
+ARC113 : Get Started with Pub/Sub: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC113.md
 
-ARC114 :  Generative AI: Cloud Architect Revision 
+ARC114 :  Generative AI: Cloud Architect Revision   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC114.md
 
-ARC117 : Get Started with Dataplex: Challenge Lab
+ARC117 : Get Started with Dataplex: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC117.md
 
-ARC118 : Get Started with Eventarc: Challenge Lab
+ARC118 : Get Started with Eventarc: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC118.md
 
-ARC124 : Networking Fundamentals on Google Cloud: Challenge Lab   
+ARC124 : Networking Fundamentals on Google Cloud: Challenge Lab     
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC124.md
 
-ARC125 : Use APIs to Work with Cloud Storage: Challenge Lab
+ARC125 : Use APIs to Work with Cloud Storage: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC125.md
 
-ARC130 : Analyze Sentiment with Natural Language API: Challenge Lab
+ARC130 : Analyze Sentiment with Natural Language API: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC130.md
 
-ARC131 : Using the Google Cloud Speech API: Challenge Lab
+ARC131 : Using the Google Cloud Speech API: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC131.md
 
-ARC133 : Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab
+ARC133 : Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC133.md
 
-ARC140 : Arcade Hero: Enter the Inbound Firewall
+ARC140 : Arcade Hero: Enter the Inbound Firewall  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC140.md
 
-ARC141 : Arcade Hero: Enter the Outbound Firewall
+ARC141 : Arcade Hero: Enter the Outbound Firewall  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC141.md
 
 
