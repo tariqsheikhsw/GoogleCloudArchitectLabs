@@ -112,5 +112,28 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC140.md
 ARC141 : Arcade Hero: Enter the Outbound Firewall  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/ARC141.md
 
+### BUILD AWS/AZURE 
+
+Build Google Cloud Infrastructure for AWS Professionals  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Build-Google-Cloud-Infrastructure-for-AWS-Professionals.md
+
+GSP1126 : Configuring IAM Permissions with gcloud - AWS  
+
+GSP1120 : Orchestrating the Cloud with Kubernetes (AWS)  
+
+GSP1122 : Hosting a Web App on Google Cloud Using Compute Engine (AWS)  
+
+GSP511 : Build Google Cloud Infrastructure for AWS Professionals: Challenge Lab  
+
+Build Google Cloud Infrastructure for Azure Professionals  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Build-Google-Cloud-Infrastructure-for-Azure-Professionals.md
+
+GSP1119 : Configuring IAM Permissions with gCloud - Azure  
+
+GSP1121 : Orchestrating the Cloud with Kubernetes (Azure)  
+  
+GSP1123 : Hosting a Web App on Google Cloud Using Compute Engine - Azure  
+
+GSP512 : Build Google Cloud Infrastructure for Azure Professionals: Challenge Lab  
 
 
