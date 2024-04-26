@@ -102,7 +102,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP322.md
 GSP328 : Develop Serverless Applications on Cloud Run: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP328.md
 
-GSP342 : Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab
+GSP342 : Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP342.md
 
 GSP343 : Optimize Costs for Google Kubernetes Engine: Challenge Lab     
@@ -331,6 +331,7 @@ GSP1122 : Hosting a Web App on Google Cloud Using Compute Engine (AWS)
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1122.md
 
 GSP511 : Build Google Cloud Infrastructure for AWS Professionals: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP511.md
 
 Build Google Cloud Infrastructure for Azure Professionals  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Build-Google-Cloud-Infrastructure-for-Azure-Professionals.md
@@ -345,5 +346,5 @@ GSP1123 : Hosting a Web App on Google Cloud Using Compute Engine - Azure
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1123.md
 
 GSP512 : Build Google Cloud Infrastructure for Azure Professionals: Challenge Lab  
-
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP512.md
 
