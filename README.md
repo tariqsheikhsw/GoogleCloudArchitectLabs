@@ -1,5 +1,74 @@
 ###GSP 
 
+GSP001 : Creating a Virtual Machine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP001.md
+
+GSP002 : Getting Started with Cloud Shell and gcloud  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP002.md
+
+GSP007 : Set Up Network and HTTP Load Balancers  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP007.md
+
+GSP016 : Networking 101  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP016.md
+
+GSP021 : Orchestrating the Cloud with Kubernetes  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP021.md
+
+GSP053 : Managing Deployments Using Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP053.md
+
+GSP062 : Building a High-throughput VPN  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP062.md
+
+GSP063 : Classify Text into Categories with the Natural Language API  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP063.md
+
+GSP064 : Cloud IAM: Qwik Start  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP064.md
+
+GSP079 : Getting Started with Cloud KMS  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP079.md
+
+GSP089 : Cloud Monitoring: Qwik Start  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP089.md
+
+GSP101 : Deploy and Troubleshoot a Website: Challenge Lab    
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP101.md
+
+GSP122 : Google Cloud SDK: Qwik Start - Redhat/Centos
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP122.md
+
+GSP142 : Using OpenTSDB to Monitor Time-Series Data on Cloud Platform
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP142.md
+
+GSP156 : Terraform Fundamentals
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP156.md
+
+GSP178 : Setting up a Private Kubernetes Cluster
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP178.md
+
+GSP188 : App Dev: Deploying the Application into Kubernetes Engine - Python
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP188.md
+
+GSP190 : IAM Custom Roles
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP190.md
+
+GSP196 : Data Analytics SME Academy - Loading Data into Google Cloud SQL
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP196.md
+
+GSP211 : Multiple VPC Networks
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP211.md
+
+GSP233 : Deploy Kubernetes Load Balancer Service with Terraform
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP233.md
+
+GSP281 : Introduction to SQL for BigQuery and Cloud SQL
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP281.md
+
+GSP297 : Google Cloud Storage - Bucket Lock 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP297.md
+
 GSP313 : Implement Load Balancing on Compute Engine: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP313.md
 
@@ -18,8 +87,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP315.md
 GSP318 : Deploy Kubernetes Applications on Google Cloud: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP318.md
 
-GSP101 : Deploy and Troubleshoot a Website: Challenge Lab    
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP101.md
+
 
 GSP314 : Set Up a Google Cloud Network: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP314.md
@@ -48,13 +116,23 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP304.md
 GSP062 : Building a High-throughput VPN   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP062.md
 
+GSP1019 : Troubleshooting Data Models in Looker
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1019.md
+
 GSP1075 : Using BigQuery Omni with AWS   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1075.md
 
+GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1077.md
+
+GSP1166 : Explore and Evaluate Models using Model Garden
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1166.md
 
 
-GSP101 : Deploy and Troubleshoot a Website: Challenge Lab  
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP101.md
+
+
+
+
 
 ### ARCADE 
 
@@ -118,10 +196,13 @@ Build Google Cloud Infrastructure for AWS Professionals
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Build-Google-Cloud-Infrastructure-for-AWS-Professionals.md
 
 GSP1126 : Configuring IAM Permissions with gcloud - AWS  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1126.md
 
 GSP1120 : Orchestrating the Cloud with Kubernetes (AWS)  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1120.md
 
 GSP1122 : Hosting a Web App on Google Cloud Using Compute Engine (AWS)  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1122.md
 
 GSP511 : Build Google Cloud Infrastructure for AWS Professionals: Challenge Lab  
 
@@ -129,10 +210,13 @@ Build Google Cloud Infrastructure for Azure Professionals
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Build-Google-Cloud-Infrastructure-for-Azure-Professionals.md
 
 GSP1119 : Configuring IAM Permissions with gCloud - Azure  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1119.md
 
 GSP1121 : Orchestrating the Cloud with Kubernetes (Azure)  
-  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1121.md
+
 GSP1123 : Hosting a Web App on Google Cloud Using Compute Engine - Azure  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP1123.md
 
 GSP512 : Build Google Cloud Infrastructure for Azure Professionals: Challenge Lab  
 
