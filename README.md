@@ -128,6 +128,9 @@ GSP375 : Share Data using Google Data Cloud: Challenge Lab
 GSP379 :  Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP379.md
 
+GSP338 :  Monitor and Log with Google Cloud Operations Suite: Challenge Lab   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP338.md
+
 
 GSP460 : Automating the Deployment of Networks with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP460.md
