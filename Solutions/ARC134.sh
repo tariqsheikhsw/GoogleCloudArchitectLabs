@@ -1,6 +1,6 @@
 PART 0:-  Assigning Values 
 
-export ZONE=
+export ZONE=us-west1-c
 
 export PROJECTID=$(gcloud config get-value project)
 
