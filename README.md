@@ -69,6 +69,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP281.md
 GSP297 : Google Cloud Storage - Bucket Lock   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP297.md
 
+GSP301 : Deploy a Compute Instance with a Remote Startup Script: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP301.md
+
 GSP303 : Configure Secure RDP using a Windows Bastion Host: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/GSP303.md
 
