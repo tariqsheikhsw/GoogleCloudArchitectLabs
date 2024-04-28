@@ -9,7 +9,7 @@ gsutil mb gs://$DEVSHELL_PROJECT_ID
 ZONE="$(gcloud compute instances list --project=$DEVSHELL_PROJECT_ID --format='value(ZONE)' | head -n 1)"
 
 
-wget https://github.com/quiccklabs/Labs_solutions/blob/master/Deploy%20a%20Compute%20Instance%20with%20a%20Remote%20Startup%20Script%20Challenge%20Lab/resources-install-web.sh
+wget https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSP301-resources-install-web.sh
 
 gsutil cp resources-install-web.sh gs://$DEVSHELL_PROJECT_ID
 
