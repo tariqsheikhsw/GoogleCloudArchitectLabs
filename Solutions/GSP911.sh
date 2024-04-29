@@ -1,10 +1,10 @@
-TASK1:-
+### TASK1:-
 
 project_id=Your_Project_ID
 
 gcloud compute networks create vpc-transit --project=$project_id --subnet-mode=custom --mtu=1460 --bgp-routing-mode=global
 
-TASK 2:- 
+### TASK 2:- 
 
 gcloud compute networks create vpc-a --project=$project_id --subnet-mode=custom --mtu=1460 --bgp-routing-mode=regional
 
@@ -16,7 +16,7 @@ gcloud compute networks subnets create vpc-b-sub1-usw2 --project=$project_id --r
 
 
 
-TASK 3:-
+### TASK 3:-
 
 Step 1: Create cloud routers
 
@@ -68,7 +68,7 @@ gcloud compute vpn-gateways create vpc-b-gw1-usw2 \
 
 
 
-TASK 4:-
+### TASK 4:-
 
 gcloud services enable networkconnectivity.googleapis.com 
 
@@ -89,7 +89,7 @@ gcloud alpha network-connectivity spokes create bo2 \
     --region=us-west2
 
 
-TASK 5:- 
+### TASK 5:- 
 
 
 gcloud compute --project=$project_id firewall-rules create fw-a --direction=INGRESS --priority=1000 --network=vpc-a --action=ALLOW --rules=tcp:22,icmp --source-ranges=0.0.0.0/0
