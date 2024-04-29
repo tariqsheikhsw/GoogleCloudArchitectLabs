@@ -68,6 +68,11 @@ gcloud compute vpn-gateways create vpc-b-gw1-usw2 \
    --region=us-east1 
 
 
+Step 3: Create a pair of VPN tunnels between vpc-transit to vpc-a
+//MANUAL
+
+Step 4: Create a pair of VPN tunnels between vpc-transit to vpc-b
+//MANUAL
 
 ### TASK 4:-
 
