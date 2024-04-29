@@ -143,6 +143,8 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP338 :  Monitor and Log with Google Cloud Operations Suite: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP338.md
 
+GSP393 : CI/CD on Google Cloud: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP393.md
 
 GSP460 : Automating the Deployment of Networks with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP460.md
@@ -327,6 +329,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/AR
 
 ARC118 : Get Started with Eventarc: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC118.md
+
+ARC119 :  Create a Secure Data Lake on Cloud Storage: Challenge Lab   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC119.md
 
 ARC124 : Networking Fundamentals on Google Cloud: Challenge Lab     
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC124.md
