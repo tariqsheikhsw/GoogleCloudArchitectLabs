@@ -100,11 +100,9 @@ gcloud compute --project=$project_id firewall-rules create fw-b --direction=INGR
 
 
 
-gcloud compute instances create vpc-a-vm-1 --project=$project_id --zone=us-west1-c --machine-type=n1-standard-1 --network-interface=network-tier=PREMIUM,subnet=vpc-a-sub1-use4 --metadata=enable-oslogin=true --maintenance-policy=MIGRATE  --provisioning-model=STANDARD  --create-disk=auto-delete=yes,boot=yes,device-name=vpc-a-vm-1,image=projects/debian-cloud/global/images/debian-10-buster-v20221206,mode=rw,size=10,type=projects/$project_id/zones/us-east4-c/diskTypes/pd-balanced --no-shielded-secure-boot --no-shielded-vtpm --no-shielded-integrity-monitoring --reservation-affinity=any
+gcloud compute instances create vpc-a-vm-1 --project=$project_id --zone=us-west1-c --machine-type=e2-medium --network-interface=network-tier=PREMIUM,subnet=vpc-a-sub1-use4 --metadata=enable-oslogin=true --maintenance-policy=MIGRATE  --provisioning-model=STANDARD  --create-disk=auto-delete=yes,boot=yes,device-name=vpc-a-vm-1,image=projects/debian-cloud/global/images/debian-10-buster-v20221206,mode=rw,size=10,type=projects/$project_id/zones/us-west1-c/diskTypes/pd-balanced --no-shielded-secure-boot --no-shielded-vtpm --no-shielded-integrity-monitoring --reservation-affinity=any
 
-
-gcloud compute instances create vpc-b-vm-1 --project=$project_id --zone=us-east1-c --machine-type=n1-standard-1 --network-interface=network-tier=PREMIUM,subnet=vpc-b-sub1-usw2 --metadata=enable-oslogin=true --maintenance-policy=MIGRATE --provisioning-model=STANDARD  --create-disk=auto-delete=yes,boot=yes,device-name=vpc-b-vm-1,image=projects/debian-cloud/global/images/debian-10-buster-v20221206,mode=rw,size=10,type=projects/$project_id/zones/us-west2-c/diskTypes/pd-balanced --no-shielded-secure-boot --shielded-vtpm --shielded-integrity-monitoring --reservation-affinity=any
-
+gcloud compute instances create vpc-b-vm-1 --project=$project_id --zone=us-east1-c --machine-type=e2-medium --network-interface=network-tier=PREMIUM,subnet=vpc-b-sub1-usw2 --metadata=enable-oslogin=true --maintenance-policy=MIGRATE --provisioning-model=STANDARD  --create-disk=auto-delete=yes,boot=yes,device-name=vpc-b-vm-1,image=projects/debian-cloud/global/images/debian-10-buster-v20221206,mode=rw,size=10,type=projects/$project_id/zones/us-east1-c/diskTypes/pd-balanced --no-shielded-secure-boot --shielded-vtpm --shielded-integrity-monitoring --reservation-affinity=any
 
 
 
