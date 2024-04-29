@@ -195,7 +195,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP698 : Securing Google Cloud with CFT Scorecard  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP698.md
 
-GSP698 : Migrating a Monolithic Website to Microservices on Google Kubernetes Engine  
+GSP699 : Migrating a Monolithic Website to Microservices on Google Kubernetes Engine  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP699.md
 
 GSP736 : Debugging Apps on Google Kubernetes Engine  
