@@ -6,6 +6,12 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP002 : Getting Started with Cloud Shell and gcloud  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP002.md
 
+GSP005 : Hello Node Kubernetes  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP005.md
+
+GSP015 : Running a Containerized App on Google Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP015.md
+
 GSP007 : Set Up Network and HTTP Load Balancers  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP007.md
 
@@ -59,6 +65,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 
 GSP211 : Multiple VPC Networks  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP211.md
+
+GSP213 : VPC Networks - Controlling Access  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP213.md
 
 GSP233 : Deploy Kubernetes Load Balancer Service with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP233.md
@@ -165,6 +174,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP617 : Using BigQuery and Cloud Logging to Analyze BigQuery Usage  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP617.md
 
+GSP619 : VPC Networking: Cloud HA-VPN
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP619.md
+
 GSP644 : Build a Serverless App with Cloud Run that Creates PDF Files  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP644.md
 
@@ -182,6 +194,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 
 GSP698 : Securing Google Cloud with CFT Scorecard  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP698.md
+
+GSP698 : Migrating a Monolithic Website to Microservices on Google Kubernetes Engine  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP699.md
 
 GSP736 : Debugging Apps on Google Kubernetes Engine  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP736.md
