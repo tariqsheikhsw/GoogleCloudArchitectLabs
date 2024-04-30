@@ -2,7 +2,7 @@ GSPbbb : Automating the Deployment of Infrastructure Using Terraform
 
 export ZONE=us-central1-f
 
-curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSPbbb.sh
+curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPbbb.sh
 
 sudo chmod +x GSPbbb.sh
 
