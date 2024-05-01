@@ -1,4 +1,3 @@
-export REGION=us-east1
 
 export PROJECT_ID=$(gcloud config get-value project)
 export PROJECT_NUMBER=$(gcloud projects describe $PROJECT_ID \
