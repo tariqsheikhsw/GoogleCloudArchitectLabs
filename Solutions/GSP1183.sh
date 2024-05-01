@@ -15,10 +15,10 @@ gcloud services enable \
 
 gcloud artifacts repositories create artifact-scanning-repo \
   --repository-format=docker \
-  --location="REGION" \
+  --location="$REGION" \
   --description="Docker repository"
 
-gcloud auth configure-docker "REGION"-docker.pkg.dev
+gcloud auth configure-docker "$REGION"-docker.pkg.dev
 
 mkdir vuln-scan && cd vuln-scan
 
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 EOF
 
 
-gcloud builds submit . -t "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+gcloud builds submit . -t "$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 ### Task 2
 
@@ -144,7 +144,7 @@ gcloud container binauthz attestors list
 
 ### TASK4
 
-CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:latest \
     --format='get(image_summary.digest)')
@@ -165,7 +165,7 @@ gcloud container binauthz attestations list \
    --attestor=$ATTESTOR_ID --attestor-project=${PROJECT_ID}
 
 gcloud beta container clusters create binauthz \
-    --zone "ZONE"  \
+    --zone "$ZONE"  \
     --binauthz-evaluation-mode=PROJECT_SINGLETON_POLICY_ENFORCE
 
 gcloud projects add-iam-policy-binding ${PROJECT_ID} \
@@ -243,7 +243,7 @@ steps:
 # build
 - id: "build"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '.']
+  args: ['build', '-t', '"$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '.']
   waitFor: ['-']
 
 # additional CICD checks (not shown)
@@ -251,13 +251,13 @@ steps:
 #Retag
 - id: "retag"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['tag',  '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
+  args: ['tag',  '"$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '"$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
 
 
 #pushing to artifact registry
 - id: "push"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['push',  '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
+  args: ['push',  '"$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
 
 
 #Sign the image only if the previous severity check passes
@@ -265,7 +265,7 @@ steps:
   name: 'gcr.io/${PROJECT_ID}/binauthz-attestation:latest'
   args:
     - '--artifact-url'
-    - '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good'
+    - '"$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good'
     - '--attestor'
     - 'projects/${PROJECT_ID}/attestors/$ATTESTOR_ID'
     - '--keyversion'
@@ -274,14 +274,14 @@ steps:
 
 
 images:
-  - "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good
+  - "$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good
 EOF
 
 gcloud builds submit
 
 ### TASK7
 
-COMPUTE_ZONE="REGION"
+COMPUTE_ZONE="$REGION"
 
 cat > binauth_policy.yaml << EOM
 defaultAdmissionRule:
@@ -301,7 +301,7 @@ EOM
 
 gcloud beta container binauthz policy import binauth_policy.yaml
 
-CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:good \
     --format='get(image_summary.digest)')
@@ -348,11 +348,11 @@ kubectl apply -f deploy.yaml
 
 ### TASK8
 
-docker build -t "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad .
+docker build -t "$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad .
 
-docker push "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad
+docker push "$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad
 
-CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="$REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:bad \
     --format='get(image_summary.digest)')
