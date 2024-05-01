@@ -165,9 +165,8 @@ gcloud container binauthz attestations list \
    --attestor=$ATTESTOR_ID --attestor-project=${PROJECT_ID}
 
 gcloud beta container clusters create binauthz \
-    --zone us-east1-d  \
+    --zone "ZONE"  \
     --binauthz-evaluation-mode=PROJECT_SINGLETON_POLICY_ENFORCE
-
 
 gcloud projects add-iam-policy-binding ${PROJECT_ID} \
         --member="serviceAccount:${PROJECT_NUMBER}@cloudbuild.gserviceaccount.com" \
