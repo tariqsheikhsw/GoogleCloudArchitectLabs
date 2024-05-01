@@ -1,4 +1,4 @@
-
+### Task 1
 export PROJECT_ID=$(gcloud config get-value project)
 export PROJECT_NUMBER=$(gcloud projects describe $PROJECT_ID \
     --format='value(projectNumber)')
@@ -53,8 +53,8 @@ if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
 EOF
 
-gcloud builds submit . -t us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
+gcloud builds submit . -t "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 
 cat > ./vulnz_note.json << EOM
