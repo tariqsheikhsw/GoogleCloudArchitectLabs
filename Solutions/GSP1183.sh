@@ -56,6 +56,7 @@ EOF
 
 gcloud builds submit . -t "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
+### Task 2
 
 cat > ./vulnz_note.json << EOM
 {
@@ -117,6 +118,7 @@ curl -X POST  \
     "https://containeranalysis.googleapis.com/v1/projects/${PROJECT_ID}/notes/${NOTE_ID}:setIamPolicy"
 
 
+### Task 3
 
 KEY_LOCATION=global
 KEYRING=binauthz-keys
@@ -140,12 +142,14 @@ gcloud beta container binauthz attestors public-keys add  \
 
 gcloud container binauthz attestors list
 
+### TASK4
 
-
-CONTAINER_PATH=us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:latest \
     --format='get(image_summary.digest)')
+
+### TASK5
 
 gcloud beta container binauthz attestations sign-and-create  \
     --artifact-url="${CONTAINER_PATH}@${DIGEST}" \
@@ -159,7 +163,6 @@ gcloud beta container binauthz attestations sign-and-create  \
 
 gcloud container binauthz attestations list \
    --attestor=$ATTESTOR_ID --attestor-project=${PROJECT_ID}
-
 
 gcloud beta container clusters create binauthz \
     --zone us-east1-d  \
@@ -182,12 +185,13 @@ gcloud container binauthz policy export  > policy.yaml
 
 //edit policy.yaml
 
+<<policydeny
 globalPolicyEvaluationMode: ENABLE
 defaultAdmissionRule:
   evaluationMode: ALWAYS_DENY
   enforcementMode: ENFORCED_BLOCK_AND_AUDIT_LOG
 name: projects/PROJECT_ID/policy
-
+policydeny
 
 gcloud container binauthz policy import policy.yaml
 
@@ -195,6 +199,7 @@ kubectl run hello-server --image gcr.io/google-samples/hello-app:1.0 --port 8080
 
 //edit policy.yaml
 
+<<policyallow
 globalPolicyEvaluationMode: ENABLE
 defaultAdmissionRule:
   evaluationMode: ALWAYS_ALLOW
@@ -202,9 +207,9 @@ defaultAdmissionRule:
 name: projects/PROJECT_ID/policy
 
 gcloud container binauthz policy import policy.yaml
+policyallow
 
-
-
+### TASK6
 
 gcloud projects add-iam-policy-binding ${PROJECT_ID} \
   --member serviceAccount:${PROJECT_NUMBER}@cloudbuild.gserviceaccount.com \
@@ -239,7 +244,7 @@ steps:
 # build
 - id: "build"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '.']
+  args: ['build', '-t', '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '.']
   waitFor: ['-']
 
 # additional CICD checks (not shown)
@@ -247,13 +252,13 @@ steps:
 #Retag
 - id: "retag"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['tag',  'us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', 'us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
+  args: ['tag',  '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image', '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
 
 
 #pushing to artifact registry
 - id: "push"
   name: 'gcr.io/cloud-builders/docker'
-  args: ['push',  'us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
+  args: ['push',  '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good']
 
 
 #Sign the image only if the previous severity check passes
@@ -261,7 +266,7 @@ steps:
   name: 'gcr.io/${PROJECT_ID}/binauthz-attestation:latest'
   args:
     - '--artifact-url'
-    - 'us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good'
+    - '"REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good'
     - '--attestor'
     - 'projects/${PROJECT_ID}/attestors/$ATTESTOR_ID'
     - '--keyversion'
@@ -270,13 +275,14 @@ steps:
 
 
 images:
-  - us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good
+  - "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:good
 EOF
 
 gcloud builds submit
 
+### TASK7
 
-COMPUTE_ZONE=us-east1
+COMPUTE_ZONE="REGION"
 
 cat > binauth_policy.yaml << EOM
 defaultAdmissionRule:
@@ -296,7 +302,7 @@ EOM
 
 gcloud beta container binauthz policy import binauth_policy.yaml
 
-CONTAINER_PATH=us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:good \
     --format='get(image_summary.digest)')
@@ -341,12 +347,13 @@ EOM
 
 kubectl apply -f deploy.yaml
 
+### TASK8
 
-docker build -t us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad .
+docker build -t "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad .
 
-docker push us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad
+docker push "REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image:bad
 
-CONTAINER_PATH=us-east1-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
+CONTAINER_PATH="REGION"-docker.pkg.dev/${PROJECT_ID}/artifact-scanning-repo/sample-image
 
 DIGEST=$(gcloud container images describe ${CONTAINER_PATH}:bad \
     --format='get(image_summary.digest)')
