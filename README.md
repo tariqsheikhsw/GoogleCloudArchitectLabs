@@ -48,7 +48,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP122 : Google Cloud SDK: Qwik Start - Redhat/Centos  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP122.md
 
-GSP126 : Using the Natural Language API from Google Docs 
+GSP126 : Using the Natural Language API from Google Docs   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP126.md
 
 GSP142 : Using OpenTSDB to Monitor Time-Series Data on Cloud Platform  
@@ -138,7 +138,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP361 : Build LookML Objects in Looker: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP361.md
 
-GSP365 :  Manage Data Models in Looker: Challenge Lab 
+GSP365 :  Manage Data Models in Looker: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP365.md
 
 GSP374 : Predict Soccer Match Outcomes with BigQuery ML: Challenge Lab  
@@ -155,7 +155,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP393 : CI/CD on Google Cloud: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP393.md
 
-GSP410 :  Creating Permanent Tables and Access-Controlled Views in BigQuery 
+GSP410 :  Creating Permanent Tables and Access-Controlled Views in BigQuery   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP410.md
 
 GSP414 :  Creating Date-Partitioned Tables in BigQuery   
@@ -191,7 +191,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP617 : Using BigQuery and Cloud Logging to Analyze BigQuery Usage  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP617.md
 
-GSP619 : VPC Networking: Cloud HA-VPN
+GSP619 : VPC Networking: Cloud HA-VPN  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP619.md
 
 GSP644 : Build a Serverless App with Cloud Run that Creates PDF Files  
@@ -239,7 +239,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP769 : GKE Workload Optimization  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP769.md
 
-GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh  
+GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP778.md
 
 GSP787 :  Derive Insights from BigQuery Data: Challenge Lab 
@@ -248,7 +248,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP814 : Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP814.md
 
-GSP848 :  BigQuery Soccer Data Ingestion 
+GSP848 :  BigQuery Soccer Data Ingestion   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP848.md
 
 GSP849 :  BigQuery Soccer Data Analysis 
