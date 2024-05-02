@@ -33,6 +33,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP064 : Cloud IAM: Qwik Start  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP064.md
 
+GSP072 :  BigQuery: Qwik Start - Console  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP072.md
+
 GSP079 : Getting Started with Cloud KMS  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP079.md
 
@@ -44,6 +47,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 
 GSP122 : Google Cloud SDK: Qwik Start - Redhat/Centos  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP122.md
+
+GSP126 : Using the Natural Language API from Google Docs 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP126.md
 
 GSP142 : Using OpenTSDB to Monitor Time-Series Data on Cloud Platform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP142.md
@@ -132,6 +138,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP361 : Build LookML Objects in Looker: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP361.md
 
+GSP365 :  Manage Data Models in Looker: Challenge Lab 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP365.md
+
 GSP374 : Predict Soccer Match Outcomes with BigQuery ML: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP374.md
 
@@ -145,6 +154,12 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 
 GSP393 : CI/CD on Google Cloud: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP393.md
+
+GSP410 :  Creating Permanent Tables and Access-Controlled Views in BigQuery 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP410.md
+
+GSP414 :  Creating Date-Partitioned Tables in BigQuery   
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP414.md
 
 GSP460 : Automating the Deployment of Networks with Terraform  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP460.md
@@ -227,8 +242,20 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP778.md
 
+GSP787 :  Derive Insights from BigQuery Data: Challenge Lab 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP787.md
+
 GSP814 : Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP814.md
+
+GSP848 :  BigQuery Soccer Data Ingestion 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP848.md
+
+GSP849 :  BigQuery Soccer Data Analysis 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP849.md
+
+GSP851 :  BigQuery Machine Learning using Soccer Data 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP851.md
 
 GSP918 : Migrate to Cloud SQL for PostgreSQL using Database Migration Service  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP918.md
@@ -257,7 +284,8 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP1166 : Explore and Evaluate Models using Model Garden  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1166.md
 
-
+GSP1183 :  Gating Deployments with Binary Authorization 
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1183.md
 
 ### UNNUMBERED LABS 
 
