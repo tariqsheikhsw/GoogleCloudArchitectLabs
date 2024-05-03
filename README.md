@@ -188,6 +188,12 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP513 : Build Custom Processors with Document AI: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP513.md
 
+GSP517 : Develop GenAI Apps with Gemini and Streamlit: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP517.md
+
+GSP519 : Prompt Design in Vertex AI Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP519.md
+
 GSP617 : Using BigQuery and Cloud Logging to Analyze BigQuery Usage  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP617.md
 
@@ -239,10 +245,10 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP769 : GKE Workload Optimization  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP769.md
 
-GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh    
+GSP778 : Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh      
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP778.md
 
-GSP787 :  Derive Insights from BigQuery Data: Challenge Lab 
+GSP787 :  Derive Insights from BigQuery Data: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP787.md
 
 GSP814 : Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors  
@@ -263,7 +269,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP946 : Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP946.md
 
-GSP1019 : Troubleshooting Data Models in Looker  
+GSP1019 : Troubleshooting Data Models in Looker    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1019.md
 
 GSP1026 : Collect Metrics from Exporters using the Managed Service for Prometheus  
@@ -278,13 +284,13 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1077.md
 
-GSP1146 : Develop No-Code Chat Apps with AppSheet  
+GSP1146 : Develop No-Code Chat Apps with AppSheet    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1146.md
 
-GSP1166 : Explore and Evaluate Models using Model Garden  
+GSP1166 : Explore and Evaluate Models using Model Garden    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1166.md
 
-GSP1183 :  Gating Deployments with Binary Authorization 
+GSP1183 :  Gating Deployments with Binary Authorization   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1183.md
 
 ### UNNUMBERED LABS 
