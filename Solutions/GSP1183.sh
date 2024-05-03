@@ -70,10 +70,10 @@ while true; do
 
     #   # Submit the build
     if [ $? -eq 0 ]; then
-        echo "Build submission successful. please like and subscribe to techcps (https://www.youtube.com/@techcps)."
+        echo "Build submission successful."
         break
     else
-        echo "Error: Submit the build is processing. (https://www.youtube.com/@techcps)."
+        echo "Error: Submit the build is processing."
     fi
     sleep 30
 done
