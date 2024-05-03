@@ -257,10 +257,10 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP848 :  BigQuery Soccer Data Ingestion   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP848.md
 
-GSP849 :  BigQuery Soccer Data Analysis 
+GSP849 :  BigQuery Soccer Data Analysis   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP849.md
 
-GSP851 :  BigQuery Machine Learning using Soccer Data 
+GSP851 :  BigQuery Machine Learning using Soccer Data   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP851.md
 
 GSP918 : Migrate to Cloud SQL for PostgreSQL using Database Migration Service  
