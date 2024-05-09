@@ -40,7 +40,7 @@ gsutil cp -r gs://spls/gsp330/sample-app/* sample-app
 git init
 cd sample-app/
 git add .
-git commit -m "Subscribe to techcps" 
+git commit -m "committed successfully" 
 git push -u origin master
 
 
@@ -62,7 +62,7 @@ gcloud builds submit --tag="${REGION}-docker.pkg.dev/${PROJECT_ID}/$REPO/hello-c
 
 
 git add .
-git commit -m "Subscribe to techcps" 
+git commit -m "committed successfully" 
 git push -u origin dev
 
 
@@ -71,7 +71,7 @@ git checkout master
 
 
 git add .
-git commit -m "Subscribe to techcps" 
+git commit -m "committed successfully" 
 git push -u origin master
 
 
@@ -86,7 +86,7 @@ git checkout dev
 
 
 git add .
-git commit -m "Subscribe to techcps" 
+git commit -m "committed successfully" 
 git push -u origin dev
 
 
@@ -95,7 +95,7 @@ git checkout master
 
 
 git add .
-git commit -m "Subscribe to techcps" 
+git commit -m "committed successfully" 
 git push -u origin master
 
 
