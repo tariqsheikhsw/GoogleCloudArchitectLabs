@@ -2,9 +2,9 @@
 
 
 
-export PROJECT_ID=qwiklabs-gcp-00-372344c5fc70
+export PROJECT_ID=qwiklabs-gcp-03-f228bcb69ff3
 export CLUSTER_NAME=hello-cluster
-export ZONE=europe-west4-a
+export ZONE=europe-west4-b
 export REGION=europe-west4
 export REPO=my-repository 
 
