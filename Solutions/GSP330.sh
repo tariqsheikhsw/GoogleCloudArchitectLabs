@@ -6,7 +6,7 @@ export PROJECT_ID=qwiklabs-gcp-00-372344c5fc70
 export CLUSTER_NAME=hello-cluster
 export ZONE=europe-west4-a
 export REGION=europe-west4
-export REPO=sample-app
+export REPO=my-repository 
 
 gcloud artifacts repositories create $REPO \
     --repository-format=docker \
