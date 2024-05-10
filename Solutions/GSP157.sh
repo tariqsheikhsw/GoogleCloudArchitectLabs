@@ -114,7 +114,7 @@ gcloud compute target-http-proxies create http-lb-proxy \
 
 gcloud compute addresses list
 
-    gcloud compute forwarding-rules create http-cr-rule \
+gcloud compute forwarding-rules create http-cr-rule \
     --address [LB_IP_ADDRESS] \
     --global \
     --target-http-proxy http-lb-proxy \
