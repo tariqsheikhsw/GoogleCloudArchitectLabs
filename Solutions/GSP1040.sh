@@ -1,6 +1,5 @@
 
 
-
 export PROJECT_ID=$(gcloud config get-value project)
 
 bq mk --connection --location=US --project_id=$PROJECT_ID --connection_type=CLOUD_RESOURCE my-connection
