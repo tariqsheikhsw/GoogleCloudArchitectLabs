@@ -114,8 +114,16 @@ gcloud compute target-http-proxies create http-lb-proxy \
 
 gcloud compute addresses list
 
-gcloud compute forwarding-rules create http-cr-rule \
+//gcloud compute forwarding-rules create http-cr-rule \
     --address [LB_IP_ADDRESS] \
+    --global \
+    --target-http-proxy http-lb-proxy \
+    --ports 80
+
+//Replace LB_IP_ADDRESS with 34.49.79.49
+
+gcloud compute forwarding-rules create http-cr-rule \
+    --address 34.49.79.49 \
     --global \
     --target-http-proxy http-lb-proxy \
     --ports 80
