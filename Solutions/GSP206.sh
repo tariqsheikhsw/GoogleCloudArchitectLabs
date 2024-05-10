@@ -12,9 +12,10 @@ wget https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/ma
 terraform init 
 
 echo $DEVSHELL_PROJECT_ID | terraform plan 
+//terraform plan -out=tfplan -var 'project=qwiklabs-gcp-00-09d6d3a86cef'
 
 echo $DEVSHELL_PROJECT_ID | terraform apply -auto-approve
-
+//terraform apply tfplan
 
 EXTERNAL_IP=$(terraform output | grep load-balancer-ip | cut -d = -f2 | xargs echo -n)
 echo http://${EXTERNAL_IP}
