@@ -152,7 +152,7 @@ while true; do
         echo "Server is serving requests."
         break  
     else
-        echo "Server is not ready yet. kindly Wait meanwhile you can like share and subscribe to quicklab..."
+        echo "Server is not ready yet. kindly Wait..."
         sleep 5  
     fi
 done
