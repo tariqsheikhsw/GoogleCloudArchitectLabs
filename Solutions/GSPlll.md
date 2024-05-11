@@ -1,5 +1,16 @@
 ### GSPlll :  Implementing Cloud SQL (Azure) 
 
+Working Solution :
+
+```
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPlll.sh
+
+sudo chmod +x GSPlll.sh
+
+./GSPlll.sh
+```
+
+
 ```
 export ZONE=us-east1-b
 export REGION=us-east1
@@ -12,9 +23,9 @@ export REGION=us-east1
 ```
 
 ```
-curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPlll.sh
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPlll-old.sh
 
-sudo chmod +x GSPlll.sh
+sudo chmod +x GSPlll-old.sh
 
-./GSPlll.sh
+./GSPlll-old.sh
 ```
