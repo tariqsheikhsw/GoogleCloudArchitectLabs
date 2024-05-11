@@ -1,6 +1,8 @@
 
 
-export PROJECT_ID=YOUR_PROJECT_ID
+#export PROJECT_ID=<YOUR_PROJECT_ID>
+
+export PROJECT_ID=qwiklabs-gcp-02-6c7020a11e3d
 
 gcloud compute --project=$PROJECT_ID firewall-rules create default-allow-http --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:80 --source-ranges=0.0.0.0/0 --target-tags=http-server
 
