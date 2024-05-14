@@ -22,6 +22,9 @@ Changes to Outputs:
 │ 
 │ Inappropriate value for attribute "secondary_ip_range": element 0: attribute "reserved_internal_range" is required.
 
+//possibly a bug 
+
+https://github.com/hashicorp/terraform-provider-google/issues/18115
 
 
 export PROJECT="$DEVSHELL_PROJECT_ID"
