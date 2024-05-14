@@ -1,4 +1,4 @@
-//Some issues - RECHECK  (Work in Progress)
+//Some issues Task5 onwards - RECHECK  (Work in Progress)
 
 Changes to Outputs:
   + network_name = "my-custom-network"
@@ -79,16 +79,7 @@ terraform apply
 
 terraform show
 
-//adding subnet
-    {
-      subnet_name   = "my-third-subnet"
-      subnet_ip     = "10.10.30.0/24"
-      subnet_region = "us-east4"
-    },
-
-//add secondary range (can be empty)
-
-   my-third-subnet = []
+//Task5 onwards ISSUE
 
 
 
