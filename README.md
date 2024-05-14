@@ -1,4 +1,4 @@
-## GCP CHALLENGE LABS
+## GCP LABS
 
 
 
