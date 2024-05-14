@@ -4,13 +4,13 @@
 
 |  LAB_NAME |GOOGLE SIKLL BUILDER LAB LINK | STEP BY STEP INSTRUCTIONS |
 | --------------- | --------------- | --------------- |
-| Create and Manage Cloud Resources: Challenge Lab | GSB | [Link to Create and Manage Cloud Resources: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Create%20and%20Manage%20Cloud%20Resources%20Challenge%20Lab.md) |
-| Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab | GSB |[Link to Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab.md)  |
-| Build and Secure Networks in Google Cloud: Challenge Lab | GSB |[Link to Build and Secure Networks in Google Cloud: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Build%20and%20Secure%20Networks%20in%20Google%20Cloud:%20Challenge%20Lab.md) |
-| Deploy to Kubernetes in Google Cloud: Challenge Lab | GSB |[Link to Deploy to Kubernetes in Google Cloud: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Deploy%20to%20Kubernetes%20in%20Google%20Cloud:%20Challenge%20Lab.md) |
-|Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab | GSB |[Link to Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud:%20Challenge%20Lab.md) |
-|Implement DevOps in Google Cloud: Challenge Lab | GSB |[Link to Implement DevOps in Google Cloud: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Implement%20DevOps%20in%20Google%20Cloud.md) |
-|Google Cloud Essential Skills: Challenge Lab | GSB |[Link to Google Cloud Essential Skills: Challenge Lab](https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Google%20Cloud%20Essential%20Skills:%20Challenge%20Lab.md) |
+| Create and Manage Cloud Resources: Challenge Lab | GSB | [Link to Create and Manage Cloud Resources: Challenge Lab](xyz.md) |
+| Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab | GSB |[Link to Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](xyz.md)  |
+| Build and Secure Networks in Google Cloud: Challenge Lab | GSB |[Link to Build and Secure Networks in Google Cloud: Challenge Lab](xyz.md) |
+| Deploy to Kubernetes in Google Cloud: Challenge Lab | GSB |[Link to Deploy to Kubernetes in Google Cloud: Challenge Lab](xyz.md) |
+|Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab | GSB |[Link to Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab](xyz.md) |
+|Implement DevOps in Google Cloud: Challenge Lab | GSB |[Link to Implement DevOps in Google Cloud: Challenge Lab](xyz.md) |
+|Google Cloud Essential Skills: Challenge Lab | GSB |[Link to Google Cloud Essential Skills: Challenge Lab](xyz.md) |
 |Monitor and Log with Google Cloud Operations Suite: Challenge Lab | GSB |--|
 
 
