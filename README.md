@@ -1,4 +1,4 @@
-## GCP LABS
+## GCP LABS (TABLE FORM)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-### GSP 
+### GSP (LIST)
 
 GSP001 : Creating a Virtual Machine  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP001.md
