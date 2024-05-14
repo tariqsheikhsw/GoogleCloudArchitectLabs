@@ -437,3 +437,11 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP512 : Build Google Cloud Infrastructure for Azure Professionals: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP512.md
 
+
+NEXT :
+
+GSP818 :  Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud 
+
+GSP616 : VM Migration: Planning
+
+
