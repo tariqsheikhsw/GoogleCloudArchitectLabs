@@ -1,6 +1,5 @@
 # GSP314 : Set Up a Google Cloud Network: Challenge Lab  
 
-
 SSH (antern-postgresql-vm )
 In the terminal in the new browser window, install the pglogical database extension:
 
