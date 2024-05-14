@@ -1,12 +1,12 @@
 # GSP314 : Set Up a Google Cloud Network: Challenge Lab  
 
-SSH (antern-postgresql-vm )
-In the terminal in the new browser window, install the pglogical database extension:
+# SSH (antern-postgresql-vm )
+# In the terminal in the new browser window, install the pglogical database extension:
 
 sudo apt install postgresql-13-pglogical
 
 
-Download and apply some additions to the PostgreSQL configuration files (to enable pglogical extension) and restart the postgresql service:
+# Download and apply some additions to the PostgreSQL configuration files (to enable pglogical extension) and restart the postgresql service:
 
 sudo su - postgres -c "gsutil cp gs://cloud-training/gsp918/pg_hba_append.conf ."
 sudo su - postgres -c "gsutil cp gs://cloud-training/gsp918/postgresql_append.conf ."
@@ -15,14 +15,14 @@ sudo su - postgres -c "cat postgresql_append.conf >> /etc/postgresql/13/main/pos
 sudo systemctl restart postgresql@13-main
 
 
-3 Launch the psql tool:
+# Task3 - Launch the psql tool:
 
 sudo su - postgres
 psql
 
 
 
-4Add the pglogical database extension to the postgres, orders and gmemegen_db databases.
+# Task4 - Add the pglogical database extension to the postgres, orders and gmemegen_db databases.
 
 
 \c postgres;
@@ -37,7 +37,7 @@ CREATE EXTENSION pglogical;
 
 
 
-Create the database migration user
+# Create the database migration user
 
 
 CREATE USER migration_admin PASSWORD 'DMS_1s_cool!';
@@ -132,7 +132,7 @@ exit
 
 —--------------------------------------------------------—--------------------------------------------------------—--------------------------------------------------------—---------
 
-
+# REPLACE VARIABLE VALUES WITH YOUR LAB VALUES
 
 
 export VPC_NAME=vpc-network-dhuu
