@@ -1,4 +1,4 @@
-//Some issues - RECHECK 
+//Some issues - RECHECK  (Work in Progress)
 
 Changes to Outputs:
   + network_name = "my-custom-network"
