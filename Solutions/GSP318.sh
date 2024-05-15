@@ -38,7 +38,7 @@ cd valkyrie-app
 gcloud artifacts repositories create $REPO_NAME \
     --repository-format=docker \
     --location=$REGION \
-    --description="subcribe to quciklab" \
+    --description="REPO" \
     --async 
 
 gcloud auth configure-docker $REGION-docker.pkg.dev --quiet
