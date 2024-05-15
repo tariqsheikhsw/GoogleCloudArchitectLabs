@@ -27,10 +27,13 @@ gcloud artifacts repositories create container-dev-repo --repository-format=dock
   --location=$REGION \
   --description="Docker repository for Container Dev Workshop"
 
-gcloud auth configure-docker europe-west4-docker.pkg.dev
+#gcloud auth configure-docker europe-west4-docker.pkg.dev
+gcloud auth configure-docker us-east1-docker.pkg.dev
 
 cd ~/cloud-code-samples/java/java-hello-world
 
-docker build -t europe-west4-docker.pkg.dev/qwiklabs-gcp-01-abd9f1f06a9b/container-dev-repo/java-hello-world:tag1 .
+#docker build -t europe-west4-docker.pkg.dev/qwiklabs-gcp-01-abd9f1f06a9b/container-dev-repo/java-hello-world:tag1 .
+docker build -t us-east1-docker.pkg.dev/qwiklabs-gcp-04-bf3cf9bc7415/container-dev-repo/java-hello-world:tag1 .
 
-docker push europe-west4-docker.pkg.dev/qwiklabs-gcp-01-abd9f1f06a9b/container-dev-repo/java-hello-world:tag1
+#docker push europe-west4-docker.pkg.dev/qwiklabs-gcp-01-abd9f1f06a9b/container-dev-repo/java-hello-world:tag1
+docker push us-east1-docker.pkg.dev/qwiklabs-gcp-04-bf3cf9bc7415/container-dev-repo/java-hello-world:tag1
