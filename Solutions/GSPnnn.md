@@ -2,7 +2,7 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSPnnn.sh
+curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPnnn.sh
 
 sudo chmod +x GSPnnn.sh
 
