@@ -1,32 +1,4 @@
-//Some issues Task5 onwards - RECHECK  (Work in Progress)
-
-Changes to Outputs:
-  + network_name = "my-custom-network"
-╷
-│ Error: Incorrect attribute value type
-│ 
-│   on .terraform/modules/vpc/modules/subnets/main.tf line 55, in resource "google_compute_subnetwork" "subnetwork":
-│   55:   secondary_ip_range = [
-│   56:     for i in range(
-│   57:       length(
-│   58:         contains(
-│   59:         keys(var.secondary_ranges), each.value.subnet_name) == true
-│   60:         ? var.secondary_ranges[each.value.subnet_name]
-│   61:         : []
-│   62:     )) :
-│   63:     var.secondary_ranges[each.value.subnet_name][i]
-│   64:   ]
-│     ├────────────────
-│     │ each.value.subnet_name is "my-gke-subnet"
-│     │ var.secondary_ranges is map of list of object with 3 elements
-│ 
-│ Inappropriate value for attribute "secondary_ip_range": element 0: attribute "reserved_internal_range" is required.
-
-//possibly a bug 
-
-https://github.com/hashicorp/terraform-provider-google/issues/18115
-
-
+export REGION=europe-west4
 export PROJECT="$DEVSHELL_PROJECT_ID"
 
 terraform -v
@@ -79,7 +51,51 @@ terraform apply
 
 terraform show
 
-//Task5 onwards ISSUE
+
+edit network.tf
+terraform apply
+
+edit firewall.tf
+terraform apply
+
+edit outputs.tf
+terraform apply
+
+
+gcloud compute instances create build-instance --zone=europe-west4-a --machine-type=e2-standard-2 --subnet=my-first-subnet --network-tier=PREMIUM --maintenance-policy=MIGRATE --image=debian-10-buster-v20221206 --image-project=debian-cloud --boot-disk-size=100GB --boot-disk-type=pd-standard --boot-disk-device-name=build-instance-1 --tags=allow-ssh
+
+gcloud compute ssh build-instance --zone=europe-west4-a
+
+sudo apt-get update && sudo apt-get install apache2 -y
+
+exit 
+
+
+gcloud compute instances stop build-instance --zone=europe-west4-a
+
+gcloud compute images create apache-one \
+  --source-disk build-instance \
+  --source-disk-zone europe-west4-a \
+  --family my-apache-webserver
+
+gcloud compute images describe-from-family my-apache-webserver
+
+#Task 11. Update Terraform config 
+
+cd ../lab-app
+
+cp ../lab-networking/credentials.json .
+cp ../lab-networking/terraform.tfvars .
+
+edit backend.tf
+
+edit vm.tf
+
+terraform init
+terraform apply
+
+
+
 
 
 
