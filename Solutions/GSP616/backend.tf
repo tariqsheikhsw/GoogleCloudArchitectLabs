@@ -14,3 +14,18 @@
  * limitations under the License.
  */
 
+terraform {
+  backend "gcs" {
+    bucket = "qwiklabs-gcp-03-ce898f83d9ab-state-bucket" # Edit this this line to match your lab-networking/networking backend.tf file
+    prefix = "terraform/lab/vm"
+  }
+}
+
+data "terraform_remote_state" "network" {
+  backend = "gcs"
+
+  config = {
+    bucket = "qwiklabs-gcp-03-ce898f83d9ab-state-bucket" # Update this too
+    prefix = "terraform/lab/network"
+  }
+}
