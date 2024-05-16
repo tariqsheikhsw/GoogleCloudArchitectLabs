@@ -28,19 +28,19 @@ module "vpc" {
       # Creates your first subnet in us-west1 and defines a range for it
       subnet_name   = "my-first-subnet"
       subnet_ip     = "10.10.10.0/24"
-      subnet_region = "$REGION"
+      subnet_region = "europe-west4"
     },
     {
       # Creates a dedicated subnet for GKE
       subnet_name   = "my-gke-subnet"
       subnet_ip     = "10.10.20.0/24"
-      subnet_region = "$REGION"
+      subnet_region = "europe-west4"
     },
     # Add your subnet here
     {
       subnet_name   = "my-third-subnet"
       subnet_ip     = "10.10.30.0/24"
-      subnet_region = "$REGION"
+      subnet_region = "europe-west4"
     },
   ]
 
