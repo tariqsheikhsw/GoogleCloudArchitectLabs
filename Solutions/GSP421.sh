@@ -1,10 +1,8 @@
 
 
 
-curl -LO https://github.com/quiccklabs/Labs_solutions/blob/master/APIs%20Explorer%20Cloud%20Storage/demo-image1-copy.png
-curl -LO https://github.com/quiccklabs/Labs_solutions/blob/master/APIs%20Explorer%20Cloud%20Storage/demo-image1.png
-curl -LO https://github.com/quiccklabs/Labs_solutions/blob/master/APIs%20Explorer%20Cloud%20Storage/demo-image2.png
-
+curl -LO https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP421/demo-image1.png
+curl -LO https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP421/demo-image2.png
 
 gcloud alpha services api-keys create --display-name="lab"  
 KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=lab") 
