@@ -194,6 +194,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GS
 GSP519 : Prompt Design in Vertex AI Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP519.md
 
+GSP616 : VM Migration: Planning  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP616.md
+
 GSP617 : Using BigQuery and Cloud Logging to Analyze BigQuery Usage  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP617.md
 
@@ -455,6 +458,6 @@ NEXT :
 
 GSP818 :  Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud 
 
-GSP616 : VM Migration: Planning
+
 
 
