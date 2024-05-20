@@ -10,5 +10,3 @@
 |  Optimize Costs for Google Kubernetes Engine: Challenge Lab  | [GSP343](https://www.cloudskillsboost.google/course_templates/655/labs/464678) |[Optimize Costs for Google Kubernetes Engine: Challenge Lab](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP343.md) |
 |  Develop your Google Cloud Network: Challenge Lab  | [GSP321](https://www.cloudskillsboost.google/course_templates/625/labs/464390) |[Develop your Google Cloud Network: Challenge Lab](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP321.md) |
 | Set Up a Google Cloud Network: Challenge Lab    | [GSP314](https://www.cloudskillsboost.google/course_templates/641/labs/464872) |[ Set Up a Google Cloud Network: Challenge Lab ](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP314.md) |
-|Google Cloud Essential Skills: Challenge Lab | GSB |[Link to Google Cloud Essential Skills: Challenge Lab](xyz.md) |
-|Monitor and Log with Google Cloud Operations Suite: Challenge Lab | GSB |--|
