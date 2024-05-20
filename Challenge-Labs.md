@@ -12,6 +12,7 @@
 | Set Up a Google Cloud Network: Challenge Lab    | [GSP314](https://www.cloudskillsboost.google/course_templates/641/labs/464872) |[ Set Up a Google Cloud Network: Challenge Lab ](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP314.md) |
 
 
-### FULL LAB LIST 
+### FULL LAB LIST : 
 
-https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md
+Complete GSP Labs : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md)
+
