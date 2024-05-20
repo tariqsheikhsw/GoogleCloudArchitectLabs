@@ -1,7 +1,7 @@
 ### GSP (LIST)
 
-NOTE : Check Solutions folder if you can't find labs below. Below list may or may not be up-to-date. 
-Solutions (folder) is up-to-date
+NOTE : Check Solutions folder if you can't find labs below. Below list may or may not be up-to-date.   
+Solutions (folder) is up-to-date   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/tree/main/Solutions
 
 GSP001 : Creating a Virtual Machine  
