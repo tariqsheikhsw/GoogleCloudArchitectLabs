@@ -1,4 +1,4 @@
-### ARC120 :  Arcade Hero: Enter the Storage 
+### ARC120x :  Arcade Hero: Enter the Storage 
 
 ```
 export BUCKET_NAME=qwiklabs-gcp-03-ff8672ac14d3-bucket
