@@ -349,6 +349,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/AR
 ARC109 : Getting Started with API Gateway: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC109.md
 
+ARC110 : Create a Streaming Data Lake on Cloud Storage: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC110.md
+
 ARC111 : Get Started with Cloud Storage: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC111.md
 
@@ -357,6 +360,9 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/AR
 
 ARC114 :  Generative AI: Cloud Architect Revision   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC114.md
+
+ARC115 : Monitoring in Google Cloud: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC115.md
 
 ARC117 : Get Started with Dataplex: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC117.md
@@ -367,11 +373,35 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/AR
 ARC119 :  Create a Secure Data Lake on Cloud Storage: Challenge Lab   
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC119.md
 
+ARC120 : The Basics of Google Cloud Compute: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC120.md
+
+ARC120x : Arcade Hero: Enter the Storage
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC120x.md
+
+ARC121x : Arcade Hero: Enter the BigQuery
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC121x.md
+
+ARC122 : Analyze Images with the Cloud Vision API: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC122.md
+
+ARC123 : Tag and Discover BigLake Data: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC123.md
+
+ARC123x : Arcade Hero: Enter the PubSub  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC123x.md
+
 ARC124 : Networking Fundamentals on Google Cloud: Challenge Lab     
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC124.md
 
 ARC125 : Use APIs to Work with Cloud Storage: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC125.md
+
+ARC127 : Arcade Hero: Enter the Subnet  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC127.md
+
+ARC129 : Secure BigLake Data: Challenge Lab  
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC129.md
 
 ARC130 : Analyze Sentiment with Natural Language API: Challenge Lab  
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC130.md
