@@ -4,7 +4,7 @@
 
 |  LAB_NAME |GOOGLE SIKLL BUILDER LAB LINK | STEP BY STEP INSTRUCTIONS |
 | --------------- | --------------- | --------------- |
-|  Implement Load Balancing on Compute Engine: Challenge Lab  | [GSP313]([url](https://www.cloudskillsboost.google/course_templates/648/labs/469575)) | [Link to Create and Manage Cloud Resources: Challenge Lab](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP313.md) |
+|  Implement Load Balancing on Compute Engine: Challenge Lab  | [GSP313]([url](https://www.cloudskillsboost.google/course_templates/648/labs/469575)) | [Implement Load Balancing on Compute Engine: Challenge Lab](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP313.md) |
 | Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab | GSB |[Link to Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](xyz.md)  |
 | Build and Secure Networks in Google Cloud: Challenge Lab | GSB |[Link to Build and Secure Networks in Google Cloud: Challenge Lab](xyz.md) |
 | Deploy to Kubernetes in Google Cloud: Challenge Lab | GSB |[Link to Deploy to Kubernetes in Google Cloud: Challenge Lab](xyz.md) |
