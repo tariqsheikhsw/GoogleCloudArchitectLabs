@@ -46,8 +46,8 @@ gsutil mb -l $REGION gs://$DEVSHELL_PROJECT_ID-bucket
 
 gcloud pubsub topics create $TOPIC_NAME
 
-mkdir quicklab
-cd quicklab
+mkdir qwiklabs
+cd qwiklabs
 
 cat > index.js <<'EOF_END'
 const functions = require('@google-cloud/functions-framework');
