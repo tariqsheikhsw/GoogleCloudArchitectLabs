@@ -16,3 +16,9 @@
 
 Complete GSP Labs : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md)
 
+
+✅Associate Cloud Engineer (ACE)
+✅Professional Cloud Architect (PCA)
+✅Professional Data Engineer (PDE)
+✅Professional Cloud Security Engineer (CSE)
+
