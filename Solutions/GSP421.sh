@@ -1,6 +1,6 @@
 
 
-
+curl -LO https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP421/demo-image1-copy.png
 curl -LO https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP421/demo-image1.png
 curl -LO https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP421/demo-image2.png
 
