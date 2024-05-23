@@ -4,7 +4,7 @@ gcloud services enable run.googleapis.com
 
 sleep 10
 
-mkdir quicklab && cd quicklab
+mkdir qwiklab && cd qwiklab
 
 cat > index.js <<EOF_END
 /**
@@ -14,7 +14,7 @@ cat > index.js <<EOF_END
  * @param {!express:Response} res HTTP response context.
  */
 exports.GCFunction = (req, res) => {
-    let message = req.query.message || req.body.message || 'Subscribe to quicklab';
+    let message = req.query.message || req.body.message || 'Thanks';
     res.status(200).send(message);
   };
   
@@ -66,7 +66,7 @@ gcloud functions deploy GCFunction \
   --max-instances=5
 
 
-DATA=$(printf 'Subscribe to quicklab' | base64) && gcloud functions call GCFunction --region=$REGION --data '{"data":"'$DATA'"}'
+DATA=$(printf 'Thanks' | base64) && gcloud functions call GCFunction --region=$REGION --data '{"data":"'$DATA'"}'
 
 
 sleep 50
