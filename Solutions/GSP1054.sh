@@ -13,7 +13,7 @@ gcloud services enable dataflow.googleapis.com
 gsutil mb gs://$DEVSHELL_PROJECT_ID
 
 
-  gcloud bigtable instances tables create UserSessions \
+gcloud bigtable instances tables create UserSessions \
   --instance=personalized-sales \
   --project=$DEVSHELL_PROJECT_ID \
   --column-families=Interactions,Sales
