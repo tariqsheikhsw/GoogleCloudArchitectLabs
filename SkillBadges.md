@@ -45,6 +45,21 @@
 [✔️] Networking Fundamentals on Google Cloud  
 https://www.cloudskillsboost.google/course_templates/748
 
+[✔️] Manage Kubernetes in Google Cloud   
+https://www.cloudskillsboost.google/course_templates/783
+
+[✔️] Deploy Kubernetes Applications on Google Cloud
+https://www.cloudskillsboost.google/paths/13/course_templates/663
+
+[✔️] Cloud Architecture: Design, Implement, and Manage
+https://www.cloudskillsboost.google/course_templates/640
+
+🔘 Kubernetes in Google Cloud
+https://www.cloudskillsboost.google/course_templates/744
+
+🔘 Monitor Environments with Google Cloud Managed Service for Prometheus
+https://www.cloudskillsboost.google/course_templates/761
+
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
