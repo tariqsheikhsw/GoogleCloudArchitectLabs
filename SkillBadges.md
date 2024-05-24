@@ -63,9 +63,6 @@
 🔘 Implement DevOps Workflows in Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/716
 
-🔘 Implement DevOps Workflows in Google Cloud    
-🔗https://www.cloudskillsboost.google/course_templates/716
-
 🔘 Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
 
