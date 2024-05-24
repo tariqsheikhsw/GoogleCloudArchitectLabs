@@ -39,7 +39,7 @@
 [✔️] Cloud Functions: 3 Ways    
 🔗 https://www.cloudskillsboost.google/course_templates/696
 
-🔘 Develop Serverless Applications on Cloud Run  
+[✔️] Develop Serverless Applications on Cloud Run  
 🔗https://www.cloudskillsboost.google/course_templates/741
 
 🔘 Develop Serverless Apps with Firebase  
