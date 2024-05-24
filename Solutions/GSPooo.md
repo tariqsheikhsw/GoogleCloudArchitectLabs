@@ -2,7 +2,7 @@
 
 https://www.cloudskillsboost.google/course_templates/52/labs/450111?locale=en
 
-Streaming Data Processing: Streaming Data Pipelines into Bigtable 
+### Streaming Data Processing: Streaming Data Pipelines into Bigtable 
 
 # Streaming Data Processing: Streaming Data Pipelines into Bigtable
 
