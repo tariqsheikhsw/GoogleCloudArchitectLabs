@@ -3,20 +3,8 @@
 [✔️] Implement CI/CD Pipelines on Google Cloud   
 🔗https://www.cloudskillsboost.google/course_templates/691  
 
-[🔘] Create and Manage Bigtable Instances  
-🔗https://www.cloudskillsboost.google/course_templates/650  
-
-[🔘] Get Started with API Gateway  
-🔗 https://www.cloudskillsboost.google/course_templates/662
-
-[🔘] Cloud Functions: 3 Ways    
-🔗 https://www.cloudskillsboost.google/course_templates/696
-
 [✔️] Get Started with Cloud Storage  
 🔗 https://www.cloudskillsboost.google/course_templates/725
-
-[🔘] Get Started with Eventarc
-🔗 https://www.cloudskillsboost.google/course_templates/727
 
 [✔️] Get Started with Pub/Sub  
 🔗 https://www.cloudskillsboost.google/course_templates/728
@@ -54,18 +42,30 @@
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
-🔘
-🔗
+[🔘] Create and Manage Bigtable Instances  
+🔗https://www.cloudskillsboost.google/course_templates/650  
 
-🔘
-🔗
+[🔘] Get Started with API Gateway  
+🔗 https://www.cloudskillsboost.google/course_templates/662
 
-🔘
-🔗
+[🔘] Cloud Functions: 3 Ways    
+🔗 https://www.cloudskillsboost.google/course_templates/696
 
-🔘
-🔗
+[🔘] Get Started with Eventarc
+🔗 https://www.cloudskillsboost.google/course_templates/727
 
-🔘
-🔗
+🔘 Create and Manage Bigtable Instances  
+🔗https://www.cloudskillsboost.google/course_templates/650
+
+🔘 Build a Secure Google Cloud Network  
+🔗 https://www.cloudskillsboost.google/course_templates/654
+
+🔘 Implement DevOps Workflows in Google Cloud  
+🔗 https://www.cloudskillsboost.google/course_templates/716
+
+🔘 Implement DevOps Workflows in Google Cloud    
+🔗https://www.cloudskillsboost.google/course_templates/716
+
+🔘 Implement Cloud Security Fundamentals on Google Cloud
+🔗 https://www.cloudskillsboost.google/course_templates/645
 
