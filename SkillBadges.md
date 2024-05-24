@@ -36,6 +36,9 @@
 [✔️] Configure Service Accounts and IAM Roles for Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/702
 
+[✔️] Cloud Functions: 3 Ways    
+🔗 https://www.cloudskillsboost.google/course_templates/696
+
 🔘 Develop Serverless Applications on Cloud Run  
 🔗https://www.cloudskillsboost.google/course_templates/741
 
@@ -47,9 +50,6 @@
 
 [🔘] Get Started with API Gateway  
 🔗 https://www.cloudskillsboost.google/course_templates/662
-
-[🔘] Cloud Functions: 3 Ways    
-🔗 https://www.cloudskillsboost.google/course_templates/696
 
 [🔘] Get Started with Eventarc  
 🔗 https://www.cloudskillsboost.google/course_templates/727
