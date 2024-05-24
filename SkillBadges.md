@@ -54,6 +54,15 @@ https://www.cloudskillsboost.google/paths/13/course_templates/663
 [✔️] Cloud Architecture: Design, Implement, and Manage  
 https://www.cloudskillsboost.google/course_templates/640
 
+[✔️] Use APIs to Work with Cloud Storage   
+https://www.cloudskillsboost.google/course_templates/755
+
+[✔️] Using the Google Cloud Speech API   
+https://www.cloudskillsboost.google/course_templates/756
+
+🔘 Manage Data Models in Looker
+https://www.cloudskillsboost.google/course_templates/651
+ 
 🔘 Kubernetes in Google Cloud  
 https://www.cloudskillsboost.google/course_templates/744
 
