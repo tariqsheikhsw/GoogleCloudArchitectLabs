@@ -51,7 +51,7 @@
 [🔘] Cloud Functions: 3 Ways    
 🔗 https://www.cloudskillsboost.google/course_templates/696
 
-[🔘] Get Started with Eventarc
+[🔘] Get Started with Eventarc  
 🔗 https://www.cloudskillsboost.google/course_templates/727
 
 🔘 Create and Manage Bigtable Instances  
