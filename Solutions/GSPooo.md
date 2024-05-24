@@ -1,8 +1,10 @@
-### GSP1055 :  Streaming Data to Bigtable 
+### GSPooo :  Streaming Data to Bigtable 
 
+https://www.cloudskillsboost.google/course_templates/52/labs/450111?locale=en
+
+Streaming Data Processing: Streaming Data Pipelines into Bigtable 
 
 # Streaming Data Processing: Streaming Data Pipelines into Bigtable
-
 
 
 Open the SSH terminal and connect to the training VM
