@@ -30,10 +30,10 @@
 [✔️] The Basics of Google Cloud Compute  
 🔗 https://www.cloudskillsboost.google/course_templates/754
 
-[✔️] Use APIs to Work with Cloud Storage
+[✔️] Use APIs to Work with Cloud Storage  
 🔗https://www.cloudskillsboost.google/course_templates/755
 
-[✔️] Configure Service Accounts and IAM Roles for Google Cloud
+[✔️] Configure Service Accounts and IAM Roles for Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/702
 
 🔘 Develop Serverless Applications on Cloud Run  
