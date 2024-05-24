@@ -60,6 +60,9 @@ https://www.cloudskillsboost.google/course_templates/755
 [✔️] Using the Google Cloud Speech API   
 https://www.cloudskillsboost.google/course_templates/756
 
+[✔️]  Build a Secure Google Cloud Network  
+🔗 https://www.cloudskillsboost.google/course_templates/654
+
 🔘 Manage Data Models in Looker  
 https://www.cloudskillsboost.google/course_templates/651
  
@@ -84,8 +87,7 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Create and Manage Bigtable Instances  
 🔗https://www.cloudskillsboost.google/course_templates/650
 
-🔘 Build a Secure Google Cloud Network  
-🔗 https://www.cloudskillsboost.google/course_templates/654
+
 
 🔘 Implement DevOps Workflows in Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/716
