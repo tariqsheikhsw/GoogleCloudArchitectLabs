@@ -60,7 +60,7 @@ https://www.cloudskillsboost.google/course_templates/755
 [✔️] Using the Google Cloud Speech API   
 https://www.cloudskillsboost.google/course_templates/756
 
-🔘 Manage Data Models in Looker
+🔘 Manage Data Models in Looker  
 https://www.cloudskillsboost.google/course_templates/651
  
 🔘 Kubernetes in Google Cloud  
