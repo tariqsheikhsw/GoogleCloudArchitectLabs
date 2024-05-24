@@ -72,9 +72,6 @@ https://www.cloudskillsboost.google/course_templates/756
 [🔘] Get Started with Eventarc  
 🔗 https://www.cloudskillsboost.google/course_templates/727
 
-🔘 Create and Manage Bigtable Instances  
-🔗https://www.cloudskillsboost.google/course_templates/650
-
 🔘 Manage Data Models in Looker  
 https://www.cloudskillsboost.google/course_templates/651
  
