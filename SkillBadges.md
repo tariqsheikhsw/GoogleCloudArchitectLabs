@@ -60,8 +60,20 @@ https://www.cloudskillsboost.google/course_templates/755
 [✔️] Using the Google Cloud Speech API   
 https://www.cloudskillsboost.google/course_templates/756
 
-[✔️]  Build a Secure Google Cloud Network  
+[✔️] Build a Secure Google Cloud Network  
 🔗 https://www.cloudskillsboost.google/course_templates/654
+
+[✔️]  Create and Manage Bigtable Instances  
+🔗https://www.cloudskillsboost.google/course_templates/650  
+
+[🔘] Get Started with API Gateway  
+🔗 https://www.cloudskillsboost.google/course_templates/662
+
+[🔘] Get Started with Eventarc  
+🔗 https://www.cloudskillsboost.google/course_templates/727
+
+🔘 Create and Manage Bigtable Instances  
+🔗https://www.cloudskillsboost.google/course_templates/650
 
 🔘 Manage Data Models in Looker  
 https://www.cloudskillsboost.google/course_templates/651
@@ -74,20 +86,6 @@ https://www.cloudskillsboost.google/course_templates/761
 
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
-
-[🔘] Create and Manage Bigtable Instances  
-🔗https://www.cloudskillsboost.google/course_templates/650  
-
-[🔘] Get Started with API Gateway  
-🔗 https://www.cloudskillsboost.google/course_templates/662
-
-[🔘] Get Started with Eventarc  
-🔗 https://www.cloudskillsboost.google/course_templates/727
-
-🔘 Create and Manage Bigtable Instances  
-🔗https://www.cloudskillsboost.google/course_templates/650
-
-
 
 🔘 Implement DevOps Workflows in Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/716
