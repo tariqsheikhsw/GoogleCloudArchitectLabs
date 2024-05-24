@@ -42,6 +42,9 @@
 [✔️] Develop Serverless Applications on Cloud Run  
 🔗https://www.cloudskillsboost.google/course_templates/741
 
+[✔️] Networking Fundamentals on Google Cloud  
+https://www.cloudskillsboost.google/course_templates/748
+
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
