@@ -82,11 +82,14 @@ https://www.cloudskillsboost.google/course_templates/726
 🔗 https://www.cloudskillsboost.google/course_templates/658
 
 
-[✔️]  Implement Cloud Security Fundamentals on Google Cloud  
+[✔️] Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
 
-[✔️]  Managing Cloud Infrastructure with Terraform  
+[✔️] Managing Cloud Infrastructure with Terraform  
 🔗 https://www.cloudskillsboost.google/course_templates/746
+
+[✔️] Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security  
+🔗 https://www.cloudskillsboost.google/course_templates/784
 
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
