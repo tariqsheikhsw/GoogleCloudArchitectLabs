@@ -88,6 +88,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security  
 🔗 https://www.cloudskillsboost.google/course_templates/784
 
+[✔️] Build Infrastructure with Terraform on Google Cloud  
+🔗 https://www.cloudskillsboost.google/course_templates/636
+
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
