@@ -28,7 +28,7 @@ export REGION="${ZONE%-*}"
 gcloud artifacts repositories create $REPO \
     --repository-format=docker \
     --location=$REGION \
-    --description="Subscribe to quicklab"
+    --description=" REPO "
 
 
 gcloud beta container --project "$PROJECT_ID" clusters create "$CLUSTER_NAME" --zone "$ZONE" --no-enable-basic-auth --cluster-version latest --release-channel "regular" --machine-type "e2-medium" --image-type "COS_CONTAINERD" --disk-type "pd-balanced" --disk-size "100" --metadata disable-legacy-endpoints=true  --logging=SYSTEM,WORKLOAD --monitoring=SYSTEM --enable-ip-alias --network "projects/$PROJECT_ID/global/networks/default" --subnetwork "projects/$PROJECT_ID/regions/$REGION/subnetworks/default" --no-enable-intra-node-visibility --default-max-pods-per-node "110" --enable-autoscaling --min-nodes "2" --max-nodes "6" --location-policy "BALANCED" --no-enable-master-authorized-networks --addons HorizontalPodAutoscaling,HttpLoadBalancing,GcePersistentDiskCsiDriver --enable-autoupgrade --enable-autorepair --max-surge-upgrade 1 --max-unavailable-upgrade 0 --enable-shielded-nodes --node-locations "$ZONE"
@@ -91,7 +91,7 @@ done
 git init
 cd sample-app/
 git add .
-git commit -m "Subscribe to quicklab" 
+git commit -m " committed successfully " 
 git push -u origin master
 
 
@@ -149,7 +149,7 @@ sed -i "17s|        image: <todo>|        image: $REGION-docker.pkg.dev/$PROJECT
 
 
 git add .
-git commit -m "Subscribe to quicklab" 
+git commit -m " committed successfully " 
 git push -u origin dev
 
 sleep 10
@@ -169,7 +169,7 @@ sed -i "17c\        image:  $REGION-docker.pkg.dev/$PROJECT_ID/my-repository/hel
 
 
 git add .
-git commit -m "Subscribe to quicklab" 
+git commit -m " committed successfully " 
 git push -u origin master
 
 sleep 10
@@ -204,7 +204,7 @@ sed -i "17c\        image: $REGION-docker.pkg.dev/$PROJECT_ID/my-repository/hell
 
 
 git add .
-git commit -m "Subscribe to quicklab" 
+git commit -m " committed successfully " 
 git push -u origin dev
 
 sleep 10
@@ -234,7 +234,7 @@ sed -i "17c\        image: $REGION-docker.pkg.dev/$PROJECT_ID/my-repository/hell
 
 
 git add .
-git commit -m "Subscribe to quicklab" 
+git commit -m " committed successfully " 
 git push -u origin master
 
 
