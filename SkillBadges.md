@@ -102,9 +102,6 @@ https://www.cloudskillsboost.google/course_templates/726
 
 🔘 Manage Data Models in Looker  
 https://www.cloudskillsboost.google/course_templates/651
- 
-🔘 Kubernetes in Google Cloud  
-https://www.cloudskillsboost.google/course_templates/744
 
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
 https://www.cloudskillsboost.google/course_templates/761
