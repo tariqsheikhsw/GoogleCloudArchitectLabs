@@ -117,4 +117,5 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
-
+🔘 Mitigate Threats and Vulnerabilities with Security Command Center  
+🔗 https://www.cloudskillsboost.google/course_templates/759
