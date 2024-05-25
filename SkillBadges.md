@@ -91,6 +91,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Build Infrastructure with Terraform on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/636
 
+[✔️] App Engine: 3 ways  
+🔗 https://www.cloudskillsboost.google/course_templates/671
+
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
@@ -108,9 +111,6 @@ https://www.cloudskillsboost.google/course_templates/761
 
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
-
-🔘 App Engine: 3 ways  
-🔗 https://www.cloudskillsboost.google/course_templates/671
 
 🔘 Build a Data Warehouse with BigQuery
 🔗 https://www.cloudskillsboost.google/course_templates/624
