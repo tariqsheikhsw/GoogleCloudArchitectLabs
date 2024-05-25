@@ -85,6 +85,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️]  Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
 
+[✔️]  Managing Cloud Infrastructure with Terraform  
+🔗 https://www.cloudskillsboost.google/course_templates/746
+
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
