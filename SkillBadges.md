@@ -81,7 +81,6 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Store, Process, and Manage Data on Google Cloud - Console  
 🔗 https://www.cloudskillsboost.google/course_templates/658
 
-
 [✔️] Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
 
@@ -112,7 +111,7 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
-🔘 Build a Data Warehouse with BigQuery
+🔘 Build a Data Warehouse with BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/624
 
 🔘 Streaming Analytics into BigQuery  
