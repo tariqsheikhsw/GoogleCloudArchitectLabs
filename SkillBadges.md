@@ -75,6 +75,16 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Implement DevOps Workflows in Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/716
 
+[✔️] Store, Process, and Manage Data on Google Cloud - Command Line  
+🔗 https://www.cloudskillsboost.google/course_templates/659
+
+[✔️] Store, Process, and Manage Data on Google Cloud - Console  
+🔗 https://www.cloudskillsboost.google/course_templates/658
+
+
+[✔️]  Implement Cloud Security Fundamentals on Google Cloud  
+🔗 https://www.cloudskillsboost.google/course_templates/645
+
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
@@ -96,9 +106,6 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
-🔘 Implement Cloud Security Fundamentals on Google Cloud  
-🔗 https://www.cloudskillsboost.google/course_templates/645
-
 🔘 App Engine: 3 ways  
 🔗 https://www.cloudskillsboost.google/course_templates/671
 
@@ -107,11 +114,5 @@ https://www.cloudskillsboost.google/course_templates/761
 
 🔘 Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
-
-[✔️] Store, Process, and Manage Data on Google Cloud - Command Line
-🔗 https://www.cloudskillsboost.google/course_templates/659
-
-[✔️] Store, Process, and Manage Data on Google Cloud - Console
-🔗 https://www.cloudskillsboost.google/course_templates/658
 
 
