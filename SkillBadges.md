@@ -72,6 +72,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] The Basics of Google Cloud Compute  
 🔗https://www.cloudskillsboost.google/course_templates/754
 
+[✔️] Implement DevOps Workflows in Google Cloud  
+🔗 https://www.cloudskillsboost.google/course_templates/716
+
 [🔘]Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
@@ -92,9 +95,6 @@ https://www.cloudskillsboost.google/course_templates/761
 
 🔘 Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
-
-🔘 Implement DevOps Workflows in Google Cloud  
-🔗 https://www.cloudskillsboost.google/course_templates/716
 
 🔘 Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
