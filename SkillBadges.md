@@ -63,8 +63,17 @@ https://www.cloudskillsboost.google/course_templates/756
 [✔️] Build a Secure Google Cloud Network  
 🔗 https://www.cloudskillsboost.google/course_templates/654
 
-[✔️]  Create and Manage Bigtable Instances  
+[✔️] Create and Manage Bigtable Instances  
 🔗https://www.cloudskillsboost.google/course_templates/650  
+
+[✔️] Get Started with Dataplex  
+https://www.cloudskillsboost.google/course_templates/726
+
+[✔️] The Basics of Google Cloud Compute  
+🔗https://www.cloudskillsboost.google/course_templates/754
+
+[🔘]Use Machine Learning APIs on Google Cloud  
+🔗https://www.cloudskillsboost.google/course_templates/630 
 
 [🔘] Get Started with API Gateway  
 🔗 https://www.cloudskillsboost.google/course_templates/662
@@ -89,4 +98,20 @@ https://www.cloudskillsboost.google/course_templates/761
 
 🔘 Implement Cloud Security Fundamentals on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/645
+
+🔘 App Engine: 3 ways  
+🔗 https://www.cloudskillsboost.google/course_templates/671
+
+🔘 Build a Data Warehouse with BigQuery
+🔗 https://www.cloudskillsboost.google/course_templates/624
+
+🔘 Streaming Analytics into BigQuery  
+🔗 https://www.cloudskillsboost.google/course_templates/752
+
+[✔️] Store, Process, and Manage Data on Google Cloud - Command Line
+🔗 https://www.cloudskillsboost.google/course_templates/659
+
+[✔️] Store, Process, and Manage Data on Google Cloud - Console
+🔗 https://www.cloudskillsboost.google/course_templates/658
+
 
