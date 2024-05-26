@@ -1,14 +1,13 @@
 ### Skill Badges List 
 
 [✔️] Implement CI/CD Pipelines on Google Cloud   
-🔗https://www.cloudskillsboost.google/course_templates/691 
-:link: ['GSP1076 : Working with Artifact Registry '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1076.md)   
+🔗https://www.cloudskillsboost.google/course_templates/691  
 
-🔗 GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build 
-🔗 GSP1078 : Cloud Run Canary Deployments 
-🔗 GSP1079 : Continuous Delivery with Google Cloud Deploy 
-🔗 GSP393 : Implement CI/CD Pipelines on Google Cloud: Challenge Lab 
- 
+:link: ['GSP1076 : Working with Artifact Registry '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1076.md)   
+:link: ['GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1077.md)   
+:link: ['GSP1078 : Cloud Run Canary Deployments '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1078.md)   
+:link: ['GSP1079 : Continuous Delivery with Google Cloud Deploy '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1079.md)   
+:link: ['GSP393 : Implement CI/CD Pipelines on Google Cloud: Challenge Lab  '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP393.md)   
 
 [✔️] Get Started with Cloud Storage  
 🔗 https://www.cloudskillsboost.google/course_templates/725
