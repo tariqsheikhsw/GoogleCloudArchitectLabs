@@ -1,7 +1,13 @@
 ### Skill Badges List 
 
 [✔️] Implement CI/CD Pipelines on Google Cloud   
-🔗https://www.cloudskillsboost.google/course_templates/691  
+🔗https://www.cloudskillsboost.google/course_templates/691 
+**🔗 GSP1076 : Working with Artifact Registry 
+🔗 GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build 
+🔗 GSP1078 : Cloud Run Canary Deployments 
+🔗 GSP1079 : Continuous Delivery with Google Cloud Deploy 
+🔗 GSP393 : Implement CI/CD Pipelines on Google Cloud: Challenge Lab **
+ 
 
 [✔️] Get Started with Cloud Storage  
 🔗 https://www.cloudskillsboost.google/course_templates/725
