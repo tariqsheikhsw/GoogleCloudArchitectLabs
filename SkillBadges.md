@@ -2,11 +2,11 @@
 
 [✔️] Implement CI/CD Pipelines on Google Cloud   
 🔗https://www.cloudskillsboost.google/course_templates/691 
-**🔗 GSP1076 : Working with Artifact Registry 
+🔗 :link: Dockerfile ['GSP1076 : Working with Artifact Registry '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1076.md)  
 🔗 GSP1077 : Google Kubernetes Engine Pipeline using Cloud Build 
 🔗 GSP1078 : Cloud Run Canary Deployments 
 🔗 GSP1079 : Continuous Delivery with Google Cloud Deploy 
-🔗 GSP393 : Implement CI/CD Pipelines on Google Cloud: Challenge Lab **
+🔗 GSP393 : Implement CI/CD Pipelines on Google Cloud: Challenge Lab 
  
 
 [✔️] Get Started with Cloud Storage  
