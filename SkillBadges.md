@@ -93,7 +93,10 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] App Engine: 3 ways  
 🔗 https://www.cloudskillsboost.google/course_templates/671
 
-[🔘]Use Machine Learning APIs on Google Cloud  
+[✔️] Mitigate Threats and Vulnerabilities with Security Command Center   
+🔗 https://www.cloudskillsboost.google/course_templates/759
+
+[🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
 [🔘] Get Started with API Gateway  
@@ -117,5 +120,3 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
-🔘 Mitigate Threats and Vulnerabilities with Security Command Center  
-🔗 https://www.cloudskillsboost.google/course_templates/759
