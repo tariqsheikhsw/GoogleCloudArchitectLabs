@@ -18,6 +18,9 @@
 :link: ['GSP081 : Cloud Functions: Qwik Start - Console  '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP081.md)    
 :link: ['ARC109 : Getting Started with API Gateway: Challenge Lab  '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC109.md)    
 
+[✔️] Monitor and Manage Google Cloud Resources   
+🔗 https://www.cloudskillsboost.google/course_templates/653
+
 [✔️] Get Started with Cloud Storage  
 🔗 https://www.cloudskillsboost.google/course_templates/725
 
