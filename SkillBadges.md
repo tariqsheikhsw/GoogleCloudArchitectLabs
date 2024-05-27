@@ -111,6 +111,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Mitigate Threats and Vulnerabilities with Security Command Center   
 🔗 https://www.cloudskillsboost.google/course_templates/759
 
+[✔️] Develop Serverless Apps with Firebase  
+🔗https://www.cloudskillsboost.google/course_templates/649
+
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
@@ -122,9 +125,6 @@ https://www.cloudskillsboost.google/course_templates/651
 
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
 https://www.cloudskillsboost.google/course_templates/761
-
-🔘 Develop Serverless Apps with Firebase  
-🔗https://www.cloudskillsboost.google/course_templates/649
 
 🔘 Build a Data Warehouse with BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/624
