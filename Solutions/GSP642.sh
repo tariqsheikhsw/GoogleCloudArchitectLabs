@@ -7,11 +7,11 @@ cd pet-theory/lab01
 npm install @google-cloud/firestore
 npm install @google-cloud/logging
 
-curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Importing%20Data%20to%20a%20Firestore%20Database/importTestData.js
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP642/importTestData.js
 
 npm install faker@5.5.3
 
-curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Importing%20Data%20to%20a%20Firestore%20Database/createTestData.js
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP642/createTestData.js
 
 node createTestData 1000
 node importTestData customers_1000.csv
