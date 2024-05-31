@@ -184,7 +184,8 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 Detect Manufacturing Defects using Visual Inspection AI  
 🔗 https://www.cloudskillsboost.google//course_templates/644
 
-
+[✔️] Analyze Speech and Language with Google APIs  
+🔗 https://www.cloudskillsboost.google//course_templates/634
 
 
 [Q] : Quick (Only Challenge Lab)
