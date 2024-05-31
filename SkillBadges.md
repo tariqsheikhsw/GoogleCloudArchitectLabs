@@ -18,6 +18,12 @@
 :link: ['GSP081 : Cloud Functions: Qwik Start - Console  '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP081.md)    
 :link: ['ARC109 : Getting Started with API Gateway: Challenge Lab  '](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC109.md)    
 
+
+
+[✔️] Set Up an App Dev Environment on Google Cloud [Q]
+🔗 https://www.cloudskillsboost.google/course_templates/637
+
+
 [✔️] Monitor and Manage Google Cloud Resources   
 🔗 https://www.cloudskillsboost.google/course_templates/653
 
@@ -129,7 +135,7 @@ https://www.cloudskillsboost.google/course_templates/651
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
 https://www.cloudskillsboost.google/course_templates/761
 
-[✔️] Build a Data Warehouse with BigQuery  
+[✔️] Build a Data Warehouse with BigQuery  [S]
 🔗 https://www.cloudskillsboost.google/course_templates/624
 
 🔘 Streaming Analytics into BigQuery  
