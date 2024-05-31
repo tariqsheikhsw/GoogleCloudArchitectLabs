@@ -190,6 +190,8 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 Create and Manage Cloud Spanner Instances  
 🔗 https://www.cloudskillsboost.google/course_templates/643
 
+🔘 Build a Website on Google Cloud  
+🔗 https://www.cloudskillsboost.google//course_templates/638
 
 
 [Q] : Quick (Only Challenge Lab)
