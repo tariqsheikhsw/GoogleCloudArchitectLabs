@@ -193,6 +193,10 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 Build a Website on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/638
 
+🔘 Engineer Data for Predictive Modeling with BigQuery ML  
+https://www.cloudskillsboost.google/course_templates/627  
+
+
 
 [Q] : Quick (Only Challenge Lab)
 [S] : Simple Labs
