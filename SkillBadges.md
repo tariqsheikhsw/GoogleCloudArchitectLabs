@@ -163,10 +163,11 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 App Building with AppSheet    
 🔗 https://www.cloudskillsboost.google//course_templates/635
 
-
-🔘 Derive Insights from BigQuery Data
+🔘 Derive Insights from BigQuery Data  
 🔗 https://www.cloudskillsboost.google/course_templates/623
 
+🔘 Automate Data Capture at Scale with Document AI  
+🔗 https://www.cloudskillsboost.google//course_templates/674
 
 [Q] : Quick (Only Challenge Lab)
-[S] : Short Labs
+[S] : Simple Labs
