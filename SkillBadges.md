@@ -146,10 +146,10 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔗 https://www.cloudskillsboost.google/course_templates/727
 
 🔘 Manage Data Models in Looker  
-https://www.cloudskillsboost.google/course_templates/651
+🔗 https://www.cloudskillsboost.google/course_templates/651
 
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
-https://www.cloudskillsboost.google/course_templates/761
+🔗 https://www.cloudskillsboost.google/course_templates/761
 
 [✔️] Build a Data Warehouse with BigQuery  [S]  
 🔗 https://www.cloudskillsboost.google/course_templates/624
@@ -158,11 +158,14 @@ https://www.cloudskillsboost.google/course_templates/761
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
 🔘 Get Started with Looker  
-https://www.cloudskillsboost.google//course_templates/647
+🔗 https://www.cloudskillsboost.google//course_templates/647
+
+🔘 App Building with AppSheet    
+🔗 https://www.cloudskillsboost.google//course_templates/635
 
 
-🔘 App Building with AppSheet  
-🔗https://www.cloudskillsboost.google//course_templates/635
+🔘 Derive Insights from BigQuery Data
+🔗 https://www.cloudskillsboost.google/course_templates/623
 
 
 [Q] : Quick (Only Challenge Lab)
