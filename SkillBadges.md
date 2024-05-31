@@ -194,7 +194,11 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔗 https://www.cloudskillsboost.google//course_templates/638
 
 🔘 Engineer Data for Predictive Modeling with BigQuery ML  
-https://www.cloudskillsboost.google/course_templates/627  
+🔗 https://www.cloudskillsboost.google/course_templates/627  
+
+🔘 Create and Manage AlloyDB Instances  
+🔗 https://www.cloudskillsboost.google//course_templates/642
+
 
 
 
