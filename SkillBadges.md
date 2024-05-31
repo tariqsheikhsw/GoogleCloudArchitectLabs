@@ -217,7 +217,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Optimize Costs for Google Kubernetes Engine    
 🔗 https://www.cloudskillsboost.google//course_templates/655
 
-🔘 Create a Streaming Data Lake on Cloud Storage
+🔘 Create a Streaming Data Lake on Cloud Storage  
 🔗 https://www.cloudskillsboost.google//course_templates/705
 
 🔘 Build Google Cloud Infrastructure for Azure Professionals  
