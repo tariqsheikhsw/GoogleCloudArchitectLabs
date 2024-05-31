@@ -149,7 +149,7 @@ https://www.cloudskillsboost.google/course_templates/726
 https://www.cloudskillsboost.google/course_templates/628
 
 [🔘] Analyze BigQuery Data in Connected Sheets  
-https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22rank%22%3A49%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D
+https://www.cloudskillsboost.google//course_templates/632
 
 [🔘] Get Started with Eventarc  
 🔗 https://www.cloudskillsboost.google/course_templates/727
