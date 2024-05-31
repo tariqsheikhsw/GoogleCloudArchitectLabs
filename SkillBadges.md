@@ -206,8 +206,10 @@ https://www.cloudskillsboost.google//course_templates/667
 🔗 https://www.cloudskillsboost.google//course_templates/642
 
 🔘 Prepare Data for ML APIs on Google Cloud  
-https://www.cloudskillsboost.google//course_templates/631
+🔗 https://www.cloudskillsboost.google//course_templates/631
 
+🔘 Integrate BigQuery Data and Google Workspace using Apps Script  
+🔗 https://www.cloudskillsboost.google//course_templates/737
 
 [Q] : Quick (Only Challenge Lab)
 [S] : Simple Labs
