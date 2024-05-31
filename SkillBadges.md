@@ -91,6 +91,9 @@ https://www.cloudskillsboost.google/course_templates/756
 [✔️] Build a Secure Google Cloud Network  
 🔗 https://www.cloudskillsboost.google/course_templates/654
 
+[✔️] Develop your Google Cloud Network  
+https://www.cloudskillsboost.google/course_templates/625
+
 [✔️] Create and Manage Bigtable Instances  
 🔗https://www.cloudskillsboost.google/course_templates/650  
 
