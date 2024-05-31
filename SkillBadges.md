@@ -20,7 +20,7 @@
 
 
 
-[✔️] Set Up an App Dev Environment on Google Cloud [Q]
+[✔️] Set Up an App Dev Environment on Google Cloud [Q]  
 🔗 https://www.cloudskillsboost.google/course_templates/637
 
 
