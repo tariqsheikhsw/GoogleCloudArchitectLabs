@@ -178,7 +178,8 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 Share Data Using Google Data Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/657
 
-
+🔘 Detect Manufacturing Defects using Visual Inspection AI  
+🔗 https://www.cloudskillsboost.google//course_templates/644
 
 
 
