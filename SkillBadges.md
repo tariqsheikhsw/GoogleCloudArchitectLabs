@@ -24,6 +24,10 @@
 🔗 https://www.cloudskillsboost.google/course_templates/637
 
 
+[✔️] Implement Load Balancing on Compute Engine  [Q]  
+🔗 https://www.cloudskillsboost.google/course_templates/648
+
+
 [✔️] Monitor and Manage Google Cloud Resources   
 🔗 https://www.cloudskillsboost.google/course_templates/653
 
