@@ -154,6 +154,13 @@ https://www.cloudskillsboost.google/course_templates/761
 🔘 Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
+🔘 Get Started with Looker  
+https://www.cloudskillsboost.google//course_templates/647
+
+
+🔘 App Building with AppSheet  
+🔗https://www.cloudskillsboost.google//course_templates/635
+
 
 [Q] : Quick (Only Challenge Lab)
 [S] : Short Labs
