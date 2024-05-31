@@ -169,5 +169,16 @@ https://www.cloudskillsboost.google//course_templates/632?catalog_rank=%7B%22ran
 🔘 Automate Data Capture at Scale with Document AI  
 🔗 https://www.cloudskillsboost.google//course_templates/674
 
+🔘 Use Functions, Formulas, and Charts in Google Sheets  
+🔗 https://www.cloudskillsboost.google//course_templates/776
+
+🔘 Share Data Using Google Data Cloud  
+🔗 https://www.cloudskillsboost.google//course_templates/657
+
+
+
+
+
+
 [Q] : Quick (Only Challenge Lab)
 [S] : Simple Labs
