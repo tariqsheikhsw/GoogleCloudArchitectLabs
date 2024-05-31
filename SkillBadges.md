@@ -46,6 +46,9 @@
 [✔️] Secure BigLake Data  
 🔗 https://www.cloudskillsboost.google/course_templates/751
 
+[✔️] Tag and Discover BigLake Data  
+🔗 https://www.cloudskillsboost.google//course_templates/753
+
 [✔️] Analyze Images with the Cloud Vision API  
 🔗https://www.cloudskillsboost.google/course_templates/633
 
