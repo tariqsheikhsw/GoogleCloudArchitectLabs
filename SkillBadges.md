@@ -130,6 +130,9 @@ https://www.cloudskillsboost.google/course_templates/726
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
+[🔘] Classify Images with TensorFlow on Google Cloud  
+🔗https://www.cloudskillsboost.google/course_templates/646
+
 [🔘] Prepare Data for Looker Dashboards and Reports  
 https://www.cloudskillsboost.google/course_templates/628
 
