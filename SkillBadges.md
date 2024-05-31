@@ -211,5 +211,21 @@ https://www.cloudskillsboost.google//course_templates/667
 🔘 Integrate BigQuery Data and Google Workspace using Apps Script  
 🔗 https://www.cloudskillsboost.google//course_templates/737
 
+🔘 Develop with Apps Script and AppSheet  
+🔗 https://www.cloudskillsboost.google//course_templates/715
+
+[✔️] Optimize Costs for Google Kubernetes Engine    
+🔗 https://www.cloudskillsboost.google//course_templates/655
+
+🔘 Create a Streaming Data Lake on Cloud Storage
+🔗 https://www.cloudskillsboost.google//course_templates/705
+
+🔘 Build Google Cloud Infrastructure for Azure Professionals  
+
+
+🔘 Build Google Cloud Infrastructure for AWS Professionals  
+
+
+
 [Q] : Quick (Only Challenge Lab)
 [S] : Simple Labs
