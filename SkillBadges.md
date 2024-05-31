@@ -129,7 +129,7 @@ https://www.cloudskillsboost.google/course_templates/651
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
 https://www.cloudskillsboost.google/course_templates/761
 
-🔘 Build a Data Warehouse with BigQuery  
+[✔️] Build a Data Warehouse with BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/624
 
 🔘 Streaming Analytics into BigQuery  
