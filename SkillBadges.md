@@ -70,6 +70,9 @@
 [✔️] Cloud Functions: 3 Ways    
 🔗 https://www.cloudskillsboost.google/course_templates/696
 
+[✔️] Cloud Speech API: 3 Ways  
+https://www.cloudskillsboost.google//course_templates/700
+
 [✔️] Develop Serverless Applications on Cloud Run  
 🔗https://www.cloudskillsboost.google/course_templates/741
 
