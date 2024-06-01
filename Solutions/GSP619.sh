@@ -1,4 +1,5 @@
-
+#ZONE1=europe-west1-c
+#ZONE2=us-east4-a
 
 gcloud config list project
 
@@ -21,9 +22,9 @@ gcloud compute firewall-rules create vpc-demo-allow-ssh-icmp \
     --network vpc-demo \
     --allow tcp:22,icmp
 
-gcloud compute instances create vpc-demo-instance1 --zone europe-west1-d --subnet vpc-demo-subnet1
+gcloud compute instances create vpc-demo-instance1 --zone europe-west1-c --subnet vpc-demo-subnet1
 
-gcloud compute instances create vpc-demo-instance2 --zone us-east4-c --subnet vpc-demo-subnet2
+gcloud compute instances create vpc-demo-instance2 --zone us-east4-a --subnet vpc-demo-subnet2
 
 ### Task 2. Simulate on-premises setup
 
