@@ -1,8 +1,7 @@
 ### GSPqqq :  Serverless Data Processing with Dataflow - Monitoring, Logging and Error Reporting for Dataflow Jobs 
 
 ```cmd
-
-export REGION=
+export REGION=us-east1 
 ```
 
 
