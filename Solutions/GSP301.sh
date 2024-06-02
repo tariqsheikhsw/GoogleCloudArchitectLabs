@@ -9,7 +9,7 @@ gsutil mb gs://$DEVSHELL_PROJECT_ID
 ZONE="$(gcloud compute instances list --project=$DEVSHELL_PROJECT_ID --format='value(ZONE)' | head -n 1)"
 
 
-wget https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSP301-resources-install-web.sh
+wget https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP301-resources-install-web.sh
 
 gsutil cp resources-install-web.sh gs://$DEVSHELL_PROJECT_ID
 
