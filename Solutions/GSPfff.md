@@ -5,7 +5,7 @@ export ZONE=us-east1-b
 ```
 
 ```
-curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/GSPfff.sh
+curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPfff.sh
 
 sudo chmod +x GSPfff.sh
 
