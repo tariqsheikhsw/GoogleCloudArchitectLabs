@@ -2,7 +2,7 @@
 
 Change ZONE value as per LAB instructions
 
-//OLD INSTRUCTIONS (PREVIOUSLY USED) - OPTIONAL
+//OLD INSTRUCTIONS (PREVIOUSLY USED) 
 ```
 export ZONE=us-west1-c
 ```
