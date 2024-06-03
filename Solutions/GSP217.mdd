@@ -1,0 +1,9 @@
+### GSP217 :  Cloud CDN 
+
+```
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP217.sh
+
+sudo chmod +x GSP217.sh
+
+./GSP217.sh
+```
