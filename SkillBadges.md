@@ -145,6 +145,9 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️]  Monitor and Log with Google Cloud Observability     
 🔗 https://www.cloudskillsboost.google/course_templates/749
 
+[🔘] Create and Manage Cloud SQL for PostgreSQL Instances  
+https://www.cloudskillsboost.google/course_templates/652
+
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
