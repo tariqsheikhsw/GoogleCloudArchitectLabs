@@ -1,8 +1,8 @@
 
 
-gcloud iam service-accounts create qwikstart
+gcloud iam service-accounts create quickstart
 
-gcloud iam service-accounts keys create key.json --iam-account qwikstart@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com
+gcloud iam service-accounts keys create key.json --iam-account quickstart@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com
 
 gcloud auth activate-service-account --key-file key.json
 
