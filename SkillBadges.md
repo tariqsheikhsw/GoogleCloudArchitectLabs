@@ -125,6 +125,21 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
+[✔️] Get Started with Eventarc  
+🔗 https://www.cloudskillsboost.google/course_templates/727
+
+[✔️] Build a Data Warehouse with BigQuery  [S]  
+🔗 https://www.cloudskillsboost.google/course_templates/624
+
+[✔️] Analyze Speech and Language with Google APIs  
+🔗 https://www.cloudskillsboost.google//course_templates/634
+
+[✔️] Analyze Sentiment with Natural Language API  
+https://www.cloudskillsboost.google//course_templates/667
+
+[✔️] Optimize Costs for Google Kubernetes Engine    
+🔗 https://www.cloudskillsboost.google//course_templates/655
+
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
@@ -137,17 +152,11 @@ https://www.cloudskillsboost.google/course_templates/628
 [🔘] Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
 
-[🔘] Get Started with Eventarc  
-🔗 https://www.cloudskillsboost.google/course_templates/727
-
 🔘 Manage Data Models in Looker  
 🔗 https://www.cloudskillsboost.google/course_templates/651
 
 🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
 🔗 https://www.cloudskillsboost.google/course_templates/761
-
-[✔️] Build a Data Warehouse with BigQuery  [S]  
-🔗 https://www.cloudskillsboost.google/course_templates/624
 
 🔘 Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
@@ -173,12 +182,6 @@ https://www.cloudskillsboost.google//course_templates/632
 🔘 Detect Manufacturing Defects using Visual Inspection AI  
 🔗 https://www.cloudskillsboost.google//course_templates/644
 
-[✔️] Analyze Speech and Language with Google APIs  
-🔗 https://www.cloudskillsboost.google//course_templates/634
-
-[✔️] Analyze Sentiment with Natural Language API  
-https://www.cloudskillsboost.google//course_templates/667
-
 🔘 Create and Manage Cloud Spanner Instances  
 🔗 https://www.cloudskillsboost.google/course_templates/643
 
@@ -200,17 +203,14 @@ https://www.cloudskillsboost.google//course_templates/667
 🔘 Develop with Apps Script and AppSheet  
 🔗 https://www.cloudskillsboost.google//course_templates/715
 
-[✔️] Optimize Costs for Google Kubernetes Engine    
-🔗 https://www.cloudskillsboost.google//course_templates/655
-
 🔘 Create a Streaming Data Lake on Cloud Storage  
 🔗 https://www.cloudskillsboost.google//course_templates/705
 
 🔘 Build Google Cloud Infrastructure for Azure Professionals  
-
+https://www.cloudskillsboost.google/course_templates/688
 
 🔘 Build Google Cloud Infrastructure for AWS Professionals  
-
+https://www.cloudskillsboost.google/course_templates/687
 
 
 [Q] : Quick (Only Challenge Lab)
