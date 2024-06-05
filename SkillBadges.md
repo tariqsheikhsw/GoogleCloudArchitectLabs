@@ -145,20 +145,23 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️]  Monitor and Log with Google Cloud Observability     
 🔗 https://www.cloudskillsboost.google/course_templates/749
 
+[🔘] Develop and Secure APIs with Apigee X    
+🔗 https://www.cloudskillsboost.google/course_templates/714
+
 [🔘] Create and Manage Cloud SQL for PostgreSQL Instances  
-https://www.cloudskillsboost.google/course_templates/652
+🔗 https://www.cloudskillsboost.google/course_templates/652
 
 [🔘] Use Machine Learning APIs on Google Cloud  
-🔗https://www.cloudskillsboost.google/course_templates/630 
+🔗 https://www.cloudskillsboost.google/course_templates/630 
 
 [🔘] Classify Images with TensorFlow on Google Cloud  
-🔗https://www.cloudskillsboost.google/course_templates/646
+🔗 https://www.cloudskillsboost.google/course_templates/646
 
 [🔘] Prepare Data for Looker Dashboards and Reports  
-https://www.cloudskillsboost.google/course_templates/628
+🔗 https://www.cloudskillsboost.google/course_templates/628
 
 [🔘] Analyze BigQuery Data in Connected Sheets  
-https://www.cloudskillsboost.google//course_templates/632
+🔗 https://www.cloudskillsboost.google//course_templates/632
 
 [🔘] Manage Data Models in Looker  
 🔗 https://www.cloudskillsboost.google/course_templates/651
