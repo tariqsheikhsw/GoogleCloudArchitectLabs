@@ -9,7 +9,6 @@
 [✔️] Set Up an App Dev Environment on Google Cloud [Q]  
 🔗 https://www.cloudskillsboost.google/course_templates/637
 
-
 [✔️] Implement Load Balancing on Compute Engine  [Q]  
 🔗 https://www.cloudskillsboost.google/course_templates/648
 
@@ -182,7 +181,7 @@ https://www.cloudskillsboost.google//course_templates/632
 🔘 Detect Manufacturing Defects using Visual Inspection AI  
 🔗 https://www.cloudskillsboost.google//course_templates/644
 
-🔘 Create and Manage Cloud Spanner Instances  
+[✔️] Create and Manage Cloud Spanner Instances  
 🔗 https://www.cloudskillsboost.google/course_templates/643
 
 🔘 Build a Website on Google Cloud  
@@ -206,10 +205,10 @@ https://www.cloudskillsboost.google//course_templates/632
 🔘 Create a Streaming Data Lake on Cloud Storage  
 🔗 https://www.cloudskillsboost.google//course_templates/705
 
-🔘 Build Google Cloud Infrastructure for Azure Professionals  
+[✔️] Build Google Cloud Infrastructure for Azure Professionals  
 https://www.cloudskillsboost.google/course_templates/688
 
-🔘 Build Google Cloud Infrastructure for AWS Professionals  
+[✔️] Build Google Cloud Infrastructure for AWS Professionals  
 https://www.cloudskillsboost.google/course_templates/687
 
 
