@@ -212,5 +212,5 @@ https://www.cloudskillsboost.google/course_templates/688
 https://www.cloudskillsboost.google/course_templates/687
 
 
-[Q] : Quick (Only Challenge Lab)
-[S] : Simple Labs
+[Q] : Quick (Only Challenge Lab)  
+[S] : Simple Labs  
