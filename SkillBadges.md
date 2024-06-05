@@ -124,7 +124,7 @@ https://www.cloudskillsboost.google/course_templates/726
 [✔️] Develop Serverless Apps with Firebase  
 🔗https://www.cloudskillsboost.google/course_templates/649
 
-[✔️] Get Started with Eventarc  
+[✔️] Get Started with Eventarc  [S]  
 🔗 https://www.cloudskillsboost.google/course_templates/727
 
 [✔️] Build a Data Warehouse with BigQuery  [S]  
@@ -184,7 +184,7 @@ https://www.cloudskillsboost.google//course_templates/632
 [✔️] Create and Manage Cloud Spanner Instances  
 🔗 https://www.cloudskillsboost.google/course_templates/643
 
-🔘 Build a Website on Google Cloud  
+[✔️] Build a Website on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/638
 
 🔘 Engineer Data for Predictive Modeling with BigQuery ML  
