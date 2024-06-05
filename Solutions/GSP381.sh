@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/ed8351d0beeecc1302b039edefc2f4a2d13edf5f/Create%20and%20Manage%20Cloud%20Spanner%20Databases%20Challenge%20Lab/Customer_List_500.csv
+wget https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP381/Customer_List_500.csv
 
 gcloud services disable dataflow.googleapis.com --force
 gcloud services enable dataflow.googleapis.com
@@ -32,7 +32,7 @@ gcloud spanner databases execute-sql banking-ops-db --instance=banking-ops-insta
 gcloud spanner databases execute-sql banking-ops-db --instance=banking-ops-instance --sql="INSERT INTO Product (ProductId, CategoryId, PortfolioId, ProductName, ProductAssetCode, ProductClass) VALUES (1, 1, 1, 'Checking Account', 'ChkAcct', 'Banking LOB'), (2, 2, 2, 'Mutual Fund Consumer Goods', 'MFundCG', 'Investment LOB'), (3, 3, 2, 'Annuity Early Retirement', 'AnnuFixed', 'Investment LOB'), (4, 4, 3, 'Term Life Insurance', 'TermLife', 'Insurance LOB'), (5, 1, 1, 'Savings Account', 'SavAcct', 'Banking LOB'), (6, 1, 1, 'Personal Loan', 'PersLn', 'Banking LOB'), (7, 1, 1, 'Auto Loan', 'AutLn', 'Banking LOB'), (8, 4, 3, 'Permanent Life Insurance', 'PermLife', 'Insurance LOB'), (9, 2, 2, 'US Savings Bonds', 'USSavBond', 'Investment LOB')"
 
 
-#SUBSCRIBE TO QUICKLAB
+#X
 
 gcloud services disable dataflow.googleapis.com --force
 gcloud services enable dataflow.googleapis.com
@@ -66,7 +66,7 @@ gsutil cp manifest.json gs://$DEVSHELL_PROJECT_ID
 
 sleep 60
 
-gcloud dataflow jobs run quicklab --gcs-location gs://dataflow-templates-us-west1/latest/GCS_Text_to_Cloud_Spanner --region us-west1 --staging-location gs://$DEVSHELL_PROJECT_ID/tmp/ --parameters instanceId=banking-ops-instance,databaseId=banking-ops-db,importManifest=gs://$DEVSHELL_PROJECT_ID/manifest.json
+gcloud dataflow jobs run qwiklab --gcs-location gs://dataflow-templates-us-west1/latest/GCS_Text_to_Cloud_Spanner --region us-west1 --staging-location gs://$DEVSHELL_PROJECT_ID/tmp/ --parameters instanceId=banking-ops-instance,databaseId=banking-ops-db,importManifest=gs://$DEVSHELL_PROJECT_ID/manifest.json
 
 
 gcloud spanner databases ddl update banking-ops-db \
