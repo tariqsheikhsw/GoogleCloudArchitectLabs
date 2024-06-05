@@ -1,6 +1,8 @@
 ### Skill Badges List 
 
-Profile :  https://www.cloudskillsboost.google/public_profiles/974c6139-5630-494d-8c39-1e6a8f7fc9a4 
+#### GSB Profile 
+🔗 https://www.cloudskillsboost.google/public_profiles/974c6139-5630-494d-8c39-1e6a8f7fc9a4 
+
 
 [✔️] Implement CI/CD Pipelines on Google Cloud   
 🔗https://www.cloudskillsboost.google/course_templates/691  
