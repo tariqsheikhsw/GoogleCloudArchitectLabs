@@ -142,7 +142,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Prompt Design in Vertex AI  
 🔗 https://www.cloudskillsboost.google/course_templates/976
 
-[🔘]  Monitor and Log with Google Cloud Observability     
+[✔️]  Monitor and Log with Google Cloud Observability     
 🔗 https://www.cloudskillsboost.google/course_templates/749
 
 [🔘] Use Machine Learning APIs on Google Cloud  
@@ -157,34 +157,34 @@ https://www.cloudskillsboost.google/course_templates/628
 [🔘] Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
 
-🔘 Manage Data Models in Looker  
+[🔘] Manage Data Models in Looker  
 🔗 https://www.cloudskillsboost.google/course_templates/651
 
-🔘 Monitor Environments with Google Cloud Managed Service for Prometheus  
+[🔘] Monitor Environments with Google Cloud Managed Service for Prometheus  
 🔗 https://www.cloudskillsboost.google/course_templates/761
 
-🔘 Streaming Analytics into BigQuery  
+[🔘] Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
-🔘 Get Started with Looker  
+[🔘] Get Started with Looker  
 🔗 https://www.cloudskillsboost.google//course_templates/647
 
-🔘 App Building with AppSheet    
+[🔘] App Building with AppSheet    
 🔗 https://www.cloudskillsboost.google//course_templates/635
 
-🔘 Derive Insights from BigQuery Data  
+[🔘] Derive Insights from BigQuery Data  
 🔗 https://www.cloudskillsboost.google/course_templates/623
 
-🔘 Automate Data Capture at Scale with Document AI  
+[🔘] Automate Data Capture at Scale with Document AI  
 🔗 https://www.cloudskillsboost.google//course_templates/674
 
-🔘 Use Functions, Formulas, and Charts in Google Sheets  
+[🔘] Use Functions, Formulas, and Charts in Google Sheets  
 🔗 https://www.cloudskillsboost.google//course_templates/776
 
-🔘 Share Data Using Google Data Cloud  
+[🔘] Share Data Using Google Data Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/657
 
-🔘 Detect Manufacturing Defects using Visual Inspection AI  
+[🔘] Detect Manufacturing Defects using Visual Inspection AI  
 🔗 https://www.cloudskillsboost.google//course_templates/644
 
 [✔️] Create and Manage Cloud Spanner Instances  
@@ -193,22 +193,22 @@ https://www.cloudskillsboost.google//course_templates/632
 [✔️] Build a Website on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/638
 
-🔘 Engineer Data for Predictive Modeling with BigQuery ML  
+[🔘] Engineer Data for Predictive Modeling with BigQuery ML  
 🔗 https://www.cloudskillsboost.google/course_templates/627  
 
-🔘 Create and Manage AlloyDB Instances  
+[🔘] Create and Manage AlloyDB Instances  
 🔗 https://www.cloudskillsboost.google//course_templates/642
 
-🔘 Prepare Data for ML APIs on Google Cloud  
+[🔘] Prepare Data for ML APIs on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/631
 
-🔘 Integrate BigQuery Data and Google Workspace using Apps Script  
+[🔘] Integrate BigQuery Data and Google Workspace using Apps Script  
 🔗 https://www.cloudskillsboost.google//course_templates/737
 
-🔘 Develop with Apps Script and AppSheet  
+[🔘] Develop with Apps Script and AppSheet  
 🔗 https://www.cloudskillsboost.google//course_templates/715
 
-🔘 Create a Streaming Data Lake on Cloud Storage  
+[🔘] Create a Streaming Data Lake on Cloud Storage  
 🔗 https://www.cloudskillsboost.google//course_templates/705
 
 [✔️] Build Google Cloud Infrastructure for Azure Professionals  
