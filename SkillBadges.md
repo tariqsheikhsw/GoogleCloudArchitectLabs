@@ -1,6 +1,6 @@
 ### Skill Badges List 
 
-#### CSB Profile  
+#### CSB Profile   
 🔗 https://www.cloudskillsboost.google/public_profiles/974c6139-5630-494d-8c39-1e6a8f7fc9a4 
 
 
