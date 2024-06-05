@@ -142,6 +142,9 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Prompt Design in Vertex AI  
 🔗 https://www.cloudskillsboost.google/course_templates/976
 
+[🔘]  Monitor and Log with Google Cloud Observability     
+🔗 https://www.cloudskillsboost.google/course_templates/749
+
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
