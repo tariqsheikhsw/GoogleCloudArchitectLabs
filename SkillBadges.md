@@ -139,6 +139,9 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Optimize Costs for Google Kubernetes Engine    
 🔗 https://www.cloudskillsboost.google//course_templates/655
 
+[✔️] Prompt Design in Vertex AI  
+🔗 https://www.cloudskillsboost.google/course_templates/976
+
 [🔘] Use Machine Learning APIs on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/630 
 
