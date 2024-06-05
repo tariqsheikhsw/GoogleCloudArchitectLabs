@@ -218,7 +218,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] Develop with Apps Script and AppSheet  
 🔗 https://www.cloudskillsboost.google//course_templates/715
 
-[🔘] Create a Streaming Data Lake on Cloud Storage  
+[✔️] Create a Streaming Data Lake on Cloud Storage  
 🔗 https://www.cloudskillsboost.google//course_templates/705
 
 [✔️] Build Google Cloud Infrastructure for Azure Professionals  
