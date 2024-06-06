@@ -146,11 +146,14 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Prompt Design in Vertex AI  
 🔗 https://www.cloudskillsboost.google/course_templates/976
 
-[✔️]  Monitor and Log with Google Cloud Observability     
+[✔️] Monitor and Log with Google Cloud Observability     
 🔗 https://www.cloudskillsboost.google/course_templates/749
 
-[✔️]  Use Machine Learning APIs on Google Cloud  
+[✔️] Use Machine Learning APIs on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/630 
+
+[✔️] Develop GenAI Apps with Gemini and Streamlit  
+🔗 https://www.cloudskillsboost.google/course_templates/978
 
 [🔘] Develop and Secure APIs with Apigee X    
 🔗 https://www.cloudskillsboost.google/course_templates/714
