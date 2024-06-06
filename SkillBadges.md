@@ -155,6 +155,10 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Develop GenAI Apps with Gemini and Streamlit  
 🔗 https://www.cloudskillsboost.google/course_templates/978
 
+[✔️] Deploy and Manage Apigee X  
+🔗 https://www.cloudskillsboost.google/course_templates/661
+
+
 [🔘] Develop and Secure APIs with Apigee X    
 🔗 https://www.cloudskillsboost.google/course_templates/714
 
