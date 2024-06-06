@@ -173,7 +173,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] Monitor Environments with Google Cloud Managed Service for Prometheus  
 🔗 https://www.cloudskillsboost.google/course_templates/761
 
-[🔘] Streaming Analytics into BigQuery  
+[✔️] Streaming Analytics into BigQuery  
 🔗 https://www.cloudskillsboost.google/course_templates/752
 
 [🔘] Get Started with Looker  
