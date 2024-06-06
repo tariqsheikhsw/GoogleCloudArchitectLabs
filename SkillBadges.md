@@ -209,7 +209,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] Create and Manage AlloyDB Instances  
 🔗 https://www.cloudskillsboost.google//course_templates/642
 
-[🔘] Prepare Data for ML APIs on Google Cloud  
+[✔️]  Prepare Data for ML APIs on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/631
 
 [🔘] Integrate BigQuery Data and Google Workspace using Apps Script  
