@@ -14,8 +14,9 @@
 
 ### FULL LAB LIST : 
 
-Complete GSP Labs : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md)
+Complete GSP Labs : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md)  
 
+Skill Badges List : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/SkillBadges.md)  
 
 ✅Associate Cloud Engineer (ACE)  
 ✅Professional Cloud Architect (PCA)  
