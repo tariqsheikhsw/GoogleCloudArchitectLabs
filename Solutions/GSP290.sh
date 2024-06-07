@@ -21,7 +21,7 @@ gsutil cp gs://spls/gsp290/data_files/head_usa_names.csv gs://$PROJECT/data_file
 bq mk lake
 
 
-cat > quicklab_commands.sh <<'EOF_END'
+cat > qwiklab_commands.sh <<'EOF_END'
 
 pip install apache-beam[gcp]==2.24.0
 
@@ -73,9 +73,9 @@ EOF_END
 
 chmod +x run_commands.sh
 
-mv quicklab_commands.sh dataflow-python-examples/
+mv qwiklab_commands.sh dataflow-python-examples/
 
 
-docker run -it -e PROJECT=$PROJECT -v $(pwd)/dataflow-python-examples:/dataflow python:3.8 /bin/bash /dataflow/quicklab_commands.sh
+docker run -it -e PROJECT=$PROJECT -v $(pwd)/dataflow-python-examples:/dataflow python:3.8 /bin/bash /dataflow/qwiklab_commands.sh
 
 
