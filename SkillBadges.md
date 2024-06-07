@@ -215,6 +215,9 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Create ML Models with BigQuery ML  
 🔗 https://www.cloudskillsboost.google/course_templates/626
 
+[✔️] Predict Soccer Match Outcomes with BigQuery ML   
+🔗 https://www.cloudskillsboost.google/course_templates/656
+
 [🔘] Create and Manage AlloyDB Instances  
 🔗 https://www.cloudskillsboost.google//course_templates/642
 
