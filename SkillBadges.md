@@ -188,7 +188,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] App Building with AppSheet    
 🔗 https://www.cloudskillsboost.google//course_templates/635
 
-[🔘] Derive Insights from BigQuery Data  
+[✔️] Derive Insights from BigQuery Data  
 🔗 https://www.cloudskillsboost.google/course_templates/623
 
 [🔘] Automate Data Capture at Scale with Document AI  
