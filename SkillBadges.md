@@ -164,7 +164,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] Create and Manage Cloud SQL for PostgreSQL Instances  
 🔗 https://www.cloudskillsboost.google/course_templates/652
 
-[🔘] Classify Images with TensorFlow on Google Cloud  
+[✔️] Classify Images with TensorFlow on Google Cloud  
 🔗 https://www.cloudskillsboost.google/course_templates/646
 
 [🔘] Prepare Data for Looker Dashboards and Reports  
