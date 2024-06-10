@@ -191,7 +191,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Derive Insights from BigQuery Data  
 🔗 https://www.cloudskillsboost.google/course_templates/623
 
-[🔘] Automate Data Capture at Scale with Document AI  
+[✔️] Automate Data Capture at Scale with Document AI  
 🔗 https://www.cloudskillsboost.google//course_templates/674
 
 [🔘] Use Functions, Formulas, and Charts in Google Sheets  
