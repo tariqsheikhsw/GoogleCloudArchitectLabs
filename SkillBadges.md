@@ -170,7 +170,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [🔘] Prepare Data for Looker Dashboards and Reports  
 🔗 https://www.cloudskillsboost.google/course_templates/628
 
-[🔘] Analyze BigQuery Data in Connected Sheets  
+[✔️] Analyze BigQuery Data in Connected Sheets  
 🔗 https://www.cloudskillsboost.google//course_templates/632
 
 [🔘] Manage Data Models in Looker  
