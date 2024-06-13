@@ -12,3 +12,4 @@ sudo chmod +x GSPqqq.sh
 
 ./GSPqqq.sh
 ```
+//Last step is MANUAL (TASK5)
