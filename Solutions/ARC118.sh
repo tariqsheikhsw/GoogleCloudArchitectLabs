@@ -20,6 +20,8 @@ gcloud eventarc triggers create pubsub-events-trigger \
   --transport-topic=$DEVSHELL_PROJECT_ID-topic \
   --event-filters="type=google.cloud.pubsub.topic.v1.messagePublished"
 
+(Y)
+
 gcloud pubsub topics publish $DEVSHELL_PROJECT_ID-topic \
   --message="Test message"
 
