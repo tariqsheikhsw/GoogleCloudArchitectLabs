@@ -13,7 +13,7 @@
 
 
 ### FULL LAB LIST : 
-- GSP315  
+
 Complete GSP Labs : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/README.md)  
 
 Skill Badges List : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/SkillBadges.md)  
@@ -26,3 +26,4 @@ Skill Badges List : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitect
 ### Pre-Assessment 
 (SINGLE LABS)
 
+✅ GSP315  
