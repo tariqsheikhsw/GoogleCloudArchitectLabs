@@ -11,6 +11,7 @@ gcloud run deploy pubsub-events \
   --region=$REGION \
   --allow-unauthenticated
 
+(Y)
 
 gcloud eventarc triggers create pubsub-events-trigger \
   --location=$REGION \
