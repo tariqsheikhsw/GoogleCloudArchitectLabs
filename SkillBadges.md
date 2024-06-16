@@ -194,7 +194,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Automate Data Capture at Scale with Document AI  
 🔗 https://www.cloudskillsboost.google//course_templates/674
 
-[🔘] Use Functions, Formulas, and Charts in Google Sheets  
+[✔️] Use Functions, Formulas, and Charts in Google Sheets  
 🔗 https://www.cloudskillsboost.google//course_templates/776
 
 [🔘] Share Data Using Google Data Cloud  
@@ -209,7 +209,7 @@ https://www.cloudskillsboost.google//course_templates/667
 [✔️] Build a Website on Google Cloud  
 🔗 https://www.cloudskillsboost.google//course_templates/638
 
-[🔘] Engineer Data for Predictive Modeling with BigQuery ML  
+[✔️] Engineer Data for Predictive Modeling with BigQuery ML  
 🔗 https://www.cloudskillsboost.google/course_templates/627  
 
 [✔️] Create ML Models with BigQuery ML  
