@@ -23,7 +23,4 @@ Skill Badges List : [LIST](https://github.com/tariqsheikhsw/GoogleCloudArchitect
 ✅Professional Data Engineer (PDE)  
 ✅Professional Cloud Security Engineer (CSE)  
 
-### Pre-Assessment 
-(SINGLE LABS)
 
-✅ GSP315  
