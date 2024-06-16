@@ -20,7 +20,7 @@ https://www.cloudskillsboost.google/course_templates/776
 https://www.cloudskillsboost.google/course_templates/776/labs/423784
 
 ✅ Build LookML Objects in Looker  
-https://www.cloudskillsboost.google/course_templates/639?locale=ru
+https://www.cloudskillsboost.google/course_templates/639
 
 ✅ Build LookML Objects in Looker: Challenge Lab   
 https://www.cloudskillsboost.google/paths/18/course_templates/639/labs/468841
