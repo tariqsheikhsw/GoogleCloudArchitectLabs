@@ -1,5 +1,7 @@
 ### Pre-Assessment GCP Labs (6 Labs=6 Skill Badges)
 
+![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/0787acc1-2834-4a45-871b-b508cd168718)
+
 #### Only finish labs with ✔️ and you will complete course
 
 ✅ Set Up an App Dev Environment on Google Cloud    
