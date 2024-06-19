@@ -100,7 +100,7 @@ textPayload: "ERROR: 404 Error page not found"'
 
 
 # Create the alert policy
-cat > quicklab.json <<'EOF_END'
+cat > qwiklabs.json <<'EOF_END'
 {
   "displayName": "log based metric alert",
   "userLabels": {},
@@ -136,7 +136,7 @@ cat > quicklab.json <<'EOF_END'
 EOF_END
 
 # Create the alert policy
-gcloud alpha monitoring policies create --policy-from-file=quicklab.json
+gcloud alpha monitoring policies create --policy-from-file=qwiklabs.json
 
 
 
