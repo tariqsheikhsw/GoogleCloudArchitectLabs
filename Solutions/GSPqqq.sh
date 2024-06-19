@@ -15,7 +15,7 @@ cat > email-channel.json <<EOF_END
 {
   "type": "email",
   "displayName": "Qwiklabs Student",
-  "description": "Subscribe to quicklab",
+  "description": "Google CSB",
   "labels": {
     "email_address": "$USER_EMAIL"
   }
