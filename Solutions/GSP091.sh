@@ -20,8 +20,8 @@ gcloud logging metrics create stopped-vm \
 cat > pubsub-channel.json <<EOF_END
 {
   "type": "pubsub",
-  "displayName": "quicklab",
-  "description": "Subscribe to quicklab",
+  "displayName": "Google CSB",
+  "description": "Google CSB",
   "labels": {
     "topic": "projects/$DEVSHELL_PROJECT_ID/topics/notificationTopic"
   }
