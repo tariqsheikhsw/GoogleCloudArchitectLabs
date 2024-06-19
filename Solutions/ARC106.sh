@@ -35,7 +35,6 @@ while true; do
         # Wait for a certain amount of time before checking again
         sleep 30  # you can adjust the sleep duration based on your needs
         echo "The Dataflow job is not running. Waiting for it to start..."
-        echo "Meantime Like Share & Subscribe to Quicklab[https://www.youtube.com/@quick_lab]..."
         # Continue to the next iteration of the loop
     fi
 done
