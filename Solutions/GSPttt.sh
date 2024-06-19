@@ -307,9 +307,9 @@ bash generate_streaming_events.sh true
 
 sleep 30
 
-gcloud pubsub topics publish my_topic --message "Subscribe to Quicklab"
+gcloud pubsub topics publish my_topic --message "Google CSB"
 
-gcloud pubsub topics publish my_topic --message "Like Share & Subscribe:)"
+gcloud pubsub topics publish my_topic --message "Google CSB :)"
 
 
 export PROJECT_ID=$(gcloud config get-value project)
