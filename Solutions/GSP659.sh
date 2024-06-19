@@ -18,7 +18,7 @@ cd ~/monolith-to-microservices/monolith
 gcloud artifacts repositories create monolith-demo \
     --repository-format=docker \
     --location=$REGION \
-    --description="Subscribe to quicklab" 
+    --description="Google CSB" 
 
 
 gcloud auth configure-docker  --quiet 
