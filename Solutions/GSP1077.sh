@@ -52,7 +52,7 @@ gcloud builds submit --tag="${REGION}-docker.pkg.dev/${PROJECT_ID}/my-repository
 
 gcloud builds triggers create cloud-source-repositories \
     --name="hello-cloudbuild" \
-    --description="subscribe to QwikLabs" \
+    --description="QwikLabs" \
     --repo="hello-cloudbuild-app" \
     --branch-pattern="^master$" \
     --build-config="cloudbuild.yaml"
@@ -109,7 +109,7 @@ hello-cloudbuild-env /tmp/hello-cloudbuild-env-policy.yaml
 
 gcloud builds triggers create cloud-source-repositories \
     --name="hello-cloudbuild-deploy" \
-    --description="subscribe to QwikLabs" \
+    --description="QwikLabs" \
     --repo="hello-cloudbuild-env" \
     --branch-pattern="^candidate$" \
     --build-config="cloudbuild.yaml"
