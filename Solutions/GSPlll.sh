@@ -31,7 +31,7 @@ gcloud services vpc-peerings connect \
 gcloud beta sql instances create wordpress-db \
   --region=$REGION \
   --database-version=MYSQL_5_7 \
-  --root-password=subscribe_to_quicklab \
+  --root-password=google_csb_qwiklabs \
   --tier=db-n1-standard-1 \
   --storage-type=SSD \
   --storage-size=10GB \
