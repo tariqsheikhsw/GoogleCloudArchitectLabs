@@ -58,7 +58,7 @@ docker ps
 gcloud artifacts repositories create my-repository \
     --repository-format=docker \
     --location=$REGION \
-    --description="Subscribe to quicklab" 
+    --description="Qwiklabs" 
 
 gcloud auth configure-docker $REGION-docker.pkg.dev --quiet
 
