@@ -6,7 +6,7 @@ gcloud sql instances create postgresql-db \
 --database-version=POSTGRES_14 \
 --zone=$ZONE \
 --tier=db-custom-1-3840 \
---root-password=subscribe_to_quicklab \
+--root-password=csb_to_qwiklabs \
 --edition=ENTERPRISE
 
 
