@@ -1784,7 +1784,7 @@ module "mynet-us-vm" {
 module "mynet-second-vm" {
   source              = "./instance"
   instance_name       = "mynet-second-vm"
-  instance_zone       = "$ZONE_2"  # subscribe to quicklab
+  instance_zone       = "$ZONE_2"  # Qwiklabs
   instance_subnetwork = google_compute_network.mynetwork.self_link
 }
 
