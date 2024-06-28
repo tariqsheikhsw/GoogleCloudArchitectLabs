@@ -1,7 +1,7 @@
 ### bb-ide-genai-001 :  Build an AI Image Recognition app using Gemini on Vertex AI 
 
 ```
-export REGION=
+export REGION=us-central1
 ```
 
 ```
