@@ -1,7 +1,7 @@
 ### bb-ide-genai-004 : Build a Multi-Modal GenAI Application: Challenge Lab
 
 ```
-export REGION=
+export REGION=europe-west1
 ```
 
 ```
