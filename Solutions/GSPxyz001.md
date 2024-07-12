@@ -3,7 +3,7 @@ XYZ series : unnnamed labs (from coursera)
 ###  GSPxyz001 : Creating Google Kubernetes Engine Deployments 
 
 ```
-export REGION=
+export REGION=us-central1
 ```
 
 ```
