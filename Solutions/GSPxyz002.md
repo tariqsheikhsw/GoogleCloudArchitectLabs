@@ -1,7 +1,7 @@
  ### GSPxyz002 : Creating Google Kubernetes Engine Deployments (Azure) 
 
 ```
-export my_zone=us-west1-a
+export ZONE=us-west1-a
 export REGION=us-west1
 ```
 
