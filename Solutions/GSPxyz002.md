@@ -2,7 +2,7 @@
 
 ```
 export ZONE=us-west1-a
-export REGION=us-west1
+#export REGION=us-west1
 ```
 
 ```
