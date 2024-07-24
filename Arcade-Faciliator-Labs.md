@@ -1,8 +1,8 @@
 # Arcade Faciliator Labs
 
-1) 6 Easy Pre-Assessment Labs  ✅   
+1) 6 Easy Pre-Assessment Labs  ✅   🔘 Except one    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
-🔘 Except one   
+ 
 
 1) GenAI Lab  ✅  
 https://www.cloudskillsboost.google/course_templates/1076
@@ -10,11 +10,11 @@ https://www.cloudskillsboost.google/course_templates/1076
 2) List below  
 
 
-Implement Load Balancing on Compute Engine  ✅ 
+Implement Load Balancing on Compute Engine  ✅   
 https://www.cloudskillsboost.google/course_templates/648 
 
 
-Build a Website on Google Cloud (time consuming)  ✅ Except one  
+Build a Website on Google Cloud (time consuming)  ✅ 🔘 Except one   
 https://www.cloudskillsboost.google/course_templates/638  
 
 
