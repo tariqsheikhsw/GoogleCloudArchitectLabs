@@ -45,7 +45,7 @@ while true; do
         echo "Command executed successfully. Now running next command.."
         break 
     else
-        echo "Retrying.. Please like and subscribe to techcps[https://www.youtube.com/@techcps]."
+        echo "Retrying..."
         sleep 10 
     fi
 done
