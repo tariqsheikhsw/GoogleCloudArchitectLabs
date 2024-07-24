@@ -37,6 +37,7 @@ https://www.cloudskillsboost.google/course_templates/687
 Build Google Cloud Infrastructure for Azure Professionals  ✅   
 https://www.cloudskillsboost.google/course_templates/688
 
+(CLOUD STORAGE : Ultra Easy) 
 
 Get Started with Cloud Storage  (ULTRA EASY)  ✅  
 https://www.cloudskillsboost.google/course_templates/725  
@@ -44,6 +45,17 @@ https://www.cloudskillsboost.google/course_templates/725
 
 Use APIs to Work with Cloud Storage  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/755  
+
+
+Create a Streaming Data Lake on Cloud Storage (ULTRA EASY)   
+https://www.cloudskillsboost.google/course_templates/705  
+
+
+Create a Secure Data Lake on Cloud Storage (ULTRA EASY)  
+https://www.cloudskillsboost.google/course_templates/704
+
+
+
 
 Store, Process, and Manage Data on Google Cloud - Console  
 https://www.cloudskillsboost.google/course_templates/658  
