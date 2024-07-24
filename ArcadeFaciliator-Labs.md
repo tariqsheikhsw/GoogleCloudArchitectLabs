@@ -4,13 +4,22 @@
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md
 
 2) GenAI Lab  
-https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=32944166
+https://www.cloudskillsboost.google/course_templates/1076
 
 3) List below  
 
-https://www.cloudskillsboost.google/course_templates/648?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade24  
+https://www.cloudskillsboost.google/course_templates/648 
 
 https://www.cloudskillsboost.google/course_templates/638  
 
 
+App Engine: 3 Ways    
+https://www.cloudskillsboost.google/course_templates/671  
 
+
+Cloud Speech API: 3 Ways  
+https://www.cloudskillsboost.google/course_templates/700  
+
+
+Cloud Functions: 3 Ways  
+https://www.cloudskillsboost.google/course_templates/696  
