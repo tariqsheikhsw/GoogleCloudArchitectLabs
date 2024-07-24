@@ -38,6 +38,13 @@ Build Google Cloud Infrastructure for Azure Professionals  ✅
 https://www.cloudskillsboost.google/course_templates/688
 
 
+Get Started with Cloud Storage  
+https://www.cloudskillsboost.google/course_templates/725  
+
+
+Use APIs to Work with Cloud Storage  
+https://www.cloudskillsboost.google/course_templates/755  
+
 Store, Process, and Manage Data on Google Cloud - Console  
 https://www.cloudskillsboost.google/course_templates/658  
 
