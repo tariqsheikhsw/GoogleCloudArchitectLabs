@@ -8,8 +8,12 @@ https://www.cloudskillsboost.google/course_templates/1076
 
 3) List below  
 
+
+Implement Load Balancing on Compute Engine  
 https://www.cloudskillsboost.google/course_templates/648 
 
+
+Build a Website on Google Cloud (time consuming)  
 https://www.cloudskillsboost.google/course_templates/638  
 
 
