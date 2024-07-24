@@ -47,11 +47,11 @@ Use APIs to Work with Cloud Storage  (ULTRA EASY) ✅
 https://www.cloudskillsboost.google/course_templates/755  
 
 
-Create a Streaming Data Lake on Cloud Storage (ULTRA EASY)   
+Create a Streaming Data Lake on Cloud Storage (ULTRA EASY) ✅   
 https://www.cloudskillsboost.google/course_templates/705  
 
 
-Create a Secure Data Lake on Cloud Storage (ULTRA EASY)  
+Create a Secure Data Lake on Cloud Storage (ULTRA EASY)  ✅   
 https://www.cloudskillsboost.google/course_templates/704
 
 
@@ -65,7 +65,7 @@ Store, Process, and Manage Data on Google Cloud - Command Line
 https://www.cloudskillsboost.google/course_templates/659  
 
 
-Get Started with Pub/Sub  
+Get Started with Pub/Sub  ✅   
 https://www.cloudskillsboost.google/course_templates/728  
 
 
