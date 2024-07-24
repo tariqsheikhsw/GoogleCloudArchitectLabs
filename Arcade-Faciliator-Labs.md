@@ -44,3 +44,26 @@ https://www.cloudskillsboost.google/course_templates/658
 
 Store, Process, and Manage Data on Google Cloud - Command Line  
 https://www.cloudskillsboost.google/course_templates/659  
+
+
+Get Started with Pub/Sub  
+https://www.cloudskillsboost.google/course_templates/728  
+
+
+The Basics of Google Cloud Compute  
+https://www.cloudskillsboost.google/course_templates/754  
+
+
+Networking Fundamentals on Google Cloud  
+https://www.cloudskillsboost.google/course_templates/748  
+
+
+Configure Service Accounts and IAM Roles for Google Cloud  
+https://www.cloudskillsboost.google/course_templates/702  
+
+
+Use APIs to Work with Cloud Storage  
+https://www.cloudskillsboost.google/course_templates/755
+
+Build Infrastructure with Terraform on Google Cloud  
+https://www.cloudskillsboost.google/course_templates/636  
