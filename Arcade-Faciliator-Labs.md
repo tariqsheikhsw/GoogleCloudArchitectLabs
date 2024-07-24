@@ -38,11 +38,11 @@ Build Google Cloud Infrastructure for Azure Professionals  ✅
 https://www.cloudskillsboost.google/course_templates/688
 
 
-Get Started with Cloud Storage  (ULTRA EASY)  
+Get Started with Cloud Storage  (ULTRA EASY)  ✅  
 https://www.cloudskillsboost.google/course_templates/725  
 
 
-Use APIs to Work with Cloud Storage  
+Use APIs to Work with Cloud Storage  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/755  
 
 Store, Process, and Manage Data on Google Cloud - Console  
@@ -68,9 +68,6 @@ https://www.cloudskillsboost.google/course_templates/748
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
-
-Use APIs to Work with Cloud Storage  
-https://www.cloudskillsboost.google/course_templates/755
 
 Build Infrastructure with Terraform on Google Cloud  
 https://www.cloudskillsboost.google/course_templates/636  
