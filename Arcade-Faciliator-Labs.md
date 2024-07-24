@@ -27,3 +27,12 @@ https://www.cloudskillsboost.google/course_templates/700
 
 Cloud Functions: 3 Ways  
 https://www.cloudskillsboost.google/course_templates/696  
+
+
+Build Google Cloud Infrastructure for AWS Professionals  
+https://www.cloudskillsboost.google/course_templates/687
+
+
+Build Google Cloud Infrastructure for Azure Professionals  
+https://www.cloudskillsboost.google/course_templates/688
+
