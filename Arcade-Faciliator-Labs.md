@@ -38,7 +38,7 @@ Build Google Cloud Infrastructure for Azure Professionals  ✅
 https://www.cloudskillsboost.google/course_templates/688
 
 
-Get Started with Cloud Storage  
+Get Started with Cloud Storage  (ULTRA EASY)  
 https://www.cloudskillsboost.google/course_templates/725  
 
 
