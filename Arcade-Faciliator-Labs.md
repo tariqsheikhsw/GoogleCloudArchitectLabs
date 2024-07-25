@@ -80,11 +80,16 @@ https://www.cloudskillsboost.google//course_templates/753
 30. Build Infrastructure with Terraform on Google Cloud   ✅      
 https://www.cloudskillsboost.google/course_templates/636
 
-31. Develop your Google Cloud Network    
+31. Develop your Google Cloud Network   (ULTRA EASY) ✅     
 https://www.cloudskillsboost.google/course_templates/625  
 
 32. Set Up a Google Cloud Network    
-https://www.cloudskillsboost.google/course_templates/641  
+https://www.cloudskillsboost.google/course_templates/641
+
+33. Analyze Sentiment with Natural Language API 
+https://www.cloudskillsboost.google/course_templates/667
+
+
 
 
 Analyze BigQuery Data in Connected Sheets  
