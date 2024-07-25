@@ -65,6 +65,13 @@ https://www.cloudskillsboost.google/course_templates/653
 25. Get Started with API Gateway ✅   (Consumes lot of time)  
 https://www.cloudskillsboost.google/course_templates/662/labs/461587
 
+26. Build a Data Warehouse with BigQuery (ULTRA EASY) ✅   
+https://www.cloudskillsboost.google/course_templates/624
+
+
+
+
+
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
