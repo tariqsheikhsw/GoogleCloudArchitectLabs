@@ -86,8 +86,12 @@ https://www.cloudskillsboost.google/course_templates/625
 32. Set Up a Google Cloud Network    
 https://www.cloudskillsboost.google/course_templates/641
 
-33. Analyze Sentiment with Natural Language API   
+33. Analyze Sentiment with Natural Language API   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/667  
+
+34.  Monitoring in Google Cloud
+https://www.cloudskillsboost.google/course_templates/747
+
 
 
 
