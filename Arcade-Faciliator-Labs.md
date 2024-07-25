@@ -55,8 +55,6 @@ Create a Secure Data Lake on Cloud Storage (ULTRA EASY)  ✅
 https://www.cloudskillsboost.google/course_templates/704
 
 
-
-
 Store, Process, and Manage Data on Google Cloud - Console  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/658  
 
@@ -85,6 +83,8 @@ Monitor and Manage Google Cloud Resources  (ULTRA EASY) ✅
 https://www.cloudskillsboost.google/course_templates/653
 
 
+Get Started with API Gateway (ULTRA EASY) ✅   
+https://www.cloudskillsboost.google/course_templates/662/labs/461587
 
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
