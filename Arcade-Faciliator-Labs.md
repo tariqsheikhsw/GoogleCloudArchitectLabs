@@ -92,9 +92,30 @@ https://www.cloudskillsboost.google/course_templates/667
 34.  Monitoring in Google Cloud
 https://www.cloudskillsboost.google/course_templates/747
 
+35. Secure BigLake Data  
+https://www.cloudskillsboost.google/course_templates/751
+
+36. Analyze Speech and Language with Google APIs  
+https://www.cloudskillsboost.google/course_templates/634
+
+37. Get Started with Dataplex  
+https://www.cloudskillsboost.google/course_templates/726
 
 
+Share Data Using Google Data Cloud  
+https://www.cloudskillsboost.google/course_templates/657
 
+
+Automate Data Capture at Scale with Document AI  
+https://www.cloudskillsboost.google/course_templates/674
+
+
+Optimize Costs for Google Kubernetes Engine
+https://www.cloudskillsboost.google/course_templates/655
+
+
+Create ML Models with BigQuery ML  
+https://www.cloudskillsboost.google/course_templates/626
 
 Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
