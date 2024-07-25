@@ -117,6 +117,10 @@ https://www.cloudskillsboost.google/course_templates/655
 Create ML Models with BigQuery ML   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/626
 
+
+Using the Google Cloud Speech API  
+https://www.cloudskillsboost.google/course_templates/756
+
 Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
 
