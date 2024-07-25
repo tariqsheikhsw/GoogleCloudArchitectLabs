@@ -1,4 +1,4 @@
-export REGION=us-east1
+export REGION=us-west1
 
 
 gcloud pubsub topics create $DEVSHELL_PROJECT_ID-topic
