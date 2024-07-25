@@ -45,3 +45,5 @@ https://www.cloudskillsboost.google/course_templates/639
 🔘 Get Started with Google Workspace Tools: Challenge Lab  
 🔗https://www.cloudskillsboost.google/catalog_lab/4935  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP376.md  
+
+P.S. :  GSP467 : Google Meet: Getting Started (has to be completed manually)  
