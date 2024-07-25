@@ -77,6 +77,10 @@ Networking Fundamentals on Google Cloud  (ULTRA EASY) ✅
 https://www.cloudskillsboost.google/course_templates/748  
 
 
+Get Started with Eventarc  (ULTRA EASY) ✅    
+https://www.cloudskillsboost.google/course_templates/727  
+
+
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
