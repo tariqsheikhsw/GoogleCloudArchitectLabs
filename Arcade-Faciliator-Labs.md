@@ -68,7 +68,7 @@ https://www.cloudskillsboost.google/course_templates/662/labs/461587
 26. Build a Data Warehouse with BigQuery (ULTRA EASY) ✅   
 https://www.cloudskillsboost.google/course_templates/624
 
-27. Use Machine Learning APIs on Google Cloud  
+27. Use Machine Learning APIs on Google Cloud   (ULTRA EASY)  ✅   
 https://www.cloudskillsboost.google/course_templates/630
 
 28. Analyze Images with the Cloud Vision API  
