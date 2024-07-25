@@ -7,7 +7,7 @@ https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmen
 1) GenAI Lab  ✅  
 https://www.cloudskillsboost.google/course_templates/1076
 
-2) Rest of Labs List below  (Sequence Wise)   
+### Rest of Labs List below  (Sequence Wise)   
 
 8. Implement Load Balancing on Compute Engine  ✅   
 https://www.cloudskillsboost.google/course_templates/648 
