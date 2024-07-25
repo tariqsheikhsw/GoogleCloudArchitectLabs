@@ -74,7 +74,10 @@ https://www.cloudskillsboost.google/course_templates/630
 28. Analyze Images with the Cloud Vision API  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google//course_templates/633
 
-29. Build Infrastructure with Terraform on Google Cloud   ✅    
+29. Analyze BigQuery Data in Connected Sheets  
+https://www.cloudskillsboost.google//course_templates/632
+
+30. Build Infrastructure with Terraform on Google Cloud   ✅    
 https://www.cloudskillsboost.google/course_templates/636  
 
 
