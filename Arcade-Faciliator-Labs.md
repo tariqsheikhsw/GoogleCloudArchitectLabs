@@ -74,17 +74,17 @@ https://www.cloudskillsboost.google/course_templates/630
 28. Analyze Images with the Cloud Vision API  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google//course_templates/633
 
-29. Tag and Discover BigLake Data  
+29. Tag and Discover BigLake Data  (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google//course_templates/753
 
-30. Build Infrastructure with Terraform on Google Cloud   ✅    
-https://www.cloudskillsboost.google/course_templates/636  
+30. Build Infrastructure with Terraform on Google Cloud   ✅      
+https://www.cloudskillsboost.google/course_templates/636
 
-31.Develop your Google Cloud Network  
-https://www.cloudskillsboost.google/course_templates/625
+31. Develop your Google Cloud Network    
+https://www.cloudskillsboost.google/course_templates/625  
 
-32. Set Up a Google Cloud Network  
-https://www.cloudskillsboost.google/course_templates/641
+32. Set Up a Google Cloud Network    
+https://www.cloudskillsboost.google/course_templates/641  
 
 
 Analyze BigQuery Data in Connected Sheets  
