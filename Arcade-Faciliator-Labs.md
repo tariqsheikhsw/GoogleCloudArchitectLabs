@@ -71,14 +71,14 @@ https://www.cloudskillsboost.google/course_templates/624
 27. Use Machine Learning APIs on Google Cloud  
 https://www.cloudskillsboost.google/course_templates/630
 
-
+28. Build Infrastructure with Terraform on Google Cloud  
+https://www.cloudskillsboost.google/course_templates/636  
 
 
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
-Build Infrastructure with Terraform on Google Cloud  
-https://www.cloudskillsboost.google/course_templates/636  
+
 
 Build a Website on Google Cloud (time consuming)  ✅ 🔘 Except one   
 https://www.cloudskillsboost.google/course_templates/638  
