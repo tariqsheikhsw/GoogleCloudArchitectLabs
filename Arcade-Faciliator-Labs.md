@@ -114,7 +114,7 @@ Optimize Costs for Google Kubernetes Engine
 https://www.cloudskillsboost.google/course_templates/655
 
 
-Create ML Models with BigQuery ML  
+Create ML Models with BigQuery ML   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/626
 
 Analyze BigQuery Data in Connected Sheets  
