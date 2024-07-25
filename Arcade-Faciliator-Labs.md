@@ -81,6 +81,11 @@ Get Started with Eventarc  (ULTRA EASY) ✅
 https://www.cloudskillsboost.google/course_templates/727  
 
 
+Monitor and Manage Google Cloud Resources  (ULTRA EASY) ✅    
+https://www.cloudskillsboost.google/course_templates/653
+
+
+
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
