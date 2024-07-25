@@ -74,12 +74,21 @@ https://www.cloudskillsboost.google/course_templates/630
 28. Analyze Images with the Cloud Vision API  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google//course_templates/633
 
-29. Analyze BigQuery Data in Connected Sheets  
-https://www.cloudskillsboost.google//course_templates/632
+29. Tag and Discover BigLake Data  
+https://www.cloudskillsboost.google//course_templates/753
 
 30. Build Infrastructure with Terraform on Google Cloud   ✅    
 https://www.cloudskillsboost.google/course_templates/636  
 
+31.Develop your Google Cloud Network  
+https://www.cloudskillsboost.google/course_templates/625
+
+32. Set Up a Google Cloud Network  
+https://www.cloudskillsboost.google/course_templates/641
+
+
+Analyze BigQuery Data in Connected Sheets  
+https://www.cloudskillsboost.google//course_templates/632
 
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
