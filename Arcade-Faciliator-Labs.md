@@ -110,7 +110,7 @@ Automate Data Capture at Scale with Document AI
 https://www.cloudskillsboost.google/course_templates/674
 
 
-Optimize Costs for Google Kubernetes Engine
+Optimize Costs for Google Kubernetes Engine  
 https://www.cloudskillsboost.google/course_templates/655
 
 
