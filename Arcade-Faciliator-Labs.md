@@ -1,6 +1,6 @@
 # Arcade Faciliator Labs
 
-1) 6 Easy Pre-Assessment Labs  ✅   🔘 Except one    
+1) 6 Easy Pre-Assessment Labs  ✅    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
  
 
@@ -57,23 +57,23 @@ https://www.cloudskillsboost.google/course_templates/704
 
 
 
-Store, Process, and Manage Data on Google Cloud - Console  
+Store, Process, and Manage Data on Google Cloud - Console  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/658  
 
 
-Store, Process, and Manage Data on Google Cloud - Command Line  
+Store, Process, and Manage Data on Google Cloud - Command Line  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/659  
 
 
-Get Started with Pub/Sub  ✅   
+Get Started with Pub/Sub  (ULTRA EASY) ✅   
 https://www.cloudskillsboost.google/course_templates/728  
 
 
-The Basics of Google Cloud Compute  
+The Basics of Google Cloud Compute  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/754  
 
 
-Networking Fundamentals on Google Cloud  
+Networking Fundamentals on Google Cloud  (ULTRA EASY) ✅  
 https://www.cloudskillsboost.google/course_templates/748  
 
 
