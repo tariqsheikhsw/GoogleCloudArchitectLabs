@@ -71,7 +71,10 @@ https://www.cloudskillsboost.google/course_templates/624
 27. Use Machine Learning APIs on Google Cloud  
 https://www.cloudskillsboost.google/course_templates/630
 
-28. Build Infrastructure with Terraform on Google Cloud   ✅    
+28. Analyze Images with the Cloud Vision API  
+https://www.cloudskillsboost.google//course_templates/633
+
+29. Build Infrastructure with Terraform on Google Cloud   ✅    
 https://www.cloudskillsboost.google/course_templates/636  
 
 
