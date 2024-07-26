@@ -33,7 +33,6 @@ kubectl -n gmp-system apply -f https://raw.githubusercontent.com/GoogleCloudPlat
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                           Congratulations, you're all done with the lab 😄 Don't forget to subscribe our YouTube Channel😄
-                                        
-                                                                 Thanks for watching.!
+                           C                                       
+                                                                 Lab Completed !!!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
