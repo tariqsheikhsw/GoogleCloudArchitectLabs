@@ -1,5 +1,8 @@
 # Arcade Faciliator Labs
 
+# CSB Link   
+ https://www.cloudskillsboost.google/public_profiles/4f1f390f-9d93-46c6-a93b-1ad817aecaa6 
+ 
 1) 6 Easy Pre-Assessment Labs  ✅    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
  
@@ -89,7 +92,7 @@ https://www.cloudskillsboost.google/course_templates/641
 33. Analyze Sentiment with Natural Language API   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/667  
 
-34.  Monitoring in Google Cloud  (ULTRA EASY) 
+34.  Monitoring in Google Cloud  (ULTRA EASY)   
 https://www.cloudskillsboost.google/course_templates/747
 
 35. Secure BigLake Data    (ULTRA EASY)   
