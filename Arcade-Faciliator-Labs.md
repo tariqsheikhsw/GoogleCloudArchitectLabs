@@ -89,18 +89,27 @@ https://www.cloudskillsboost.google/course_templates/641
 33. Analyze Sentiment with Natural Language API   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/667  
 
-34.  Monitoring in Google Cloud
+34.  Monitoring in Google Cloud  (ULTRA EASY) 
 https://www.cloudskillsboost.google/course_templates/747
 
-35. Secure BigLake Data  
+35. Secure BigLake Data    (ULTRA EASY)   
 https://www.cloudskillsboost.google/course_templates/751
 
-36. Analyze Speech and Language with Google APIs  
+36. Analyze Speech and Language with Google APIs     (ULTRA EASY)  
 https://www.cloudskillsboost.google/course_templates/634
 
-37. Get Started with Dataplex  
+37. Prepare Data for ML APIs on Google Cloud         (ULTRA EASY)  
+https://www.cloudskillsboost.google//course_templates/631
+
+38. Manage Kubernetes in Google Cloud    
+https://www.cloudskillsboost.google//course_templates/783  
+
+39. Get Started with Dataplex  
 https://www.cloudskillsboost.google/course_templates/726
 
+
+Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security  
+https://www.cloudskillsboost.google//course_templates/784
 
 Share Data Using Google Data Cloud  
 https://www.cloudskillsboost.google/course_templates/657
@@ -127,6 +136,8 @@ https://www.cloudskillsboost.google//course_templates/632
 Configure Service Accounts and IAM Roles for Google Cloud  
 https://www.cloudskillsboost.google/course_templates/702  
 
+Integrate BigQuery Data and Google Workspace using Apps Script    
+https://www.cloudskillsboost.google//course_templates/737
 
 
 Build a Website on Google Cloud (time consuming)  ✅ 🔘 Except one   
