@@ -99,6 +99,10 @@ https://www.cloudskillsboost.google/course_templates/647
 35. Prompt Design in Vertex AI   ✅    
 https://www.cloudskillsboost.google/course_templates/976
 
+36. Explore Generative AI with the Vertex AI Gemini API   ✅      
+https://www.cloudskillsboost.google/course_templates/959
+
+
 ### EASY BUT LENGHTY (TAKES TIME) 
 
 X01. Build Infrastructure with Terraform on Google Cloud   ✅      
@@ -152,9 +156,6 @@ https://www.cloudskillsboost.google/course_templates/657
 
 Automate Data Capture at Scale with Document AI  
 https://www.cloudskillsboost.google/course_templates/674
-
-Explore Generative AI with the Vertex AI Gemini API  
-https://www.cloudskillsboost.google/course_templates/959
 
 Automate Data Capture at Scale with Document AI: Challenge Lab   
 https://www.cloudskillsboost.google/course_templates/674/labs/480289
