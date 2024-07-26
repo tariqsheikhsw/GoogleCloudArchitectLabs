@@ -145,7 +145,7 @@ Cloud Architecture: Design, Implement, and Manage     (EASY) ✅
 https://www.cloudskillsboost.google/course_templates/640
 
 
-Build LangChain Applications using Vertex AI
+Build LangChain Applications using Vertex AI   (EASY) ✅ 
 https://www.cloudskillsboost.google/course_templates/984
 
 
