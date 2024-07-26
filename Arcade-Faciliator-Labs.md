@@ -122,7 +122,7 @@ Automate Data Capture at Scale with Document AI
 https://www.cloudskillsboost.google/course_templates/674
 
 
-Optimize Costs for Google Kubernetes Engine  (LENGTHY)  
+Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (ISSUE in LAST STEP in GSP767)    
 https://www.cloudskillsboost.google/course_templates/655
 
 
