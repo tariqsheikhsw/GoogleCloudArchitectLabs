@@ -135,7 +135,7 @@ Using the Google Cloud Speech API  (ULTRA EASY)  ✅
 https://www.cloudskillsboost.google/course_templates/756
 
 
-Cloud Architecture: Design, Implement, and Manage  
+Cloud Architecture: Design, Implement, and Manage     (EASY) ✅     
 https://www.cloudskillsboost.google/course_templates/640
 
 
