@@ -110,10 +110,10 @@ https://www.cloudskillsboost.google/course_templates/662/labs/461587
 X03. Cloud Architecture: Design, Implement, and Manage      ✅     
 https://www.cloudskillsboost.google/course_templates/640
 
-X04. Build LangChain Applications using Vertex AI   ✅ 
+X04. Build LangChain Applications using Vertex AI   ✅   
 https://www.cloudskillsboost.google/course_templates/984
 
-X05. Manage Kubernetes in Google Cloud    
+X05. Manage Kubernetes in Google Cloud      
 https://www.cloudskillsboost.google//course_templates/783  
 
 
