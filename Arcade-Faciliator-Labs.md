@@ -160,6 +160,9 @@ Create and Manage Bigtable Instances
 https://www.cloudskillsboost.google/course_templates/650
 
 
+Monitor Environments with Google Cloud Managed Service for Prometheus  
+https://www.cloudskillsboost.google/course_templates/761  
+
 
 Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
