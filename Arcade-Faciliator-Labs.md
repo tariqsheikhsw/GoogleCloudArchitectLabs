@@ -12,6 +12,8 @@ https://www.cloudskillsboost.google/course_templates/1076
 
 ### Rest of Labs List below  (Sequence Wise)   
 
+### (FOCUS ON  Ultra Easy : Cloud Storage, ML , Natural Language , Cloud Speech etc. ) 
+
 8. Implement Load Balancing on Compute Engine  ✅   
 https://www.cloudskillsboost.google/course_templates/648 
 
@@ -29,8 +31,6 @@ https://www.cloudskillsboost.google/course_templates/687
 
 13. Build Google Cloud Infrastructure for Azure Professionals  ✅   
 https://www.cloudskillsboost.google/course_templates/688
-
-### (CLOUD STORAGE : Ultra Easy) 
 
 14. Get Started with Cloud Storage  (ULTRA EASY)  ✅  
 https://www.cloudskillsboost.google/course_templates/725  
