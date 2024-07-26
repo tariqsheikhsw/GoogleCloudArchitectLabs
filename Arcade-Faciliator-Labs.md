@@ -92,7 +92,7 @@ https://www.cloudskillsboost.google/course_templates/641
 33. Analyze Sentiment with Natural Language API   (ULTRA EASY) ✅    
 https://www.cloudskillsboost.google/course_templates/667  
 
-34.  Monitoring in Google Cloud  (ULTRA EASY)   
+34.  Monitoring in Google Cloud  ✅   (MANUAL STEPS esp. in CHALLENGE LAB)  
 https://www.cloudskillsboost.google/course_templates/747
 
 35. Secure BigLake Data    (ULTRA EASY)   
