@@ -95,7 +95,7 @@ https://www.cloudskillsboost.google/course_templates/667
 34.  Monitoring in Google Cloud  ✅   (MANUAL STEPS esp. in CHALLENGE LAB)  
 https://www.cloudskillsboost.google/course_templates/747
 
-35. Secure BigLake Data    (MANUAL TASKS in CHALLENGE LAB)     
+35. Secure BigLake Data    (MANUAL TASKS in CHALLENGE LAB)     🔘 ONE LAB PENDING
 https://www.cloudskillsboost.google/course_templates/751
 
 
@@ -123,7 +123,7 @@ Automate Data Capture at Scale with Document AI
 https://www.cloudskillsboost.google/course_templates/674
 
 
-Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (ISSUE in LAST STEP in GSP767)    
+Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (ISSUE in LAST STEP in GSP767)    🔘 ONE LAB PENDING
 https://www.cloudskillsboost.google/course_templates/655
 
 
@@ -144,5 +144,5 @@ Integrate BigQuery Data and Google Workspace using Apps Script
 https://www.cloudskillsboost.google//course_templates/737
 
 
-Build a Website on Google Cloud (time consuming)  ✅ 🔘 Except one   
+Build a Website on Google Cloud (time consuming)  🔘 ONE LAB PENDING   
 https://www.cloudskillsboost.google/course_templates/638  
