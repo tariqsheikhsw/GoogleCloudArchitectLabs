@@ -86,10 +86,10 @@ deploy_success=false
 
 while [ "$deploy_success" = false ]; do
   if deploy_function; then
-    echo "Function deployed successfully, Don't forgot to subscribe to quicklab:)(https://www.youtube.com/@quick_lab)"
+    echo "Function deployed successfully)"
     deploy_success=true
   else
-    echo "Deployment Retrying, please subscribe to quicklab (https://www.youtube.com/@quick_lab).."
+    echo "Deployment Retrying,..."
     sleep 10
   fi
 done
