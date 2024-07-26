@@ -47,4 +47,4 @@ echo "---------------------"
 #----BACK TO TERMINAL > REPLACE PROJECT ID------
 bq query --use_legacy_sql=false \
 'SELECT *  EXCEPT(zip, latitude, ip_address, longitude)
-FROM `qwiklabs-gcp-02-e197d4768b8b.online_shop.user_online_sessions`;'
+FROM `qwiklabs-gcp-02-e2ea5232bafe.online_shop.user_online_sessions`;'
