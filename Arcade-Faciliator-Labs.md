@@ -98,7 +98,7 @@ https://www.cloudskillsboost.google/course_templates/747
 35. Secure BigLake Data    (ULTRA EASY)   
 https://www.cloudskillsboost.google/course_templates/751
 
-36. Analyze Speech and Language with Google APIs     (ULTRA EASY)  
+36. Analyze Speech and Language with Google APIs     (ULTRA EASY)   ✅  
 https://www.cloudskillsboost.google/course_templates/634
 
 37. Prepare Data for ML APIs on Google Cloud         (ULTRA EASY)  
