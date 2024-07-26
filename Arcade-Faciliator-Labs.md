@@ -15,7 +15,7 @@ https://www.cloudskillsboost.google/course_templates/648
 9. App Engine: 3 Ways    ✅   
 https://www.cloudskillsboost.google/course_templates/671    
 
-10. Cloud Speech API: 3 Ways  
+10. Cloud Speech API: 3 Ways  (ULTRA EASY)  ✅     
 https://www.cloudskillsboost.google/course_templates/700  
 
 11. Cloud Functions: 3 Ways  ✅   
