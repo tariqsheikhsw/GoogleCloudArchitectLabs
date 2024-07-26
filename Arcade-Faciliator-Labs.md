@@ -134,6 +134,12 @@ https://www.cloudskillsboost.google/course_templates/626
 Using the Google Cloud Speech API  (ULTRA EASY)  ✅   
 https://www.cloudskillsboost.google/course_templates/756
 
+
+Cloud Architecture: Design, Implement, and Manage  
+https://www.cloudskillsboost.google/course_templates/640
+
+
+
 Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
 
