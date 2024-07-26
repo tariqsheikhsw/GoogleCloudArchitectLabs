@@ -146,6 +146,20 @@ Cloud Architecture: Design, Implement, and Manage     (EASY) ✅
 https://www.cloudskillsboost.google/course_templates/640
 
 
+Build LangChain Applications using Vertex AI
+https://www.cloudskillsboost.google/course_templates/984
+
+
+Explore Generative AI with the Vertex AI Gemini API  
+https://www.cloudskillsboost.google/course_templates/959
+
+Automate Data Capture at Scale with Document AI: Challenge Lab   
+https://www.cloudskillsboost.google/course_templates/674/labs/480289
+
+Create and Manage Bigtable Instances  
+https://www.cloudskillsboost.google/course_templates/650
+
+
 
 Analyze BigQuery Data in Connected Sheets  
 https://www.cloudskillsboost.google//course_templates/632
