@@ -105,10 +105,17 @@ https://www.cloudskillsboost.google/course_templates/634
 37. Prepare Data for ML APIs on Google Cloud         (ULTRA EASY)  
 https://www.cloudskillsboost.google//course_templates/631
 
-38. Manage Kubernetes in Google Cloud    
+
+38. Get Started with Looker (ULTRA EASY)   ✅    
+https://www.cloudskillsboost.google/course_templates/647
+
+39. Prompt Design in Vertex AI  (ULTRA EASY)   ✅    
+https://www.cloudskillsboost.google/course_templates/976
+
+40. Manage Kubernetes in Google Cloud    
 https://www.cloudskillsboost.google//course_templates/783  
 
-39. Get Started with Dataplex  
+41. Get Started with Dataplex  (ULTRA EASY)   ✅    
 https://www.cloudskillsboost.google/course_templates/726
 
 
