@@ -95,9 +95,8 @@ https://www.cloudskillsboost.google/course_templates/667
 34.  Monitoring in Google Cloud  ✅   (MANUAL STEPS esp. in CHALLENGE LAB)  
 https://www.cloudskillsboost.google/course_templates/747
 
-35. Secure BigLake Data    (MANUAL TASKS in CHALLENGE LAB)     🔘 ONE LAB PENDING
+35. Secure BigLake Data    (MANUAL TASKS in CHALLENGE LAB)     🔘 ONE LAB PENDING  
 https://www.cloudskillsboost.google/course_templates/751
-
 
 36. Analyze Speech and Language with Google APIs     (ULTRA EASY)   ✅  
 https://www.cloudskillsboost.google/course_templates/634
