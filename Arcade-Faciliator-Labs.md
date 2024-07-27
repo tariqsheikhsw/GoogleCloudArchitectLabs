@@ -8,8 +8,11 @@
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/tree/main/Solutions
 
 
-1-7) 7 Easy Pre-Assessment Labs  ✅    
+1-6) 6 Easy Pre-Assessment Labs  ✅    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
+
+7. Explore Generative AI with the Vertex AI Gemini API   ✅        
+https://www.cloudskillsboost.google/course_templates/959
  
 ### Rest of Labs List below  (Sequence Wise)   
 
@@ -100,10 +103,7 @@ https://www.cloudskillsboost.google/course_templates/647
 36. Prompt Design in Vertex AI   ✅    
 https://www.cloudskillsboost.google/course_templates/976
 
-37. Explore Generative AI with the Vertex AI Gemini API   ✅      
-https://www.cloudskillsboost.google/course_templates/959
-
-38. Classify Images with TensorFlow on Google Cloud    
+37. Classify Images with TensorFlow on Google Cloud    
 https://www.cloudskillsboost.google/course_templates/646
 
 
