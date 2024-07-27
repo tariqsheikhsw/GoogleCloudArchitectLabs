@@ -1,8 +1,5 @@
 # Arcade Faciliator Labs
 
-# CSB Link   
- https://www.cloudskillsboost.google/public_profiles/4f1f390f-9d93-46c6-a93b-1ad817aecaa6 
-
 ### ULTRA EASY SKILL BADGES   
 
 ### (FOCUS ON  Ultra Easy : Cloud Storage, ML , Natural Language , Cloud Speech etc. ) 
