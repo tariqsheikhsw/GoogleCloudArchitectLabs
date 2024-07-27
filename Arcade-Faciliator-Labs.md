@@ -3,6 +3,8 @@
 ### ULTRA EASY SKILL BADGES   
 
 ### (FOCUS ON  Ultra Easy : Cloud Storage, ML , Natural Language , Cloud Speech etc. ) 
+
+### LAB SOLUTIONS (just go to https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/tree/main/Solutions and look for Lab GSP number or ARC number)  
  
 1-6) 6 Easy Pre-Assessment Labs  ✅    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
