@@ -8,102 +8,102 @@
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/tree/main/Solutions
 
 
-1-6) 6 Easy Pre-Assessment Labs  ✅    
+1-7) 7 Easy Pre-Assessment Labs  ✅    
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/PreAssessmentLabs.md  
  
-7) GenAI Lab  ✅  
-https://www.cloudskillsboost.google/course_templates/1076
-
 ### Rest of Labs List below  (Sequence Wise)   
 
-8. Implement Load Balancing on Compute Engine  ✅   
+8. Build Real World AI Applications with Gemini and Imagen ✅      
+https://www.cloudskillsboost.google/course_templates/1076  
+
+9. Implement Load Balancing on Compute Engine  ✅   
 https://www.cloudskillsboost.google/course_templates/648 
 
-9. App Engine: 3 Ways    ✅   
+10. App Engine: 3 Ways    ✅   
 https://www.cloudskillsboost.google/course_templates/671    
 
-10. Cloud Speech API: 3 Ways      
+11. Cloud Speech API: 3 Ways      
 https://www.cloudskillsboost.google/course_templates/700  
 
-11. Cloud Functions: 3 Ways  ✅   
+12. Cloud Functions: 3 Ways  ✅   
 https://www.cloudskillsboost.google/course_templates/696  
 
-12. Build Google Cloud Infrastructure for AWS Professionals  ✅   
+13. Build Google Cloud Infrastructure for AWS Professionals  ✅   
 https://www.cloudskillsboost.google/course_templates/687
 
-13. Build Google Cloud Infrastructure for Azure Professionals  ✅   
+14. Build Google Cloud Infrastructure for Azure Professionals  ✅   
 https://www.cloudskillsboost.google/course_templates/688
 
-14. Get Started with Cloud Storage  ✅  
+15. Get Started with Cloud Storage  ✅  
 https://www.cloudskillsboost.google/course_templates/725  
 
-15. Use APIs to Work with Cloud Storage ✅  
+16. Use APIs to Work with Cloud Storage ✅  
 https://www.cloudskillsboost.google/course_templates/755  
 
-16. Create a Streaming Data Lake on Cloud Storage  ✅   
+17. Create a Streaming Data Lake on Cloud Storage  ✅   
 https://www.cloudskillsboost.google/course_templates/705  
 
-17. Create a Secure Data Lake on Cloud Storage   ✅   
+18. Create a Secure Data Lake on Cloud Storage   ✅   
 https://www.cloudskillsboost.google/course_templates/704
 
-18. Store, Process, and Manage Data on Google Cloud - Console  ✅  
+19. Store, Process, and Manage Data on Google Cloud - Console  ✅  
 https://www.cloudskillsboost.google/course_templates/658  
 
-19. Store, Process, and Manage Data on Google Cloud - Command Line  ✅  
+20. Store, Process, and Manage Data on Google Cloud - Command Line  ✅  
 https://www.cloudskillsboost.google/course_templates/659  
 
-20. Get Started with Pub/Sub   ✅   
+21. Get Started with Pub/Sub   ✅   
 https://www.cloudskillsboost.google/course_templates/728  
 
-21. The Basics of Google Cloud Compute   ✅  
+22. The Basics of Google Cloud Compute   ✅  
 https://www.cloudskillsboost.google/course_templates/754  
 
-22. Networking Fundamentals on Google Cloud  ✅  
+23. Networking Fundamentals on Google Cloud  ✅  
 https://www.cloudskillsboost.google/course_templates/748  
 
-23. Get Started with Eventarc   ✅    
+24. Get Started with Eventarc   ✅    
 https://www.cloudskillsboost.google/course_templates/727  
 
-24. Monitor and Manage Google Cloud Resources   ✅    
+25. Monitor and Manage Google Cloud Resources   ✅    
 https://www.cloudskillsboost.google/course_templates/653
 
-25. Build a Data Warehouse with BigQuery  ✅   
+26. Build a Data Warehouse with BigQuery  ✅   
 https://www.cloudskillsboost.google/course_templates/624
 
-26. Use Machine Learning APIs on Google Cloud     ✅   
+27. Use Machine Learning APIs on Google Cloud     ✅   
 https://www.cloudskillsboost.google/course_templates/630
 
-27. Analyze Images with the Cloud Vision API   ✅  
+28. Analyze Images with the Cloud Vision API   ✅  
 https://www.cloudskillsboost.google//course_templates/633
 
-28. Tag and Discover BigLake Data   ✅    
+29. Tag and Discover BigLake Data   ✅    
 https://www.cloudskillsboost.google//course_templates/753
 
-29. Develop your Google Cloud Network   ✅     
+30. Develop your Google Cloud Network   ✅     
 https://www.cloudskillsboost.google/course_templates/625
 
-30. Analyze Sentiment with Natural Language API   ✅    
+31. Analyze Sentiment with Natural Language API   ✅    
 https://www.cloudskillsboost.google/course_templates/667
 
-31. Create ML Models with BigQuery ML   ✅    
+32. Create ML Models with BigQuery ML   ✅    
 https://www.cloudskillsboost.google/course_templates/626
 
-32. Using the Google Cloud Speech API   ✅   
+33. Using the Google Cloud Speech API   ✅   
 https://www.cloudskillsboost.google/course_templates/756
 
-33. Analyze Speech and Language with Google APIs     ✅  
+34. Analyze Speech and Language with Google APIs     ✅  
 https://www.cloudskillsboost.google/course_templates/634
 
-34. Get Started with Looker    ✅    
+35. Get Started with Looker    ✅    
 https://www.cloudskillsboost.google/course_templates/647
 
-35. Prompt Design in Vertex AI   ✅    
+36. Prompt Design in Vertex AI   ✅    
 https://www.cloudskillsboost.google/course_templates/976
 
-36. Explore Generative AI with the Vertex AI Gemini API   ✅      
+37. Explore Generative AI with the Vertex AI Gemini API   ✅      
 https://www.cloudskillsboost.google/course_templates/959
 
-37. Classify Images with TensorFlow on Google Cloud    
+38. Classify Images with TensorFlow on Google Cloud    
 https://www.cloudskillsboost.google/course_templates/646
 
 
