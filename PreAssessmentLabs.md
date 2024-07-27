@@ -47,3 +47,8 @@ https://www.cloudskillsboost.google/course_templates/639
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP376.md  
 
 P.S. :  GSP467 : Google Meet: Getting Started (has to be completed manually)  
+
+Refer below for Easy Skill Badges list : 
+
+🔘 Arcade Faciliator Labs  
+🔗 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Arcade-Faciliator-Labs.md
