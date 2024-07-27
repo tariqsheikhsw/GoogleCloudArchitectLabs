@@ -130,7 +130,7 @@ https://www.cloudskillsboost.google/course_templates/747
 Y02. Secure BigLake Data   (MANUAL TASKS in CHALLENGE LAB)  ✅    
 https://www.cloudskillsboost.google/course_templates/751
 
-Y03. Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (ISSUE in LAST STEP in GSP767)    🔘 ONE LAB PENDING  
+Y03. Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (LAST STEP in GSP767)    🔘 ONE LAB PENDING  
 https://www.cloudskillsboost.google/course_templates/655
 
 Y04. Build a Website on Google Cloud (time consuming)  🔘 ONE LAB PENDING   
