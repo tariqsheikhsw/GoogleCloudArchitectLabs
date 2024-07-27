@@ -1,4 +1,4 @@
-### Pre-Assessment GCP Labs (6 Labs=6 Skill Badges)
+### Pre-Assessment GCP Labs (7 Labs=7 Skill Badges)
 
 ![image](https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/assets/54164634/0787acc1-2834-4a45-871b-b508cd168718)
 
@@ -47,6 +47,14 @@ https://www.cloudskillsboost.google/course_templates/639
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP376.md  
 
 P.S. :  GSP467 : Google Meet: Getting Started (has to be completed manually)  
+
+✅ Build LookML Objects in Looker  
+🔗https://www.cloudskillsboost.google/course_templates/639  
+
+🔘 Build LookML Objects in Looker: Challenge Lab     
+🔗 https://www.cloudskillsboost.google/course_templates/639/labs/468841  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP361.md  
+
 
 Refer below for Easy Skill Badges list : 
 
