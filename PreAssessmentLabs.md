@@ -52,3 +52,5 @@ Refer below for Easy Skill Badges list :
 
 🔘 Arcade Faciliator Labs  
 🔗 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Arcade-Faciliator-Labs.md
+[✔️] LAB SOLUTIONS (just go to Solutions folder below and look for Lab GSP/ARC number)    
+https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/tree/main/Solutions
