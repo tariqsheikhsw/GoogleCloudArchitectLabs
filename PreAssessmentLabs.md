@@ -7,42 +7,42 @@
 ✅ Set Up an App Dev Environment on Google Cloud    
 🔗https://www.cloudskillsboost.google/course_templates/637
 
-🔘 Set Up an App Dev Environment on Google Cloud: Challenge Lab  
+🔘(1) Set Up an App Dev Environment on Google Cloud: Challenge Lab  
 🔗https://www.cloudskillsboost.google/course_templates/637/labs/464359    
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP315.md
 
 ✅ Implement DevOps Workflows in Google Cloud    
 🔗https://www.cloudskillsboost.google/course_templates/716
 
-🔘 Implement DevOps Workflows in Google Cloud: Challenge Lab   
+🔘(2) Implement DevOps Workflows in Google Cloud: Challenge Lab   
 🔗https://www.cloudskillsboost.google/course_templates/716/labs/464399  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP330.md  
 
 ✅ Use Functions, Formulas, and Charts in Google Sheets  
 🔗https://www.cloudskillsboost.google/course_templates/776
 
-🔘 Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab   
+🔘(3) Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab   
 🔗https://www.cloudskillsboost.google/course_templates/776/labs/423784  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP379.md  
 
 ✅ Build LookML Objects in Looker  
 https://www.cloudskillsboost.google/course_templates/639
 
-🔘 Build LookML Objects in Looker: Challenge Lab   
+🔘(4) Build LookML Objects in Looker: Challenge Lab   
 🔗https://www.cloudskillsboost.google/paths/18/course_templates/639/labs/468841  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP361.md  
 
 ✅ Deploy Kubernetes Applications on Google Cloud  
 🔗https://www.cloudskillsboost.google/course_templates/663
 
-🔘 Deploy Kubernetes Applications on Google Cloud: Challenge Lab   
+🔘(5) Deploy Kubernetes Applications on Google Cloud: Challenge Lab   
 🔗https://www.cloudskillsboost.google/paths/19/course_templates/663/labs/464654  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP318.md  
 
 ✅ Get Started with Google Workspace Tools  
 🔗https://www.cloudskillsboost.google/course_templates/676
 
-🔘 Get Started with Google Workspace Tools: Challenge Lab  
+🔘(6) Get Started with Google Workspace Tools: Challenge Lab  
 🔗https://www.cloudskillsboost.google/catalog_lab/4935  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP376.md  
 
@@ -51,7 +51,7 @@ P.S. :  GSP467 : Google Meet: Getting Started (has to be completed manually)
 ✅ Build LookML Objects in Looker  
 🔗https://www.cloudskillsboost.google/course_templates/639  
 
-🔘 Build LookML Objects in Looker: Challenge Lab     
+🔘(7) Build LookML Objects in Looker: Challenge Lab     
 🔗 https://www.cloudskillsboost.google/course_templates/639/labs/468841  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP361.md  
 
