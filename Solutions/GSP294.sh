@@ -20,7 +20,7 @@ curl -X POST --data-binary @values.json \
 #TASK 5
 
 
-wget https://github.com/quiccklabs/Labs_solutions/blob/master/Extract%20Analyze%20and%20Translate%20Text%20from%20Images%20with%20the%20Cloud%20ML%20APIs/sign.jpg
+wget https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP294/sign.jpg
 
 mv sign.jpg demo-image.png
 
