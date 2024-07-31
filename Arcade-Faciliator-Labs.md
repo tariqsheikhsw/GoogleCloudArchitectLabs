@@ -113,8 +113,8 @@ https://www.cloudskillsboost.google/course_templates/646
 X01. Build Infrastructure with Terraform on Google Cloud   ✅      
 https://www.cloudskillsboost.google/course_templates/636
 
-X02. Get Started with API Gateway ✅   (Consumes lot of time)  
-https://www.cloudskillsboost.google/course_templates/662/labs/461587
+X02. Get Started with API Gateway ✅   (ARC109 : Consumes lot of time)    
+https://www.cloudskillsboost.google/course_templates/662
 
 X03. Cloud Architecture: Design, Implement, and Manage      ✅     
 https://www.cloudskillsboost.google/course_templates/640
