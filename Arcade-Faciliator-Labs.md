@@ -137,7 +137,7 @@ https://www.cloudskillsboost.google/course_templates/751
 Y03. Optimize Costs for Google Kubernetes Engine  (LENGTHY) - (LAST STEP in GSP767)    🔘 ONE LAB PENDING  
 https://www.cloudskillsboost.google/course_templates/655
 
-Y04. Build a Website on Google Cloud (time consuming)  🔘 ONE LAB PENDING   
+Y04. Build a Website on Google Cloud (GSP699 : MANUAL : time consuming)  ✅     
 https://www.cloudskillsboost.google/course_templates/638  
 
 Y05. Get Started with Dataplex     
