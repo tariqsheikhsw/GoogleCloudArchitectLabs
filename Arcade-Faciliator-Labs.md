@@ -179,3 +179,15 @@ https://www.cloudskillsboost.google/course_templates/702
 
 Integrate BigQuery Data and Google Workspace using Apps Script    
 https://www.cloudskillsboost.google//course_templates/737
+
+Implement Cloud Security Fundamentals on Google Cloud   
+https://www.cloudskillsboost.google/course_templates/645
+
+Engineer Data for Predictive Modeling with BigQuery ML  
+https://www.cloudskillsboost.google/course_templates/627
+
+Perform Predictive Data Analysis in BigQuery  
+(Predict Soccer Match Outcomes with BigQuery ML)  
+https://www.cloudskillsboost.google/course_templates/656
+
+  
