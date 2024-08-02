@@ -1,4 +1,4 @@
-# Arcade Faciliator Labs
+# Arcade Facilitator Labs
 
 ### ULTRA EASY SKILL BADGES   
 
