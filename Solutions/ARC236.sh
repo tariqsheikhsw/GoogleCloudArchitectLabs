@@ -29,7 +29,6 @@ while true; do
     break
   else
     echo "Waiting for Cloud Function to be deployed..."
-    echo "In the meantime, subscribe to Quicklab at https://www.youtube.com/@quick_lab."
     sleep 10
   fi
 done
