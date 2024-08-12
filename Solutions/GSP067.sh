@@ -39,6 +39,6 @@ gcloud app create --region=$REGION
 
 yes | gcloud app deploy
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Lab Completed !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
