@@ -2,7 +2,7 @@
 
 Run the following Commands in CloudShell
 ```
-export REGION=
+export REGION=us-east1
 ```
 
 ```
