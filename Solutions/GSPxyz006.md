@@ -3,7 +3,7 @@
 Run the following Commands in CloudShell
 
 ```
-export ZONE=us-central1
+export ZONE=us-central1-c
 ```
 
 ```
