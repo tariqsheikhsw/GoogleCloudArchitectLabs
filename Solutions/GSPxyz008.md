@@ -3,9 +3,9 @@
 Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Apply%20RFM%20method%20to%20segment%20customer%20data/shell.sh
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPxyz008.sh
 
-sudo chmod +x shell.sh
+sudo chmod +x GSPxyz008.sh
 
-./shell.sh
+./GSPxyz008.sh
 ```
