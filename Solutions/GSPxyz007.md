@@ -24,6 +24,7 @@ customers
 ```
 export REGION=
 ```
+
 ```
 curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/shell.sh
 
