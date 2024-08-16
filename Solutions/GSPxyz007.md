@@ -40,3 +40,9 @@ sudo chmod +x shell.sh
 | lastname  | string | Sherman |
 
 ### Lab Completed !!! 
+
+### ALTERNATIVE (ALSO VALID) 
+
+```
+https://github.com/quiccklabs/Labs_solutions/blob/15a46ea59b3a4e7d581cbf01087bc340ff5e79e6/Integrating%20Cloud%20Functions%20with%20Firestore/Integrating%20Cloud%20Functions%20with%20Firestore.md
+```
