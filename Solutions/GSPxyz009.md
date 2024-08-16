@@ -6,9 +6,9 @@ export REGION=us-east1
 ```
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Containerized%20Application%20with%20Buildpacks/shell.sh
+curl -LO https://raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSPxyz009.sh
 
-sudo chmod +x shell.sh
+sudo chmod +x GSPxyz009.sh
 
-./shell.sh
+./GSPxyz009.sh
 ```
