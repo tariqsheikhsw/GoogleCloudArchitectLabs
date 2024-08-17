@@ -41,7 +41,7 @@
 Open the **Cloud Shell** terminal window.
 
 ```
-export REGION=
+export REGION=us-west1
 ```
 
 ```bash
