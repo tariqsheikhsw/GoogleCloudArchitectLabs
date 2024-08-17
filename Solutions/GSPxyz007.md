@@ -70,7 +70,7 @@ sudo chmod +x quicklab.sh
 
 ALTERNATIVE (ALSO VALID)
 
----
+```bash
 https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/edit/main/Solutions/GSPxyz007.md
----
+```
 
