@@ -1,4 +1,4 @@
-// just change ZONE
+//just change ZONE
 
 gcloud compute networks create vpc-cluster --bgp-routing-mode=regional --subnet-mode=custom
 gcloud compute networks subnets create cluster --network=vpc-cluster --range=192.168.110.0/24 --region=us-east4 --enable-private-ip-google-access
