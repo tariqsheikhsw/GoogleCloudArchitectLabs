@@ -1,7 +1,7 @@
 ### GSPaaa :  Deploying GKE Autopilot Clusters from Cloud Shell 
 
 ```
-export REGION=europe-west4
+export REGION=us-east1
 ```
 
 ```
