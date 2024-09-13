@@ -135,13 +135,13 @@ exit
 # REPLACE VARIABLE VALUES WITH YOUR LAB VALUES
 
 
-export VPC_NAME=vpc-network-dhuu
+export VPC_NAME=vpc-network-djcp  
 
-export SUBNET1=subnet-a-dpgy
+export SUBNET1=subnet-a-xh71
 
 export REGION1=us-west1
 
-export SUBNET2=subnet-b-0ta7
+export SUBNET2=subnet-b-kii3
 
 export REGION2=us-east1
 
