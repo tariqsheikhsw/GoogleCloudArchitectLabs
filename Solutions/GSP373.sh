@@ -73,7 +73,7 @@ echo "${CYAN}${BOLD}Fetch the developer email and prepare details file${RESET}"
 EMAIL="$(gcloud config get-value core/account)"
 
 cat > details.json << EOF
-  App name: quickgcplab
+  App name: GSPLAB
   Authorized domains: $AUTH_DOMAIN
   Developer contact email: $EMAIL
 EOF
@@ -142,94 +142,3 @@ function random_thank_you() {
     echo -e "${BOLD}${MESSAGES[$RANDOM_INDEX]}"
 }
 
-# Function to display a random question
-function random_question() {
-    QUESTIONS=(
-        "Have you subscribed to the YouTube channel yet? [Y/N]"
-        "Did you hit the subscribe button on our YouTube channel? [Y/N]"
-        "Are you part of our growing community on YouTube? [Y/N]"
-        "Did you join the fun by subscribing to QUICK GCP LAB? [Y/N]"
-        "Have you clicked the subscribe button for new tutorials? [Y/N]"
-        "Are you a subscriber to our YouTube channel? [Y/N]"
-        "Want to stay updated with our latest content? Subscribe now! [Y/N]"
-        "Ready to dive deeper into cloud computing with us? Subscribe! [Y/N]"
-        "Would you like to keep learning with us? Hit subscribe! [Y/N]"
-        "Do you enjoy our content? Subscribe to stay updated! [Y/N]"
-        "Do you want to see more labs and tutorials? Subscribe to our channel! [Y/N]"
-    )
-    RANDOM_INDEX=$((RANDOM % ${#QUESTIONS[@]}))
-    echo -e "${BOLD}${WHITE}${QUESTIONS[$RANDOM_INDEX]}${RESET}"
-}
-
-# Function to display the "Please Subscribe" message with variety
-function random_subscribe_message() {
-    MESSAGES=(
-        "${BOLD}${RED}Please ${GREEN}Subscribe ${YELLOW}to ${BLUE}QUICK ${MAGENTA}GCP ${CYAN}LAB!${RESET}"
-        "${BOLD}${CYAN}Don’t miss out! Subscribe to ${MAGENTA}QUICK ${GREEN}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${RED}Hit that subscribe button for more amazing content from ${CYAN}QUICK ${GREEN}GCP ${MAGENTA}LAB!${RESET}"
-        "${BOLD}${YELLOW}Join the ${GREEN}QUICK ${CYAN}GCP ${MAGENTA}LAB community! Subscribe now!${RESET}"
-        "${BOLD}${BLUE}Want more tutorials? ${MAGENTA}SUBSCRIBE ${YELLOW}to ${CYAN}QUICK ${GREEN}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${RED}Your subscription helps us bring more tutorials to you! Please ${CYAN}subscribe to ${MAGENTA}QUICK ${GREEN}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${YELLOW}Subscribe to ${CYAN}QUICK ${MAGENTA}GCP ${GREEN}LAB to stay updated on all our tutorials!${RESET}"
-        "${BOLD}${CYAN}Keep learning with us! ${GREEN}Subscribe to ${MAGENTA}QUICK ${YELLOW}GCP ${RED}LAB!${RESET}"
-        "${BOLD}${MAGENTA}Support us and get access to exclusive tutorials by subscribing to ${CYAN}QUICK ${GREEN}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${BLUE}Love the content? Subscribe to ${MAGENTA}QUICK ${CYAN}GCP ${GREEN}LAB!${RESET}"
-        "${BOLD}${RED}Help us grow by subscribing to ${CYAN}QUICK ${MAGENTA}GCP ${YELLOW}LAB! Your support is crucial!${RESET}"
-        "${BOLD}${GREEN}Don’t forget to hit subscribe to stay up to date with ${CYAN}QUICK ${MAGENTA}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${YELLOW}Want to join the ${BLUE}QUICK ${MAGENTA}GCP ${CYAN}LAB family? Hit subscribe!${RESET}"
-        "${BOLD}${MAGENTA}We appreciate your support! Please ${CYAN}subscribe to ${GREEN}QUICK ${RED}GCP ${BLUE}LAB!${RESET}"
-        "${BOLD}${CYAN}Your subscription makes a difference! Help us grow by subscribing to ${MAGENTA}QUICK ${YELLOW}GCP ${GREEN}LAB!${RESET}"
-        "${BOLD}${RED}Every click counts! Please subscribe to ${BLUE}QUICK ${MAGENTA}GCP ${CYAN}LAB!${RESET}"
-    )
-    RANDOM_INDEX=$((RANDOM % ${#MESSAGES[@]}))
-    echo -e "${BOLD}${MESSAGES[$RANDOM_INDEX]}"
-}
-
-# Display a random congratulatory message
-random_congrats
-
-# Add a single blank line between congratulatory message and the prompt
-echo -e "\n"  # Adding one blank line
-
-# Display a random question
-random_question
-
-# Read the user input
-read -p "Enter your choice: " CHOICE
-
-echo -e "\n"  # Adding one blank line
-
-# Handle user input
-case "${CHOICE^^}" in
-    Y)
-        random_thank_you
-        ;;
-    N)
-        random_subscribe_message
-        echo -e "${BOLD}${CYAN}https://www.youtube.com/@quickgcplab${RESET}"
-        ;;
-    *)
-        echo -e "${BOLD}${RED}Invalid choice! Please enter Y or N.${RESET}"
-        ;;
-esac
-
-echo -e "\n"  # Adding one blank line
-
-cd
-
-remove_files() {
-    # Loop through all files in the current directory
-    for file in *; do
-        # Check if the file name starts with "gsp", "arc", or "shell"
-        if [[ "$file" == gsp* || "$file" == arc* || "$file" == shell* ]]; then
-            # Check if it's a regular file (not a directory)
-            if [[ -f "$file" ]]; then
-                # Remove the file and echo the file name
-                rm "$file"
-                echo "File removed: $file"
-            fi
-        fi
-    done
-}
-
-remove_files
