@@ -5,7 +5,7 @@
 ✅  Implement Load Balancing on Compute Engine    
 🔗  https://www.cloudskillsboost.google/course_templates/648  
 
-🔘 (2)  Getting Started with Cloud Shell and gcloud 
+🔘 (2)  Getting Started with Cloud Shell and gcloud   
 🔗 https://www.cloudskillsboost.google/course_templates/648/labs/484534    
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP002.md   
 
