@@ -89,6 +89,11 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1036.md    
 
 
+🔘 (2)   Multiple VPC Networks   
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464657  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP211.md  
+
+
 
 ### WEEK4 SKILL BADGE  
 
