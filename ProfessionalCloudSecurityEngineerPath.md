@@ -90,6 +90,13 @@
 🔗  https://www.cloudskillsboost.google/course_templates/784 
 
 
+
+🔘 (1)  Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust       
+🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515000    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP946.md  
+
+
+
 🔘 (4)  Protect Cloud Traffic with Chrome Enterprise Premium Security: Challenge Lab     
 🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515003    
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP373.md  
