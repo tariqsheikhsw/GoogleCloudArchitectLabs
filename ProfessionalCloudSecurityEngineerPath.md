@@ -52,9 +52,9 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP199.md  
 
 
-🔘 (4)   
-🔗 https://www.cloudskillsboost.google/ 
-[✔️] Lab Solution :   
+🔘 (4)  VPC Network Peering   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489295  
+[✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP193.md    
 
 
 🔘 (5)   
