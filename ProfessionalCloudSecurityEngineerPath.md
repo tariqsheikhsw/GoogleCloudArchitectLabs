@@ -47,9 +47,9 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP190.md  
 
 
-🔘 (3)   
-🔗 https://www.cloudskillsboost.google/ 
-[✔️] Lab Solution :   
+🔘 (3)  Service Accounts and Roles: Fundamentals   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489294    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP199.md  
 
 
 🔘 (4)   
