@@ -106,8 +106,8 @@
 
 
 🔘 (5)  Create an Internal Load Balancer   
-🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464660
-[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP216.md   
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464660  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP216.md     
 
 
 🔘 (6)  Build a Secure Google Cloud Network: Challenge Lab     
