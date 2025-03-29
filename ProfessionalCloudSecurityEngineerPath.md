@@ -96,6 +96,10 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP946.md  
 
 
+🔘 (2)   Securing Virtual Machines using Chrome Enterprise Premium   
+🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515001  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1036.md  
+
 
 🔘 (4)  Protect Cloud Traffic with Chrome Enterprise Premium Security: Challenge Lab     
 🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515003    
