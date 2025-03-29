@@ -37,6 +37,29 @@
 ###  ✅  Implement Cloud Security Fundamentals on Google Cloud   
 🔗  https://www.cloudskillsboost.google/course_templates/645  
 
+🔘 (1)   Cloud IAM: Qwik Start   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489292 
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP064.md  
+
+
+🔘 (2)   
+🔗 https://www.cloudskillsboost.google/ 
+[✔️] Lab Solution :   
+
+
+🔘 (3)   
+🔗 https://www.cloudskillsboost.google/ 
+[✔️] Lab Solution :   
+
+
+🔘 (4)   
+🔗 https://www.cloudskillsboost.google/ 
+[✔️] Lab Solution :   
+
+
+🔘 (5)   
+🔗 https://www.cloudskillsboost.google/ 
+[✔️] Lab Solution :   
 
 
 ### WEEK3 SKILL BADGE  
