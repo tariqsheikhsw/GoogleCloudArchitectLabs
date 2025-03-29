@@ -147,6 +147,29 @@
 ###  ✅  Get Started with Sensitive Data Protection  
 🔗  https://www.cloudskillsboost.google/course_templates/750   
 
+🔘 (1)  Cloud Data Loss Prevention API: Qwik Start   
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510994  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP107.md 
+
+
+
+🔘 (2) Redacting Critical Data with Sensitive Data Protection      
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510995   
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP864.md
+
+
+
+🔘 (3)  Creating a De-identified Copy of Data in Cloud Storage 
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510996  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1073.md 
+
+
+
+🔘 (4)  Get Started with Sensitive Data Protection: Challenge Lab 
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510997    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC116.md  
+
+
 
 ### WEEK6 SKILL BADGE  
 
