@@ -25,3 +25,11 @@
 🔗 https://www.cloudskillsboost.google/course_templates/648/labs/484536  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP313.md  
 
+![image](https://github.com/user-attachments/assets/e3c08e0f-803b-4690-88d3-d448bfda9c87)
+
+![image](https://github.com/user-attachments/assets/ef6f2158-fa4e-483d-a2c8-69f1c701035a)
+
+![image](https://github.com/user-attachments/assets/ad6516dd-6a10-4dc2-b420-b6380d4ad86b)
+
+![image](https://github.com/user-attachments/assets/c7b67bc2-5519-46d7-9bfc-84abc9e45f6c)
+
