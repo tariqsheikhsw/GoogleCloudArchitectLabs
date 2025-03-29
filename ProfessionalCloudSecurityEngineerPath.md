@@ -67,6 +67,11 @@
 [✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP079.md  
 
 
+🔘 (7)   Setting up a Private Kubernetes Cluster   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489298  
+[✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP178.md  
+
+
 
 ### WEEK3 SKILL BADGE  
 
