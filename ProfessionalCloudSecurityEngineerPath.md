@@ -90,6 +90,11 @@
 🔗  https://www.cloudskillsboost.google/course_templates/784 
 
 
+🔘 (4)  Protect Cloud Traffic with Chrome Enterprise Premium Security: Challenge Lab     
+🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515003    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP373.md  
+
+
 ### WEEK5 SKILL BADGE  
 
 ###  ✅  Get Started with Sensitive Data Protection  
