@@ -1,5 +1,7 @@
 ### Professional Cloud Security Engineer Learning Plan Path
 
+![image](https://github.com/user-attachments/assets/e3c08e0f-803b-4690-88d3-d448bfda9c87)
+
 ### WEEK1 
 
 ###  ✅  Implement Load Balancing on Compute Engine 
@@ -25,7 +27,7 @@
 🔗 https://www.cloudskillsboost.google/course_templates/648/labs/484536  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP313.md  
 
-![image](https://github.com/user-attachments/assets/e3c08e0f-803b-4690-88d3-d448bfda9c87)
+
 
 ![image](https://github.com/user-attachments/assets/ef6f2158-fa4e-483d-a2c8-69f1c701035a)
 
