@@ -62,6 +62,12 @@
 [✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP499.md    
 
 
+🔘 (6)   Getting Started with Cloud KMS   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489297  
+[✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP079.md  
+
+
+
 ### WEEK3 SKILL BADGE  
 
 ###  ✅  Build a Secure Google Cloud Network  
