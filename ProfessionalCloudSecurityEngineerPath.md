@@ -57,9 +57,9 @@
 [✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP193.md    
 
 
-🔘 (5)   
-🔗 https://www.cloudskillsboost.google/ 
-[✔️] Lab Solution :   
+🔘 (5)  User Authentication: Identity-Aware Proxy      
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489296  
+[✔️] Lab Solution :  https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP499.md    
 
 
 ### WEEK3 SKILL BADGE  
