@@ -89,10 +89,30 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1036.md    
 
 
-🔘 (2)   Multiple VPC Networks   
+🔘 (2)  Multiple VPC Networks   
 🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464657  
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP211.md  
 
+
+🔘 (3)  VPC Networks - Controlling Access 
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464658   
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP213.md  
+
+
+
+🔘 (4)  Application Load Balancer with Cloud Armor   
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464659  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP215.md   
+
+
+🔘 (5)  Create an Internal Load Balancer 
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464660
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP216.md   
+
+
+🔘 (6)  Build a Secure Google Cloud Network: Challenge Lab     
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464661  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP322.md     
 
 
 ### WEEK4 SKILL BADGE  
