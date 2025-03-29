@@ -2,8 +2,8 @@
 
 ### WEEK1 
 
-###  ✅  Implement Load Balancing on Compute Engine    
-🔗  https://www.cloudskillsboost.google/course_templates/648  
+###  ✅  Implement Load Balancing on Compute Engine      
+###  🔗  https://www.cloudskillsboost.google/course_templates/648  
 
 🔘 (1)  Compute Engine: Qwik Start - Windows   
 🔗 https://www.cloudskillsboost.google/course_templates/648/labs/484533  
