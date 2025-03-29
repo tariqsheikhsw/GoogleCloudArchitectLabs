@@ -73,6 +73,11 @@
 
 
 
+🔘 (8)   Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489299  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP342.md  
+
+
 ### WEEK3 SKILL BADGE  
 
 ###  ✅  Build a Secure Google Cloud Network  
