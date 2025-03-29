@@ -84,6 +84,12 @@
 🔗  https://www.cloudskillsboost.google/course_templates/654  
 
 
+🔘 (1)  Securing Virtual Machines using BeyondCorp Enterprise (BCE)    
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464656  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1036.md    
+
+
+
 ### WEEK4 SKILL BADGE  
 
 ###  ✅  Protect Cloud Traffic with Chrome Enterprise Premium Security  
