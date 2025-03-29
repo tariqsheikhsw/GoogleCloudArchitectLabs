@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e3c08e0f-803b-4690-88d3-d448bfda9c87)
 
-### WEEK1 
+### WEEK1 SKILL BADGE  
 
 ###  ✅  Implement Load Balancing on Compute Engine 
 🔗  https://www.cloudskillsboost.google/course_templates/648  
