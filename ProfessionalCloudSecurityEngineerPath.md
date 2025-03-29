@@ -94,8 +94,8 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP211.md  
 
 
-🔘 (3)  VPC Networks - Controlling Access 
-🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464658   
+🔘 (3)  VPC Networks - Controlling Access   
+🔗 https://www.cloudskillsboost.google/course_templates/654/labs/464658     
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP213.md  
 
 
