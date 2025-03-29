@@ -101,6 +101,11 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1036.md  
 
 
+🔘 (3)   SSecuring Compute Engine Applications and Resources using Chrome Enterprise Premium   
+🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515002    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1033.md  
+
+
 🔘 (4)  Protect Cloud Traffic with Chrome Enterprise Premium Security: Challenge Lab     
 🔗 https://www.cloudskillsboost.google/course_templates/784/labs/515003    
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP373.md  
