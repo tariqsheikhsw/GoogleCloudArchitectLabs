@@ -37,14 +37,14 @@
 ###  ✅  Implement Cloud Security Fundamentals on Google Cloud   
 🔗  https://www.cloudskillsboost.google/course_templates/645  
 
-🔘 (1)   Cloud IAM: Qwik Start   
-🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489292 
-[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP064.md  
+🔘 (1)   Cloud IAM: Qwik Start     
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489292   
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP064.md    
 
 
-🔘 (2)   
-🔗 https://www.cloudskillsboost.google/ 
-[✔️] Lab Solution :   
+🔘 (2)  IAM Custom Roles   
+🔗 https://www.cloudskillsboost.google/course_templates/645/labs/489293    
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP190.md  
 
 
 🔘 (3)   
