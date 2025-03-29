@@ -34,9 +34,34 @@
 
 ### WEEK2 SKILL BADGE  
 
-###  ✅  Implement Cloud Security Fundamentals on Google Cloud  
- 
+###  ✅  Implement Cloud Security Fundamentals on Google Cloud   
 🔗  https://www.cloudskillsboost.google/course_templates/645  
+
+
+
+### WEEK3 SKILL BADGE  
+
+###  ✅  Build a Secure Google Cloud Network  
+🔗  https://www.cloudskillsboost.google/course_templates/654  
+
+
+### WEEK4 SKILL BADGE  
+
+###  ✅  Protect Cloud Traffic with Chrome Enterprise Premium Security  
+🔗  https://www.cloudskillsboost.google/course_templates/784 
+
+
+### WEEK5 SKILL BADGE  
+
+###  ✅  Get Started with Sensitive Data Protection  
+🔗  https://www.cloudskillsboost.google/course_templates/750   
+
+
+### WEEK6 SKILL BADGE  
+
+###  ✅  Monitor and Log with Google Cloud Observability  
+🔗  https://www.cloudskillsboost.google/course_templates/749  
+
 
 
 
