@@ -159,14 +159,14 @@
 
 
 
-🔘 (3)  Creating a De-identified Copy of Data in Cloud Storage 
-🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510996  
+🔘 (3)  Creating a De-identified Copy of Data in Cloud Storage    
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510996    
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP1073.md   
 
 
 
-🔘 (4)  Get Started with Sensitive Data Protection: Challenge Lab 
-🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510997    
+🔘 (4)  Get Started with Sensitive Data Protection: Challenge Lab   
+🔗 https://www.cloudskillsboost.google/course_templates/750/labs/510997      
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/ARC116.md    
 
 
