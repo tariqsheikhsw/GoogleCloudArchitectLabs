@@ -28,6 +28,13 @@
 [✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP313.md  
 
 
+### WEEK2 SKILL BADGE  
+
+###  ✅  Implement Cloud Security Fundamentals on Google Cloud  
+ 
+🔗  https://www.cloudskillsboost.google/course_templates/645  
+
+
 
 ![image](https://github.com/user-attachments/assets/ef6f2158-fa4e-483d-a2c8-69f1c701035a)
 
