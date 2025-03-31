@@ -177,6 +177,29 @@
 🔗  https://www.cloudskillsboost.google/course_templates/749  
 
 
+🔘 (1)  Cloud Monitoring: Qwik Start   
+🔗 https://www.cloudskillsboost.google/course_templates/749/labs/489771  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP089.md  
+
+
+🔘 (2)  Monitoring Multiple Projects with Cloud Monitoring   
+🔗 https://www.cloudskillsboost.google/course_templates/749/labs/489772      
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP090.md  
+
+
+🔘 (3)  Monitoring and Logging for Cloud Run Functions   
+🔗 https://www.cloudskillsboost.google/course_templates/749/labs/489773     
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP092.md 
+
+
+🔘 (4)  Creating and Alerting on Logs-based Metrics   
+🔗 https://www.cloudskillsboost.google/course_templates/749/labs/489774  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP091.md   
+
+
+🔘 (5)  Monitor and Log with Google Cloud Observability: Challenge Lab   
+🔗 https://www.cloudskillsboost.google/course_templates/749/labs/489775  
+[✔️] Lab Solution : https://github.com/tariqsheikhsw/GoogleCloudArchitectLabs/blob/main/Solutions/GSP338.md     
 
 
 
