@@ -34,7 +34,7 @@ gcloud compute instance-groups managed set-autoscaling instance-group-2 --zone=$
 
 gcloud compute instances create utility-vm --zone=$ZONE --machine-type=e2-micro --image=debian-10-buster-v20210701 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --network=my-internal-app --subnet=subnet-a --private-network-ip=10.10.20.50
 
-gcloud compute health-checks create tcp my-ilb-health-check --description="subscribe to techcps" --check-interval=5s --timeout=5s --unhealthy-threshold=2 --healthy-threshold=2 --port=80 --proxy-header=NONE
+gcloud compute health-checks create tcp my-ilb-health-check --description="my-ilb-health-check" --check-interval=5s --timeout=5s --unhealthy-threshold=2 --healthy-threshold=2 --port=80 --proxy-header=NONE
 
 TOKEN=$(gcloud auth application-default print-access-token)
 
@@ -74,7 +74,7 @@ cat > cp2.json <<EOF_CP
   "IPAddress": "10.10.30.5",
   "loadBalancingScheme": "INTERNAL",
   "allowGlobalAccess": false,
-  "description": "subscribe to techcps",
+  "description": "Internal LB IP address",
   "ipVersion": "IPV4",
   "backendService": "projects/$DEVSHELL_PROJECT_ID/regions/$REGION/backendServices/my-ilb",
   "IPProtocol": "TCP",
